@@ -1,0 +1,1501 @@
+Transaction_ID,Date,Year,Month,Day,User_ID,Transaction_Type,Category,Amount,Balance_After,Payment_Mode,Status,Merchant_Name,Location
+TXN00001,2024-07-15,2024,Jul,15,U159,Money Spent,Cashback,18998.04,7171.66,Mobile No,Success,Flipkart,Delhi
+TXN00002,2025-01-02,2025,Jan,2,U129,Money Added,Shopping,3492.71,46448.76,Mobile No,Success,-,Pune
+TXN00003,2024-06-13,2024,Jun,13,U165,Money Sent,Shopping,8983.52,40856.72,Wallet,Failed,Flipkart,Delhi
+TXN00004,2023-02-19,2023,Feb,19,U110,Money Added,Bills,10000.07,46706.67,Bank Transfer,Pending,-,Chennai
+TXN00005,2023-07-28,2023,Jul,28,U175,Money Added,Travel,13560.07,31177.56,UPI ID,Pending,-,Hyderabad
+TXN00006,2024-01-29,2024,Jan,29,U98,Money Added,Entertainment,8766.44,35237.52,QR Code,Success,-,Delhi
+TXN00007,2024-12-09,2024,Dec,9,U163,Money Sent,Bills,5025.75,37281.02,Bank Transfer,Success,Amazon,Delhi
+TXN00008,2023-02-22,2023,Feb,22,U43,Money Spent,Entertainment,13529.49,24936.8,Bank Transfer,Pending,Uber,Pune
+TXN00009,2025-01-13,2025,Jan,13,U150,Money Spent,Food,3373.69,38052.0,Mobile No,Success,Flipkart,Mumbai
+TXN00010,2024-02-10,2024,Feb,10,U179,Money Spent,Investment,19777.85,6714.57,Bank Transfer,Pending,Amazon,Pune
+TXN00011,2023-10-07,2023,Oct,7,U195,Money Sent,Entertainment,16973.69,3156.57,UPI ID,Success,BigBasket,Kolkata
+TXN00012,2023-02-17,2023,Feb,17,U49,Money Spent,Entertainment,17494.11,11257.43,QR Code,Pending,Netflix,Bangalore
+TXN00013,2023-05-30,2023,May,30,U77,Money Spent,Groceries,7656.86,15768.76,Mobile No,Success,Flipkart,Delhi
+TXN00014,2023-08-23,2023,Aug,23,U83,Money Sent,Bills,17771.45,16539.56,Mobile No,Failed,Swiggy,Mumbai
+TXN00015,2024-02-08,2024,Feb,8,U30,Money Sent,Shopping,4981.37,2979.56,QR Code,Failed,BigBasket,Mumbai
+TXN00016,2024-11-12,2024,Nov,12,U121,Money Added,Cashback,17920.86,36775.83,Mobile No,Success,-,Delhi
+TXN00017,2024-07-07,2024,Jul,7,U132,Money Sent,Investment,5561.86,45534.8,UPI ID,Failed,Zomato,Hyderabad
+TXN00018,2024-03-03,2024,Mar,3,U75,Money Spent,Entertainment,13045.67,14702.55,Wallet,Failed,Electricity Board,Delhi
+TXN00019,2023-04-08,2023,Apr,8,U44,Money Added,Bills,8386.37,7800.21,Mobile No,Pending,-,Delhi
+TXN00020,2023-10-14,2023,Oct,14,U15,Money Spent,Bills,12068.72,539.09,QR Code,Failed,Uber,Hyderabad
+TXN00021,2023-07-11,2023,Jul,11,U200,Money Spent,Investment,7177.63,13774.99,Mobile No,Pending,Swiggy,Mumbai
+TXN00022,2023-09-27,2023,Sep,27,U30,Money Sent,Travel,7686.98,38377.94,UPI ID,Pending,Flipkart,Chennai
+TXN00023,2025-02-13,2025,Feb,13,U173,Money Spent,Food,15987.07,7247.36,UPI ID,Pending,Zomato,Hyderabad
+TXN00024,2023-10-16,2023,Oct,16,U121,Money Spent,Shopping,3269.84,35834.8,QR Code,Failed,Electricity Board,Bangalore
+TXN00025,2024-03-12,2024,Mar,12,U54,Money Spent,Shopping,3488.99,45052.03,Mobile No,Pending,Netflix,Delhi
+TXN00026,2024-07-03,2024,Jul,3,U135,Money Spent,Shopping,4478.7,3383.57,UPI ID,Success,IRCTC,Delhi
+TXN00027,2023-04-30,2023,Apr,30,U32,Money Added,Cashback,15931.55,8808.47,UPI ID,Failed,-,Chennai
+TXN00028,2023-04-24,2023,Apr,24,U185,Money Sent,Entertainment,9321.7,23227.67,UPI ID,Success,Swiggy,Pune
+TXN00029,2024-05-29,2024,May,29,U68,Money Added,Rent,1025.32,38752.3,Bank Transfer,Success,-,Delhi
+TXN00030,2023-10-08,2023,Oct,8,U145,Money Spent,Cashback,8479.65,46807.91,Mobile No,Pending,Electricity Board,Bangalore
+TXN00031,2023-12-26,2023,Dec,26,U96,Money Spent,Entertainment,16428.77,43833.5,QR Code,Success,Uber,Kolkata
+TXN00032,2023-08-23,2023,Aug,23,U53,Money Spent,Cashback,8888.33,27022.04,QR Code,Failed,Netflix,Bangalore
+TXN00033,2024-02-20,2024,Feb,20,U200,Money Sent,Rent,16756.45,22781.53,Wallet,Failed,Zomato,Pune
+TXN00034,2023-04-22,2023,Apr,22,U134,Money Sent,Rent,5769.49,25589.26,UPI ID,Pending,Flipkart,Pune
+TXN00035,2023-06-30,2023,Jun,30,U149,Money Sent,Travel,1135.49,38063.74,QR Code,Failed,Uber,Kolkata
+TXN00036,2024-04-06,2024,Apr,6,U8,Money Sent,Rent,3066.01,29123.0,Bank Transfer,Success,BigBasket,Mumbai
+TXN00037,2023-06-22,2023,Jun,22,U91,Money Spent,Entertainment,19872.06,7533.73,UPI ID,Success,Zomato,Pune
+TXN00038,2024-04-10,2024,Apr,10,U98,Money Added,Shopping,13690.07,29689.59,Mobile No,Pending,-,Delhi
+TXN00039,2024-12-07,2024,Dec,7,U113,Money Added,Groceries,2804.3,11119.03,Bank Transfer,Failed,-,Bangalore
+TXN00040,2023-03-23,2023,Mar,23,U41,Money Spent,Investment,11522.54,40380.72,Bank Transfer,Success,Netflix,Chennai
+TXN00041,2024-07-10,2024,Jul,10,U59,Money Spent,Entertainment,663.3,12560.03,QR Code,Success,Flipkart,Pune
+TXN00042,2024-04-20,2024,Apr,20,U79,Money Added,Travel,11634.1,40787.73,UPI ID,Success,-,Delhi
+TXN00043,2024-12-27,2024,Dec,27,U169,Money Added,Cashback,5478.73,35031.7,Wallet,Failed,-,Bangalore
+TXN00044,2024-01-12,2024,Jan,12,U25,Money Spent,Shopping,5362.52,47766.75,UPI ID,Success,Zomato,Hyderabad
+TXN00045,2023-09-01,2023,Sep,1,U73,Money Added,Travel,13022.99,2860.92,Wallet,Success,-,Bangalore
+TXN00046,2023-06-13,2023,Jun,13,U121,Money Added,Bills,6462.41,44337.92,Wallet,Success,-,Mumbai
+TXN00047,2023-11-24,2023,Nov,24,U189,Money Sent,Investment,12284.09,26208.79,Wallet,Failed,Zomato,Hyderabad
+TXN00048,2023-03-01,2023,Mar,1,U18,Money Added,Shopping,11174.42,33337.19,Bank Transfer,Failed,-,Kolkata
+TXN00049,2024-01-07,2024,Jan,7,U103,Money Sent,Investment,18272.75,46114.27,Bank Transfer,Pending,BigBasket,Hyderabad
+TXN00050,2023-06-28,2023,Jun,28,U89,Money Added,Bills,14419.59,7670.88,UPI ID,Failed,-,Kolkata
+TXN00051,2023-10-12,2023,Oct,12,U26,Money Sent,Investment,8653.06,19090.74,Bank Transfer,Pending,Flipkart,Pune
+TXN00052,2024-08-30,2024,Aug,30,U101,Money Sent,Bills,7309.13,42305.61,Bank Transfer,Success,Uber,Kolkata
+TXN00053,2023-05-01,2023,May,1,U112,Money Spent,Bills,17274.7,38378.97,Bank Transfer,Failed,Netflix,Delhi
+TXN00054,2023-04-26,2023,Apr,26,U131,Money Sent,Travel,19782.72,4342.88,Mobile No,Failed,Flipkart,Kolkata
+TXN00055,2023-03-15,2023,Mar,15,U38,Money Sent,Entertainment,18849.74,25224.34,Bank Transfer,Success,IRCTC,Pune
+TXN00056,2024-03-11,2024,Mar,11,U140,Money Added,Entertainment,13038.69,37000.28,Mobile No,Success,-,Delhi
+TXN00057,2023-08-26,2023,Aug,26,U96,Money Added,Bills,121.38,32205.62,QR Code,Failed,-,Chennai
+TXN00058,2023-05-25,2023,May,25,U143,Money Sent,Groceries,16699.66,43377.64,Wallet,Success,Netflix,Pune
+TXN00059,2023-07-24,2023,Jul,24,U78,Money Added,Investment,1119.06,18645.34,UPI ID,Success,-,Bangalore
+TXN00060,2023-03-23,2023,Mar,23,U124,Money Sent,Cashback,18160.31,48850.06,Mobile No,Failed,Zomato,Pune
+TXN00061,2024-10-15,2024,Oct,15,U170,Money Spent,Cashback,9954.4,22919.91,Mobile No,Failed,Flipkart,Kolkata
+TXN00062,2025-02-03,2025,Feb,3,U177,Money Added,Investment,736.97,16313.07,Wallet,Pending,-,Kolkata
+TXN00063,2023-08-22,2023,Aug,22,U66,Money Spent,Rent,19295.54,25900.32,QR Code,Pending,IRCTC,Kolkata
+TXN00064,2024-02-29,2024,Feb,29,U96,Money Spent,Food,15013.59,4013.8,Mobile No,Failed,IRCTC,Chennai
+TXN00065,2024-10-12,2024,Oct,12,U58,Money Added,Travel,18101.51,7567.23,Bank Transfer,Pending,-,Pune
+TXN00066,2024-12-29,2024,Dec,29,U182,Money Spent,Rent,18609.19,12245.13,QR Code,Pending,Swiggy,Pune
+TXN00067,2023-12-25,2023,Dec,25,U199,Money Spent,Bills,11339.46,43597.48,Mobile No,Success,Netflix,Bangalore
+TXN00068,2024-12-08,2024,Dec,8,U17,Money Spent,Rent,13825.9,26363.81,Mobile No,Pending,Zomato,Hyderabad
+TXN00069,2023-06-11,2023,Jun,11,U31,Money Sent,Investment,9450.48,37283.65,Wallet,Failed,Netflix,Delhi
+TXN00070,2023-01-30,2023,Jan,30,U85,Money Spent,Bills,7769.08,22967.7,Bank Transfer,Success,Electricity Board,Kolkata
+TXN00071,2024-08-30,2024,Aug,30,U52,Money Sent,Investment,18165.67,39810.01,Bank Transfer,Pending,IRCTC,Bangalore
+TXN00072,2023-03-16,2023,Mar,16,U47,Money Added,Shopping,18338.87,28645.46,Wallet,Success,-,Hyderabad
+TXN00073,2024-01-28,2024,Jan,28,U84,Money Spent,Investment,8845.38,16433.87,Mobile No,Pending,Swiggy,Pune
+TXN00074,2023-09-24,2023,Sep,24,U178,Money Sent,Shopping,7022.0,18996.0,Bank Transfer,Pending,Uber,Hyderabad
+TXN00075,2023-09-01,2023,Sep,1,U6,Money Spent,Entertainment,6195.76,45209.34,Bank Transfer,Pending,Amazon,Hyderabad
+TXN00076,2023-11-22,2023,Nov,22,U130,Money Sent,Rent,10069.79,38683.95,Wallet,Success,Uber,Kolkata
+TXN00077,2025-03-05,2025,Mar,5,U90,Money Spent,Shopping,15866.66,32477.07,Wallet,Failed,Zomato,Pune
+TXN00078,2023-03-12,2023,Mar,12,U26,Money Added,Travel,9811.85,17536.33,UPI ID,Pending,-,Kolkata
+TXN00079,2024-01-01,2024,Jan,1,U47,Money Added,Rent,19714.17,7261.77,Wallet,Pending,-,Mumbai
+TXN00080,2023-01-29,2023,Jan,29,U105,Money Added,Groceries,3405.96,40970.71,Mobile No,Pending,-,Mumbai
+TXN00081,2023-05-22,2023,May,22,U124,Money Sent,Entertainment,8007.01,36727.71,Mobile No,Pending,BigBasket,Bangalore
+TXN00082,2024-10-08,2024,Oct,8,U61,Money Sent,Shopping,16006.61,12462.33,Bank Transfer,Failed,BigBasket,Chennai
+TXN00083,2024-11-24,2024,Nov,24,U21,Money Sent,Cashback,8681.47,31043.78,Bank Transfer,Pending,Electricity Board,Delhi
+TXN00084,2025-01-06,2025,Jan,6,U63,Money Spent,Cashback,8893.33,8440.26,QR Code,Success,Zomato,Hyderabad
+TXN00085,2024-01-03,2024,Jan,3,U118,Money Added,Food,6209.2,32802.09,Wallet,Failed,-,Kolkata
+TXN00086,2023-04-23,2023,Apr,23,U45,Money Sent,Shopping,5459.66,5226.9,UPI ID,Pending,IRCTC,Kolkata
+TXN00087,2023-06-02,2023,Jun,2,U133,Money Added,Entertainment,19156.45,25500.78,QR Code,Failed,-,Chennai
+TXN00088,2024-09-23,2024,Sep,23,U90,Money Sent,Groceries,18042.15,32627.96,QR Code,Pending,Swiggy,Kolkata
+TXN00089,2024-05-16,2024,May,16,U2,Money Spent,Rent,828.28,8250.05,Wallet,Failed,IRCTC,Delhi
+TXN00090,2025-03-01,2025,Mar,1,U61,Money Sent,Travel,584.58,21682.77,UPI ID,Success,IRCTC,Delhi
+TXN00091,2024-11-14,2024,Nov,14,U61,Money Sent,Entertainment,994.45,21595.29,Mobile No,Success,Swiggy,Hyderabad
+TXN00092,2023-09-13,2023,Sep,13,U135,Money Spent,Bills,11749.87,6994.0,Wallet,Pending,Amazon,Pune
+TXN00093,2025-01-24,2025,Jan,24,U6,Money Sent,Rent,11193.53,4554.57,Bank Transfer,Failed,Zomato,Hyderabad
+TXN00094,2025-01-04,2025,Jan,4,U108,Money Spent,Travel,18802.0,47127.94,Wallet,Pending,Netflix,Delhi
+TXN00095,2023-11-03,2023,Nov,3,U152,Money Sent,Shopping,14259.99,3055.45,UPI ID,Failed,Amazon,Pune
+TXN00096,2024-12-27,2024,Dec,27,U105,Money Spent,Cashback,12584.18,18886.17,Bank Transfer,Success,Netflix,Pune
+TXN00097,2023-01-03,2023,Jan,3,U179,Money Added,Shopping,19245.37,31058.43,QR Code,Failed,-,Pune
+TXN00098,2023-01-27,2023,Jan,27,U106,Money Sent,Entertainment,9560.65,13763.77,Bank Transfer,Success,Zomato,Kolkata
+TXN00099,2025-01-04,2025,Jan,4,U55,Money Added,Groceries,19660.68,46109.47,Bank Transfer,Failed,-,Kolkata
+TXN00100,2024-06-19,2024,Jun,19,U13,Money Spent,Groceries,7708.55,25849.84,QR Code,Pending,Zomato,Bangalore
+TXN00101,2025-03-03,2025,Mar,3,U147,Money Spent,Bills,4921.72,26976.26,UPI ID,Failed,Netflix,Kolkata
+TXN00102,2024-08-31,2024,Aug,31,U121,Money Spent,Cashback,503.66,6098.56,Wallet,Success,Zomato,Kolkata
+TXN00103,2024-10-06,2024,Oct,6,U58,Money Added,Bills,4472.0,36665.49,UPI ID,Pending,-,Delhi
+TXN00104,2024-11-07,2024,Nov,7,U123,Money Sent,Entertainment,15454.42,36895.53,UPI ID,Failed,Electricity Board,Chennai
+TXN00105,2025-02-06,2025,Feb,6,U125,Money Added,Shopping,17285.23,14278.25,UPI ID,Success,-,Hyderabad
+TXN00106,2024-10-09,2024,Oct,9,U88,Money Sent,Investment,3130.87,14885.6,Bank Transfer,Failed,Flipkart,Kolkata
+TXN00107,2023-06-19,2023,Jun,19,U173,Money Sent,Shopping,19560.5,2392.01,Wallet,Success,Uber,Bangalore
+TXN00108,2023-12-17,2023,Dec,17,U65,Money Added,Travel,17405.17,42154.41,Mobile No,Success,-,Mumbai
+TXN00109,2024-02-03,2024,Feb,3,U69,Money Sent,Travel,8939.62,2897.71,Mobile No,Pending,Netflix,Hyderabad
+TXN00110,2024-10-22,2024,Oct,22,U133,Money Spent,Entertainment,14124.63,37828.49,QR Code,Success,Swiggy,Bangalore
+TXN00111,2023-08-19,2023,Aug,19,U50,Money Spent,Investment,3280.0,43122.5,QR Code,Pending,Netflix,Chennai
+TXN00112,2024-06-18,2024,Jun,18,U63,Money Added,Entertainment,3143.68,5948.49,QR Code,Success,-,Pune
+TXN00113,2024-02-23,2024,Feb,23,U41,Money Added,Entertainment,17564.44,21962.73,QR Code,Pending,-,Pune
+TXN00114,2023-05-20,2023,May,20,U36,Money Spent,Shopping,667.96,8868.63,QR Code,Pending,Uber,Delhi
+TXN00115,2023-01-07,2023,Jan,7,U198,Money Spent,Food,19809.35,49798.47,Wallet,Pending,Netflix,Kolkata
+TXN00116,2023-04-02,2023,Apr,2,U38,Money Sent,Cashback,3149.94,42145.45,Wallet,Failed,BigBasket,Pune
+TXN00117,2024-06-10,2024,Jun,10,U34,Money Added,Food,14230.84,7993.74,UPI ID,Pending,-,Delhi
+TXN00118,2023-02-24,2023,Feb,24,U196,Money Spent,Bills,5523.3,31358.16,UPI ID,Success,Swiggy,Pune
+TXN00119,2023-05-08,2023,May,8,U163,Money Added,Shopping,4880.32,41028.32,UPI ID,Success,-,Kolkata
+TXN00120,2023-03-06,2023,Mar,6,U135,Money Spent,Groceries,2652.19,7799.27,UPI ID,Failed,IRCTC,Chennai
+TXN00121,2024-10-28,2024,Oct,28,U33,Money Spent,Shopping,11118.02,38301.78,Bank Transfer,Failed,Zomato,Pune
+TXN00122,2023-05-07,2023,May,7,U22,Money Spent,Entertainment,16798.2,11775.6,UPI ID,Success,Uber,Bangalore
+TXN00123,2023-11-13,2023,Nov,13,U66,Money Added,Investment,5331.14,32874.99,QR Code,Failed,-,Kolkata
+TXN00124,2023-03-05,2023,Mar,5,U81,Money Sent,Cashback,7027.52,15924.52,UPI ID,Success,Electricity Board,Delhi
+TXN00125,2025-01-02,2025,Jan,2,U7,Money Sent,Cashback,10301.18,49387.38,Wallet,Success,Uber,Bangalore
+TXN00126,2024-05-01,2024,May,1,U59,Money Added,Cashback,13503.88,31434.89,Wallet,Failed,-,Bangalore
+TXN00127,2025-01-23,2025,Jan,23,U16,Money Spent,Travel,4449.66,23154.77,UPI ID,Pending,Zomato,Mumbai
+TXN00128,2023-05-23,2023,May,23,U2,Money Added,Bills,10002.17,25222.46,Mobile No,Success,-,Pune
+TXN00129,2023-10-03,2023,Oct,3,U87,Money Sent,Shopping,8844.79,13125.68,Bank Transfer,Failed,Electricity Board,Mumbai
+TXN00130,2023-03-19,2023,Mar,19,U82,Money Added,Cashback,10103.72,16809.76,UPI ID,Success,-,Kolkata
+TXN00131,2024-02-09,2024,Feb,9,U124,Money Spent,Groceries,19175.94,31824.75,QR Code,Pending,Swiggy,Hyderabad
+TXN00132,2024-06-13,2024,Jun,13,U172,Money Added,Entertainment,1670.88,39636.11,Wallet,Pending,-,Bangalore
+TXN00133,2023-04-04,2023,Apr,4,U107,Money Added,Rent,1984.66,8959.04,QR Code,Pending,-,Kolkata
+TXN00134,2023-11-11,2023,Nov,11,U186,Money Added,Bills,2997.67,43958.78,QR Code,Success,-,Kolkata
+TXN00135,2023-09-16,2023,Sep,16,U48,Money Sent,Entertainment,18528.39,3589.58,Bank Transfer,Pending,Zomato,Delhi
+TXN00136,2025-03-05,2025,Mar,5,U135,Money Added,Food,8360.13,12416.5,QR Code,Pending,-,Bangalore
+TXN00137,2024-05-24,2024,May,24,U56,Money Spent,Entertainment,7768.0,18350.07,UPI ID,Failed,Electricity Board,Mumbai
+TXN00138,2023-10-12,2023,Oct,12,U146,Money Sent,Bills,7578.11,46044.94,Wallet,Failed,Swiggy,Pune
+TXN00139,2024-05-28,2024,May,28,U140,Money Added,Rent,98.88,22446.22,Wallet,Pending,-,Pune
+TXN00140,2024-01-05,2024,Jan,5,U83,Money Added,Shopping,3459.57,43025.35,Bank Transfer,Success,-,Chennai
+TXN00141,2023-12-23,2023,Dec,23,U23,Money Sent,Investment,19511.94,13842.16,UPI ID,Failed,Flipkart,Hyderabad
+TXN00142,2025-02-02,2025,Feb,2,U83,Money Spent,Rent,17072.48,3825.14,UPI ID,Pending,Flipkart,Chennai
+TXN00143,2024-12-07,2024,Dec,7,U43,Money Sent,Food,19494.21,27188.0,Bank Transfer,Failed,Netflix,Mumbai
+TXN00144,2025-03-06,2025,Mar,6,U20,Money Spent,Travel,19138.31,30336.03,QR Code,Pending,Netflix,Pune
+TXN00145,2024-01-16,2024,Jan,16,U184,Money Sent,Cashback,17891.16,14569.15,Wallet,Success,Swiggy,Bangalore
+TXN00146,2024-08-06,2024,Aug,6,U13,Money Added,Entertainment,19555.03,28539.31,Wallet,Pending,-,Pune
+TXN00147,2024-05-15,2024,May,15,U99,Money Added,Food,7140.87,9709.54,Mobile No,Pending,-,Hyderabad
+TXN00148,2024-05-09,2024,May,9,U8,Money Sent,Shopping,19435.83,838.6,Mobile No,Failed,Swiggy,Delhi
+TXN00149,2023-03-19,2023,Mar,19,U27,Money Sent,Investment,1230.6,25252.74,Bank Transfer,Pending,Swiggy,Kolkata
+TXN00150,2023-02-14,2023,Feb,14,U195,Money Added,Entertainment,10738.84,31535.33,UPI ID,Failed,-,Pune
+TXN00151,2023-07-30,2023,Jul,30,U26,Money Sent,Rent,9415.44,1321.62,QR Code,Pending,BigBasket,Delhi
+TXN00152,2023-05-29,2023,May,29,U6,Money Spent,Shopping,7085.77,30009.44,Wallet,Success,Netflix,Pune
+TXN00153,2025-02-24,2025,Feb,24,U103,Money Sent,Entertainment,5930.0,30439.93,Mobile No,Pending,Uber,Bangalore
+TXN00154,2023-01-07,2023,Jan,7,U105,Money Sent,Food,18908.02,19206.4,UPI ID,Pending,Zomato,Chennai
+TXN00155,2023-09-19,2023,Sep,19,U32,Money Added,Cashback,16565.91,45913.03,Bank Transfer,Success,-,Hyderabad
+TXN00156,2023-01-20,2023,Jan,20,U21,Money Spent,Investment,19431.29,40944.19,Mobile No,Success,Swiggy,Kolkata
+TXN00157,2023-08-22,2023,Aug,22,U20,Money Added,Food,4346.41,15272.24,Mobile No,Failed,-,Bangalore
+TXN00158,2023-01-15,2023,Jan,15,U154,Money Spent,Food,10901.53,47530.93,QR Code,Success,Swiggy,Kolkata
+TXN00159,2025-01-12,2025,Jan,12,U138,Money Sent,Investment,10764.77,28045.17,Wallet,Success,Electricity Board,Chennai
+TXN00160,2024-12-04,2024,Dec,4,U111,Money Sent,Food,2336.56,35873.85,UPI ID,Success,BigBasket,Chennai
+TXN00161,2024-05-25,2024,May,25,U180,Money Spent,Entertainment,4466.54,43045.29,Mobile No,Pending,Electricity Board,Hyderabad
+TXN00162,2025-01-02,2025,Jan,2,U89,Money Sent,Shopping,19173.33,38620.18,Mobile No,Pending,Electricity Board,Mumbai
+TXN00163,2023-05-17,2023,May,17,U92,Money Spent,Cashback,2249.33,49226.4,Mobile No,Success,BigBasket,Hyderabad
+TXN00164,2023-02-18,2023,Feb,18,U140,Money Spent,Travel,15043.54,33873.05,Mobile No,Success,BigBasket,Pune
+TXN00165,2024-03-17,2024,Mar,17,U3,Money Sent,Rent,10427.28,32210.58,Mobile No,Pending,Netflix,Mumbai
+TXN00166,2023-12-23,2023,Dec,23,U169,Money Added,Investment,11316.64,47841.25,Bank Transfer,Pending,-,Hyderabad
+TXN00167,2023-08-02,2023,Aug,2,U153,Money Sent,Bills,18826.96,37535.37,Bank Transfer,Pending,Zomato,Kolkata
+TXN00168,2024-12-16,2024,Dec,16,U180,Money Added,Bills,17850.76,7511.03,Bank Transfer,Pending,-,Mumbai
+TXN00169,2024-12-15,2024,Dec,15,U56,Money Added,Rent,8405.25,19745.37,Wallet,Success,-,Hyderabad
+TXN00170,2023-01-10,2023,Jan,10,U98,Money Spent,Groceries,10093.42,8838.41,Bank Transfer,Failed,Electricity Board,Bangalore
+TXN00171,2025-01-26,2025,Jan,26,U11,Money Added,Bills,18675.71,45782.7,Bank Transfer,Pending,-,Delhi
+TXN00172,2024-03-25,2024,Mar,25,U18,Money Added,Entertainment,15022.24,39989.99,UPI ID,Pending,-,Bangalore
+TXN00173,2023-12-22,2023,Dec,22,U122,Money Sent,Travel,538.0,16995.25,Mobile No,Success,Flipkart,Bangalore
+TXN00174,2024-05-11,2024,May,11,U12,Money Sent,Shopping,10398.27,8261.98,QR Code,Failed,Electricity Board,Chennai
+TXN00175,2025-02-04,2025,Feb,4,U42,Money Sent,Rent,11092.47,33911.81,UPI ID,Success,Swiggy,Pune
+TXN00176,2024-03-23,2024,Mar,23,U113,Money Spent,Rent,6980.96,44539.67,Wallet,Failed,Uber,Bangalore
+TXN00177,2024-03-10,2024,Mar,10,U136,Money Sent,Investment,7807.19,48297.91,Mobile No,Success,Swiggy,Chennai
+TXN00178,2024-07-26,2024,Jul,26,U180,Money Added,Groceries,15821.56,18430.49,Mobile No,Pending,-,Delhi
+TXN00179,2025-01-11,2025,Jan,11,U138,Money Added,Shopping,7844.47,22334.34,Wallet,Pending,-,Pune
+TXN00180,2023-02-13,2023,Feb,13,U110,Money Spent,Travel,11896.54,22081.72,QR Code,Pending,Netflix,Mumbai
+TXN00181,2023-04-25,2023,Apr,25,U135,Money Added,Groceries,13619.93,22281.4,Mobile No,Success,-,Mumbai
+TXN00182,2023-05-06,2023,May,6,U33,Money Sent,Entertainment,17010.54,26517.41,QR Code,Success,Uber,Hyderabad
+TXN00183,2023-01-15,2023,Jan,15,U186,Money Added,Investment,11761.66,23202.4,QR Code,Success,-,Pune
+TXN00184,2024-12-17,2024,Dec,17,U69,Money Sent,Rent,3498.59,18701.35,UPI ID,Pending,Swiggy,Delhi
+TXN00185,2024-11-17,2024,Nov,17,U2,Money Added,Food,17932.04,43594.44,UPI ID,Failed,-,Pune
+TXN00186,2024-04-02,2024,Apr,2,U143,Money Added,Investment,13837.37,37195.31,Mobile No,Pending,-,Pune
+TXN00187,2023-08-06,2023,Aug,6,U187,Money Spent,Shopping,18980.88,4831.73,QR Code,Success,Amazon,Mumbai
+TXN00188,2025-02-08,2025,Feb,8,U49,Money Added,Entertainment,128.98,25511.07,Mobile No,Pending,-,Bangalore
+TXN00189,2024-05-15,2024,May,15,U165,Money Spent,Shopping,894.58,47844.66,Bank Transfer,Success,Electricity Board,Bangalore
+TXN00190,2023-10-07,2023,Oct,7,U54,Money Added,Food,15043.6,31310.55,UPI ID,Success,-,Bangalore
+TXN00191,2025-01-10,2025,Jan,10,U149,Money Spent,Entertainment,15628.4,27152.79,Wallet,Failed,Amazon,Mumbai
+TXN00192,2024-11-17,2024,Nov,17,U40,Money Spent,Food,7141.57,916.66,Mobile No,Pending,Swiggy,Pune
+TXN00193,2023-07-15,2023,Jul,15,U39,Money Added,Rent,8717.55,41727.04,UPI ID,Pending,-,Pune
+TXN00194,2024-03-06,2024,Mar,6,U71,Money Sent,Investment,11375.73,6859.63,Mobile No,Success,Swiggy,Bangalore
+TXN00195,2024-06-13,2024,Jun,13,U74,Money Sent,Investment,2929.48,13980.84,Bank Transfer,Pending,Flipkart,Chennai
+TXN00196,2023-07-11,2023,Jul,11,U84,Money Spent,Investment,767.34,46902.45,Bank Transfer,Pending,Amazon,Delhi
+TXN00197,2024-05-15,2024,May,15,U41,Money Sent,Rent,11533.7,18648.71,QR Code,Failed,Netflix,Mumbai
+TXN00198,2024-04-23,2024,Apr,23,U42,Money Sent,Groceries,5980.48,27793.52,Wallet,Failed,Amazon,Bangalore
+TXN00199,2023-06-08,2023,Jun,8,U10,Money Sent,Bills,7243.72,5514.56,Bank Transfer,Pending,Amazon,Chennai
+TXN00200,2024-08-11,2024,Aug,11,U18,Money Spent,Rent,10322.13,45856.17,Bank Transfer,Pending,Swiggy,Mumbai
+TXN00201,2024-09-05,2024,Sep,5,U58,Money Added,Shopping,17341.34,44719.59,Wallet,Pending,-,Bangalore
+TXN00202,2023-08-18,2023,Aug,18,U120,Money Added,Rent,6077.52,6290.27,Mobile No,Pending,-,Delhi
+TXN00203,2023-05-11,2023,May,11,U126,Money Sent,Cashback,16429.46,3673.49,QR Code,Pending,Swiggy,Kolkata
+TXN00204,2024-02-14,2024,Feb,14,U113,Money Sent,Cashback,13102.25,40199.81,UPI ID,Success,BigBasket,Hyderabad
+TXN00205,2023-04-20,2023,Apr,20,U98,Money Added,Shopping,215.69,32890.94,Wallet,Pending,-,Bangalore
+TXN00206,2024-01-14,2024,Jan,14,U18,Money Sent,Food,19521.69,10248.13,Bank Transfer,Pending,Flipkart,Chennai
+TXN00207,2023-01-05,2023,Jan,5,U38,Money Spent,Food,7699.95,46674.0,Wallet,Failed,Zomato,Hyderabad
+TXN00208,2023-01-04,2023,Jan,4,U131,Money Sent,Investment,10571.27,4905.48,UPI ID,Pending,Swiggy,Hyderabad
+TXN00209,2024-11-26,2024,Nov,26,U182,Money Sent,Cashback,11918.04,29983.99,QR Code,Failed,Uber,Kolkata
+TXN00210,2023-05-16,2023,May,16,U123,Money Added,Bills,6413.58,33127.9,Mobile No,Pending,-,Mumbai
+TXN00211,2023-08-11,2023,Aug,11,U24,Money Added,Food,5918.25,3868.07,Wallet,Pending,-,Mumbai
+TXN00212,2025-01-18,2025,Jan,18,U120,Money Sent,Investment,14595.52,36504.4,UPI ID,Success,IRCTC,Chennai
+TXN00213,2023-04-23,2023,Apr,23,U85,Money Spent,Bills,9293.11,13364.87,UPI ID,Failed,Netflix,Pune
+TXN00214,2023-05-29,2023,May,29,U21,Money Sent,Investment,4968.9,17396.7,Mobile No,Pending,Swiggy,Mumbai
+TXN00215,2023-02-04,2023,Feb,4,U26,Money Added,Entertainment,5843.13,46021.68,Bank Transfer,Failed,-,Kolkata
+TXN00216,2023-04-15,2023,Apr,15,U137,Money Spent,Rent,1659.18,7070.56,Wallet,Pending,IRCTC,Bangalore
+TXN00217,2024-11-19,2024,Nov,19,U27,Money Sent,Rent,4957.41,44186.24,Mobile No,Success,BigBasket,Chennai
+TXN00218,2023-12-03,2023,Dec,3,U55,Money Spent,Shopping,3721.74,22629.41,Wallet,Success,Flipkart,Delhi
+TXN00219,2024-10-16,2024,Oct,16,U178,Money Added,Entertainment,15988.05,28570.44,UPI ID,Success,-,Chennai
+TXN00220,2024-06-25,2024,Jun,25,U77,Money Added,Food,16781.96,41560.56,Wallet,Success,-,Mumbai
+TXN00221,2024-06-03,2024,Jun,3,U93,Money Added,Cashback,12508.69,23054.63,UPI ID,Pending,-,Delhi
+TXN00222,2024-08-13,2024,Aug,13,U76,Money Sent,Rent,4854.43,34180.56,Wallet,Failed,Amazon,Bangalore
+TXN00223,2025-02-26,2025,Feb,26,U128,Money Spent,Rent,15742.87,48333.79,Mobile No,Failed,IRCTC,Mumbai
+TXN00224,2024-09-19,2024,Sep,19,U18,Money Spent,Bills,1734.15,27189.46,Mobile No,Failed,Flipkart,Bangalore
+TXN00225,2023-09-19,2023,Sep,19,U70,Money Added,Cashback,7766.33,18803.28,UPI ID,Failed,-,Hyderabad
+TXN00226,2023-11-10,2023,Nov,10,U149,Money Added,Entertainment,12716.49,13900.66,Bank Transfer,Failed,-,Delhi
+TXN00227,2023-04-05,2023,Apr,5,U115,Money Sent,Travel,6455.69,42128.61,UPI ID,Success,Swiggy,Mumbai
+TXN00228,2023-09-06,2023,Sep,6,U48,Money Spent,Investment,7730.35,13433.98,UPI ID,Pending,Flipkart,Pune
+TXN00229,2023-12-10,2023,Dec,10,U181,Money Spent,Food,13630.87,38379.43,QR Code,Failed,Zomato,Kolkata
+TXN00230,2024-07-20,2024,Jul,20,U57,Money Added,Travel,13676.98,26371.49,UPI ID,Failed,-,Hyderabad
+TXN00231,2023-09-15,2023,Sep,15,U31,Money Spent,Food,3731.83,5541.77,Wallet,Success,BigBasket,Bangalore
+TXN00232,2023-03-14,2023,Mar,14,U83,Money Sent,Food,12841.59,30204.21,Bank Transfer,Pending,Flipkart,Pune
+TXN00233,2023-12-30,2023,Dec,30,U1,Money Sent,Food,18903.03,33436.45,Mobile No,Pending,Electricity Board,Delhi
+TXN00234,2023-03-10,2023,Mar,10,U18,Money Sent,Travel,7138.56,25849.62,Bank Transfer,Failed,Swiggy,Delhi
+TXN00235,2023-09-11,2023,Sep,11,U113,Money Spent,Rent,17269.1,36815.12,Bank Transfer,Success,Amazon,Chennai
+TXN00236,2023-03-07,2023,Mar,7,U102,Money Sent,Travel,10234.18,47709.98,Wallet,Failed,Uber,Kolkata
+TXN00237,2023-11-16,2023,Nov,16,U152,Money Sent,Cashback,7767.98,42054.2,Wallet,Success,Amazon,Hyderabad
+TXN00238,2023-04-02,2023,Apr,2,U179,Money Added,Bills,17553.63,15334.09,UPI ID,Success,-,Hyderabad
+TXN00239,2025-03-05,2025,Mar,5,U32,Money Spent,Groceries,11074.34,13258.03,UPI ID,Pending,Flipkart,Chennai
+TXN00240,2023-02-20,2023,Feb,20,U146,Money Added,Entertainment,7528.49,31849.52,UPI ID,Pending,-,Chennai
+TXN00241,2024-02-26,2024,Feb,26,U6,Money Added,Cashback,19159.45,8510.38,Wallet,Success,-,Hyderabad
+TXN00242,2024-02-26,2024,Feb,26,U183,Money Sent,Cashback,14632.88,18165.22,QR Code,Success,Netflix,Hyderabad
+TXN00243,2023-04-18,2023,Apr,18,U68,Money Spent,Cashback,1064.14,18780.64,Wallet,Failed,Flipkart,Pune
+TXN00244,2024-09-20,2024,Sep,20,U66,Money Spent,Entertainment,18413.36,1742.16,Mobile No,Pending,Electricity Board,Hyderabad
+TXN00245,2023-11-19,2023,Nov,19,U199,Money Sent,Entertainment,19176.31,20166.64,QR Code,Pending,BigBasket,Kolkata
+TXN00246,2023-07-27,2023,Jul,27,U22,Money Sent,Travel,10104.16,41237.32,Wallet,Pending,Uber,Bangalore
+TXN00247,2023-04-20,2023,Apr,20,U151,Money Added,Travel,19186.84,6448.52,Bank Transfer,Pending,-,Pune
+TXN00248,2023-10-15,2023,Oct,15,U149,Money Added,Cashback,7605.13,22029.81,Bank Transfer,Pending,-,Kolkata
+TXN00249,2023-02-11,2023,Feb,11,U17,Money Sent,Shopping,10023.22,14235.11,Mobile No,Failed,BigBasket,Kolkata
+TXN00250,2023-07-16,2023,Jul,16,U74,Money Added,Investment,15484.45,32184.33,UPI ID,Failed,-,Delhi
+TXN00251,2024-11-10,2024,Nov,10,U128,Money Added,Shopping,18921.41,37356.85,Mobile No,Pending,-,Mumbai
+TXN00252,2023-07-13,2023,Jul,13,U192,Money Spent,Investment,11149.93,24076.57,Wallet,Failed,Amazon,Chennai
+TXN00253,2024-09-09,2024,Sep,9,U108,Money Sent,Food,11718.48,4127.9,Wallet,Success,Flipkart,Bangalore
+TXN00254,2024-05-21,2024,May,21,U130,Money Added,Bills,8019.99,44341.08,Mobile No,Success,-,Pune
+TXN00255,2023-08-07,2023,Aug,7,U172,Money Sent,Travel,10392.89,46282.18,QR Code,Failed,Uber,Chennai
+TXN00256,2024-06-22,2024,Jun,22,U85,Money Sent,Groceries,1779.4,19089.57,Wallet,Failed,IRCTC,Mumbai
+TXN00257,2024-04-21,2024,Apr,21,U49,Money Sent,Rent,19184.05,16105.65,Bank Transfer,Failed,Flipkart,Hyderabad
+TXN00258,2024-08-23,2024,Aug,23,U38,Money Spent,Entertainment,13636.2,2661.05,Wallet,Success,Flipkart,Mumbai
+TXN00259,2023-10-29,2023,Oct,29,U60,Money Spent,Bills,17306.9,14830.02,Mobile No,Failed,Electricity Board,Bangalore
+TXN00260,2023-06-11,2023,Jun,11,U155,Money Spent,Food,1889.8,24982.35,Bank Transfer,Pending,Amazon,Kolkata
+TXN00261,2024-02-15,2024,Feb,15,U99,Money Sent,Bills,18688.29,45849.83,QR Code,Failed,Zomato,Chennai
+TXN00262,2024-08-12,2024,Aug,12,U50,Money Sent,Entertainment,3109.85,8521.03,Wallet,Success,Swiggy,Kolkata
+TXN00263,2024-03-23,2024,Mar,23,U65,Money Spent,Bills,16841.69,8038.41,QR Code,Pending,Amazon,Bangalore
+TXN00264,2024-01-04,2024,Jan,4,U161,Money Added,Entertainment,1555.56,36458.75,UPI ID,Pending,-,Delhi
+TXN00265,2024-12-21,2024,Dec,21,U37,Money Spent,Travel,5277.79,47575.93,Bank Transfer,Pending,IRCTC,Bangalore
+TXN00266,2023-08-18,2023,Aug,18,U57,Money Spent,Bills,1380.7,43027.85,Mobile No,Success,Amazon,Pune
+TXN00267,2023-01-14,2023,Jan,14,U2,Money Added,Bills,4220.44,10975.46,QR Code,Failed,-,Kolkata
+TXN00268,2024-10-20,2024,Oct,20,U44,Money Spent,Food,10336.91,12213.14,Wallet,Failed,Uber,Chennai
+TXN00269,2023-04-14,2023,Apr,14,U40,Money Sent,Bills,976.31,40383.93,UPI ID,Success,Electricity Board,Bangalore
+TXN00270,2023-04-14,2023,Apr,14,U54,Money Spent,Food,12271.56,17726.08,QR Code,Success,IRCTC,Chennai
+TXN00271,2023-10-02,2023,Oct,2,U74,Money Added,Groceries,15282.5,25804.24,QR Code,Failed,-,Mumbai
+TXN00272,2023-11-30,2023,Nov,30,U118,Money Sent,Cashback,19246.56,16216.61,QR Code,Pending,Netflix,Kolkata
+TXN00273,2023-02-28,2023,Feb,28,U10,Money Added,Cashback,888.98,45752.04,QR Code,Failed,-,Chennai
+TXN00274,2024-12-20,2024,Dec,20,U71,Money Spent,Investment,17439.17,28415.92,Bank Transfer,Failed,BigBasket,Chennai
+TXN00275,2023-06-02,2023,Jun,2,U134,Money Spent,Bills,7098.13,38453.52,Mobile No,Failed,Zomato,Bangalore
+TXN00276,2023-05-07,2023,May,7,U98,Money Sent,Travel,16282.25,32517.77,Bank Transfer,Success,IRCTC,Hyderabad
+TXN00277,2025-02-16,2025,Feb,16,U14,Money Added,Food,17310.68,47031.19,Bank Transfer,Success,-,Delhi
+TXN00278,2024-08-31,2024,Aug,31,U118,Money Added,Travel,14214.33,22318.3,Bank Transfer,Pending,-,Bangalore
+TXN00279,2024-04-12,2024,Apr,12,U7,Money Sent,Bills,13214.18,9688.03,UPI ID,Failed,IRCTC,Delhi
+TXN00280,2024-08-01,2024,Aug,1,U113,Money Sent,Food,3848.17,31998.29,QR Code,Failed,Zomato,Chennai
+TXN00281,2023-06-01,2023,Jun,1,U26,Money Spent,Entertainment,13203.88,12370.01,Bank Transfer,Failed,Uber,Mumbai
+TXN00282,2023-07-27,2023,Jul,27,U116,Money Sent,Bills,9382.8,10446.84,Bank Transfer,Success,BigBasket,Bangalore
+TXN00283,2025-02-06,2025,Feb,6,U132,Money Sent,Entertainment,8497.93,3041.92,Mobile No,Success,Uber,Bangalore
+TXN00284,2023-11-27,2023,Nov,27,U20,Money Added,Food,12873.23,6449.99,Bank Transfer,Pending,-,Pune
+TXN00285,2024-12-07,2024,Dec,7,U142,Money Spent,Entertainment,1074.65,15015.55,UPI ID,Pending,BigBasket,Hyderabad
+TXN00286,2023-11-30,2023,Nov,30,U53,Money Added,Entertainment,9235.73,14044.1,Wallet,Success,-,Hyderabad
+TXN00287,2024-06-22,2024,Jun,22,U15,Money Spent,Cashback,16058.92,18666.36,Mobile No,Failed,Zomato,Pune
+TXN00288,2023-11-09,2023,Nov,9,U106,Money Added,Shopping,19175.24,30563.51,Wallet,Success,-,Hyderabad
+TXN00289,2024-10-20,2024,Oct,20,U65,Money Sent,Travel,13873.73,3745.46,Bank Transfer,Failed,Flipkart,Delhi
+TXN00290,2023-12-14,2023,Dec,14,U44,Money Spent,Groceries,4675.0,24514.58,QR Code,Pending,Flipkart,Chennai
+TXN00291,2023-10-26,2023,Oct,26,U90,Money Added,Investment,18402.05,7753.53,Mobile No,Failed,-,Pune
+TXN00292,2024-09-30,2024,Sep,30,U53,Money Spent,Investment,14586.9,31734.49,Mobile No,Failed,Amazon,Delhi
+TXN00293,2023-09-30,2023,Sep,30,U49,Money Spent,Entertainment,19552.17,4507.91,Mobile No,Success,Uber,Mumbai
+TXN00294,2023-05-17,2023,May,17,U194,Money Spent,Bills,11956.87,15451.73,Bank Transfer,Failed,IRCTC,Delhi
+TXN00295,2023-06-13,2023,Jun,13,U22,Money Sent,Entertainment,11200.8,28047.21,QR Code,Pending,IRCTC,Delhi
+TXN00296,2023-05-05,2023,May,5,U90,Money Sent,Groceries,18130.52,15012.18,Bank Transfer,Failed,BigBasket,Bangalore
+TXN00297,2023-06-16,2023,Jun,16,U39,Money Spent,Shopping,14092.97,40781.86,QR Code,Success,Flipkart,Chennai
+TXN00298,2024-06-03,2024,Jun,3,U61,Money Sent,Cashback,3350.35,17690.57,Wallet,Pending,Electricity Board,Kolkata
+TXN00299,2024-07-24,2024,Jul,24,U39,Money Sent,Food,561.62,26995.06,UPI ID,Success,Netflix,Chennai
+TXN00300,2023-01-01,2023,Jan,1,U191,Money Added,Food,13519.95,26844.09,Mobile No,Failed,-,Pune
+TXN00301,2023-11-02,2023,Nov,2,U168,Money Spent,Shopping,3416.01,7731.87,Wallet,Pending,Amazon,Kolkata
+TXN00302,2024-11-21,2024,Nov,21,U145,Money Spent,Cashback,19229.06,37961.17,Wallet,Success,BigBasket,Kolkata
+TXN00303,2024-08-14,2024,Aug,14,U2,Money Sent,Food,13541.5,24830.32,UPI ID,Pending,Electricity Board,Chennai
+TXN00304,2023-07-30,2023,Jul,30,U49,Money Added,Investment,12831.49,38734.5,Mobile No,Failed,-,Kolkata
+TXN00305,2024-02-18,2024,Feb,18,U11,Money Spent,Groceries,4561.36,12941.73,Wallet,Pending,Netflix,Delhi
+TXN00306,2024-11-15,2024,Nov,15,U78,Money Sent,Food,4520.46,35863.96,UPI ID,Failed,Netflix,Mumbai
+TXN00307,2023-06-14,2023,Jun,14,U176,Money Added,Bills,14160.82,47537.82,Mobile No,Success,-,Pune
+TXN00308,2023-09-10,2023,Sep,10,U89,Money Spent,Entertainment,18587.82,48979.84,UPI ID,Pending,Flipkart,Bangalore
+TXN00309,2024-12-30,2024,Dec,30,U127,Money Spent,Investment,572.22,2547.28,QR Code,Pending,BigBasket,Delhi
+TXN00310,2024-08-23,2024,Aug,23,U158,Money Spent,Shopping,801.04,20053.33,UPI ID,Failed,Electricity Board,Pune
+TXN00311,2024-10-11,2024,Oct,11,U32,Money Spent,Cashback,3169.28,29523.43,Wallet,Pending,Electricity Board,Delhi
+TXN00312,2024-06-22,2024,Jun,22,U156,Money Spent,Groceries,4483.24,10136.68,UPI ID,Failed,Electricity Board,Mumbai
+TXN00313,2023-11-04,2023,Nov,4,U198,Money Spent,Entertainment,12019.76,13017.01,UPI ID,Pending,BigBasket,Delhi
+TXN00314,2025-01-22,2025,Jan,22,U42,Money Sent,Rent,6620.46,15650.92,QR Code,Failed,BigBasket,Hyderabad
+TXN00315,2023-11-17,2023,Nov,17,U8,Money Spent,Groceries,4870.11,20025.1,QR Code,Success,Electricity Board,Mumbai
+TXN00316,2024-03-04,2024,Mar,4,U34,Money Sent,Shopping,2290.67,32339.65,QR Code,Success,Netflix,Chennai
+TXN00317,2024-01-08,2024,Jan,8,U175,Money Added,Investment,354.52,28193.02,Bank Transfer,Pending,-,Delhi
+TXN00318,2024-09-23,2024,Sep,23,U107,Money Spent,Entertainment,5947.59,47184.12,QR Code,Pending,Netflix,Bangalore
+TXN00319,2024-10-17,2024,Oct,17,U94,Money Added,Food,865.54,21431.28,Wallet,Failed,-,Chennai
+TXN00320,2023-03-17,2023,Mar,17,U123,Money Spent,Travel,11723.52,2215.69,Mobile No,Pending,Flipkart,Bangalore
+TXN00321,2024-05-12,2024,May,12,U154,Money Sent,Food,5717.93,27254.42,Bank Transfer,Success,Swiggy,Bangalore
+TXN00322,2023-05-31,2023,May,31,U184,Money Added,Entertainment,13442.94,29828.86,Mobile No,Success,-,Pune
+TXN00323,2024-10-23,2024,Oct,23,U3,Money Sent,Food,8681.5,47829.11,Bank Transfer,Success,IRCTC,Mumbai
+TXN00324,2024-11-02,2024,Nov,2,U55,Money Sent,Shopping,5208.32,41574.08,Mobile No,Pending,Electricity Board,Kolkata
+TXN00325,2023-12-06,2023,Dec,6,U102,Money Added,Groceries,7181.84,46057.81,Mobile No,Pending,-,Hyderabad
+TXN00326,2024-07-11,2024,Jul,11,U114,Money Added,Food,16623.27,16535.43,UPI ID,Failed,-,Pune
+TXN00327,2023-09-30,2023,Sep,30,U101,Money Added,Shopping,2942.52,17813.17,UPI ID,Failed,-,Bangalore
+TXN00328,2023-05-14,2023,May,14,U135,Money Sent,Travel,2362.77,15641.88,Mobile No,Success,Swiggy,Delhi
+TXN00329,2024-06-17,2024,Jun,17,U168,Money Spent,Food,3748.13,26859.81,Mobile No,Success,Netflix,Chennai
+TXN00330,2023-03-11,2023,Mar,11,U43,Money Spent,Bills,13712.95,28516.53,UPI ID,Failed,Amazon,Pune
+TXN00331,2023-03-24,2023,Mar,24,U163,Money Spent,Entertainment,4586.16,45513.74,Mobile No,Failed,Swiggy,Chennai
+TXN00332,2024-12-08,2024,Dec,8,U122,Money Spent,Bills,17293.28,28816.84,UPI ID,Pending,Electricity Board,Chennai
+TXN00333,2024-12-25,2024,Dec,25,U16,Money Added,Cashback,6418.26,45380.63,UPI ID,Failed,-,Hyderabad
+TXN00334,2025-01-29,2025,Jan,29,U177,Money Sent,Food,9066.72,5487.75,QR Code,Pending,IRCTC,Hyderabad
+TXN00335,2023-09-08,2023,Sep,8,U40,Money Added,Food,1639.58,22208.7,Mobile No,Success,-,Chennai
+TXN00336,2024-04-24,2024,Apr,24,U95,Money Sent,Travel,18159.1,30507.56,Mobile No,Failed,Netflix,Kolkata
+TXN00337,2023-10-04,2023,Oct,4,U165,Money Sent,Bills,13503.97,17578.79,Wallet,Success,Zomato,Kolkata
+TXN00338,2023-06-07,2023,Jun,7,U52,Money Spent,Shopping,18287.76,16664.87,QR Code,Pending,Uber,Hyderabad
+TXN00339,2023-11-30,2023,Nov,30,U138,Money Sent,Shopping,7412.76,23906.77,QR Code,Success,Zomato,Bangalore
+TXN00340,2024-02-29,2024,Feb,29,U65,Money Spent,Bills,19962.68,4657.38,Wallet,Failed,Netflix,Chennai
+TXN00341,2023-12-19,2023,Dec,19,U109,Money Sent,Entertainment,8210.21,4531.2,UPI ID,Failed,BigBasket,Mumbai
+TXN00342,2025-01-27,2025,Jan,27,U72,Money Spent,Entertainment,7848.93,37827.16,UPI ID,Pending,Uber,Pune
+TXN00343,2024-06-18,2024,Jun,18,U99,Money Added,Entertainment,8617.32,49717.58,QR Code,Failed,-,Chennai
+TXN00344,2023-07-08,2023,Jul,8,U97,Money Added,Entertainment,9915.81,35784.72,Bank Transfer,Success,-,Pune
+TXN00345,2024-04-02,2024,Apr,2,U174,Money Spent,Investment,15887.62,14468.59,Bank Transfer,Failed,Uber,Bangalore
+TXN00346,2023-11-13,2023,Nov,13,U195,Money Added,Groceries,3196.16,35201.13,UPI ID,Pending,-,Mumbai
+TXN00347,2023-12-04,2023,Dec,4,U168,Money Added,Investment,12506.28,36914.68,Mobile No,Failed,-,Bangalore
+TXN00348,2024-10-24,2024,Oct,24,U24,Money Added,Investment,8460.76,36410.67,QR Code,Failed,-,Delhi
+TXN00349,2023-01-11,2023,Jan,11,U84,Money Sent,Shopping,1779.61,1508.65,QR Code,Pending,Amazon,Delhi
+TXN00350,2023-04-20,2023,Apr,20,U41,Money Sent,Entertainment,10820.71,6964.28,QR Code,Success,BigBasket,Kolkata
+TXN00351,2023-02-22,2023,Feb,22,U7,Money Sent,Investment,18855.36,31218.44,Bank Transfer,Pending,Amazon,Mumbai
+TXN00352,2024-07-26,2024,Jul,26,U173,Money Spent,Investment,13046.19,8767.38,UPI ID,Success,Netflix,Pune
+TXN00353,2023-05-08,2023,May,8,U179,Money Spent,Rent,17672.4,39093.9,UPI ID,Pending,BigBasket,Delhi
+TXN00354,2024-02-27,2024,Feb,27,U101,Money Sent,Shopping,14755.98,37672.86,Wallet,Pending,Amazon,Bangalore
+TXN00355,2023-09-05,2023,Sep,5,U76,Money Spent,Food,17688.19,32184.69,Mobile No,Success,Netflix,Pune
+TXN00356,2023-11-18,2023,Nov,18,U170,Money Sent,Rent,2630.54,14201.49,Bank Transfer,Failed,Zomato,Pune
+TXN00357,2025-01-12,2025,Jan,12,U15,Money Spent,Cashback,11173.21,6193.93,Mobile No,Pending,Zomato,Pune
+TXN00358,2023-01-16,2023,Jan,16,U160,Money Spent,Travel,8953.72,35786.76,UPI ID,Success,BigBasket,Hyderabad
+TXN00359,2024-11-02,2024,Nov,2,U142,Money Added,Food,4199.01,15016.26,QR Code,Failed,-,Kolkata
+TXN00360,2024-05-08,2024,May,8,U116,Money Added,Shopping,16817.35,11956.59,Wallet,Failed,-,Delhi
+TXN00361,2025-01-01,2025,Jan,1,U6,Money Sent,Groceries,11133.4,37188.18,QR Code,Failed,Electricity Board,Mumbai
+TXN00362,2023-07-30,2023,Jul,30,U168,Money Added,Food,7574.91,9705.76,QR Code,Pending,-,Pune
+TXN00363,2024-11-12,2024,Nov,12,U120,Money Added,Bills,691.0,19746.0,UPI ID,Success,-,Chennai
+TXN00364,2023-08-29,2023,Aug,29,U161,Money Sent,Shopping,10822.07,14746.39,Bank Transfer,Failed,IRCTC,Bangalore
+TXN00365,2024-03-13,2024,Mar,13,U199,Money Sent,Groceries,18521.78,28053.85,UPI ID,Failed,Amazon,Kolkata
+TXN00366,2024-11-29,2024,Nov,29,U29,Money Spent,Shopping,14028.86,44305.54,UPI ID,Failed,Netflix,Delhi
+TXN00367,2024-12-23,2024,Dec,23,U182,Money Spent,Investment,5934.46,3299.73,Bank Transfer,Success,Flipkart,Mumbai
+TXN00368,2025-01-10,2025,Jan,10,U3,Money Spent,Food,9420.09,22947.68,Bank Transfer,Success,Uber,Chennai
+TXN00369,2024-04-22,2024,Apr,22,U134,Money Spent,Food,10793.29,49061.83,Bank Transfer,Success,Swiggy,Hyderabad
+TXN00370,2023-05-02,2023,May,2,U98,Money Sent,Bills,11631.97,28358.56,QR Code,Success,Uber,Hyderabad
+TXN00371,2024-01-28,2024,Jan,28,U136,Money Sent,Food,4385.36,36456.3,Bank Transfer,Success,Zomato,Bangalore
+TXN00372,2024-10-14,2024,Oct,14,U193,Money Spent,Travel,9257.32,5144.32,Mobile No,Success,Flipkart,Mumbai
+TXN00373,2024-05-13,2024,May,13,U49,Money Added,Entertainment,19447.03,32166.18,UPI ID,Success,-,Mumbai
+TXN00374,2024-11-24,2024,Nov,24,U89,Money Spent,Rent,15267.55,47221.06,UPI ID,Success,Zomato,Pune
+TXN00375,2024-05-18,2024,May,18,U46,Money Added,Bills,1180.82,36502.71,Wallet,Success,-,Bangalore
+TXN00376,2023-03-01,2023,Mar,1,U176,Money Sent,Rent,19289.79,24055.99,Mobile No,Pending,Swiggy,Chennai
+TXN00377,2024-11-12,2024,Nov,12,U126,Money Sent,Groceries,5097.38,39661.04,Mobile No,Success,Zomato,Bangalore
+TXN00378,2023-03-25,2023,Mar,25,U20,Money Sent,Shopping,6496.55,38669.82,Wallet,Pending,Electricity Board,Pune
+TXN00379,2023-04-22,2023,Apr,22,U11,Money Sent,Travel,19511.42,8766.46,Mobile No,Failed,Zomato,Kolkata
+TXN00380,2023-07-08,2023,Jul,8,U153,Money Added,Groceries,11710.32,26386.06,Bank Transfer,Success,-,Pune
+TXN00381,2023-01-29,2023,Jan,29,U198,Money Added,Rent,3196.11,26007.55,Bank Transfer,Success,-,Hyderabad
+TXN00382,2023-10-30,2023,Oct,30,U36,Money Added,Bills,1560.32,10301.6,QR Code,Failed,-,Chennai
+TXN00383,2024-11-10,2024,Nov,10,U166,Money Spent,Entertainment,10972.07,17413.99,Bank Transfer,Failed,Swiggy,Pune
+TXN00384,2024-01-09,2024,Jan,9,U4,Money Added,Investment,11708.69,3580.9,UPI ID,Pending,-,Bangalore
+TXN00385,2023-03-09,2023,Mar,9,U76,Money Added,Groceries,4206.62,41949.1,Mobile No,Failed,-,Pune
+TXN00386,2024-01-28,2024,Jan,28,U138,Money Spent,Entertainment,770.04,13961.6,Mobile No,Failed,Amazon,Bangalore
+TXN00387,2023-07-06,2023,Jul,6,U13,Money Added,Entertainment,654.34,37867.33,QR Code,Failed,-,Hyderabad
+TXN00388,2025-03-06,2025,Mar,6,U148,Money Spent,Groceries,8245.12,29834.49,Bank Transfer,Success,Swiggy,Hyderabad
+TXN00389,2024-08-06,2024,Aug,6,U21,Money Spent,Bills,5183.67,3364.41,Wallet,Pending,BigBasket,Pune
+TXN00390,2024-01-07,2024,Jan,7,U168,Money Sent,Groceries,19167.37,49139.85,Wallet,Pending,Electricity Board,Kolkata
+TXN00391,2023-09-23,2023,Sep,23,U9,Money Added,Food,8596.52,7617.47,QR Code,Failed,-,Hyderabad
+TXN00392,2023-05-17,2023,May,17,U39,Money Sent,Food,11610.42,36608.7,Wallet,Failed,Amazon,Chennai
+TXN00393,2024-05-01,2024,May,1,U33,Money Added,Investment,7486.66,7717.7,Mobile No,Pending,-,Chennai
+TXN00394,2023-12-16,2023,Dec,16,U93,Money Spent,Rent,13552.75,6636.81,Bank Transfer,Pending,Electricity Board,Chennai
+TXN00395,2023-04-18,2023,Apr,18,U72,Money Added,Bills,12745.05,23628.56,Mobile No,Pending,-,Mumbai
+TXN00396,2023-08-12,2023,Aug,12,U19,Money Added,Entertainment,11557.51,15095.8,QR Code,Failed,-,Kolkata
+TXN00397,2024-10-12,2024,Oct,12,U89,Money Spent,Investment,11368.92,27332.71,UPI ID,Pending,Amazon,Pune
+TXN00398,2024-10-04,2024,Oct,4,U43,Money Spent,Investment,5383.31,41167.34,Bank Transfer,Failed,Swiggy,Kolkata
+TXN00399,2025-02-05,2025,Feb,5,U56,Money Added,Investment,9876.23,48712.78,UPI ID,Failed,-,Chennai
+TXN00400,2024-10-12,2024,Oct,12,U23,Money Sent,Travel,6030.26,29631.96,UPI ID,Success,Netflix,Bangalore
+TXN00401,2024-10-31,2024,Oct,31,U101,Money Sent,Food,10940.81,13144.52,QR Code,Failed,Zomato,Hyderabad
+TXN00402,2024-06-04,2024,Jun,4,U19,Money Added,Shopping,13947.85,21921.56,UPI ID,Success,-,Delhi
+TXN00403,2025-01-09,2025,Jan,9,U56,Money Spent,Travel,19132.09,22918.78,Bank Transfer,Success,Zomato,Mumbai
+TXN00404,2024-08-08,2024,Aug,8,U17,Money Sent,Food,13643.53,33886.68,QR Code,Failed,Uber,Hyderabad
+TXN00405,2025-02-15,2025,Feb,15,U164,Money Sent,Food,18537.41,33264.94,Bank Transfer,Success,Uber,Chennai
+TXN00406,2025-02-03,2025,Feb,3,U103,Money Spent,Entertainment,8623.58,27349.64,Bank Transfer,Pending,Uber,Hyderabad
+TXN00407,2025-02-16,2025,Feb,16,U60,Money Spent,Food,17342.24,42396.81,QR Code,Pending,Uber,Chennai
+TXN00408,2024-06-24,2024,Jun,24,U105,Money Sent,Cashback,6517.02,24314.79,Mobile No,Failed,Uber,Delhi
+TXN00409,2024-04-04,2024,Apr,4,U140,Money Added,Groceries,14719.42,33795.78,UPI ID,Pending,-,Mumbai
+TXN00410,2023-05-25,2023,May,25,U200,Money Sent,Food,19971.01,4735.2,UPI ID,Failed,Zomato,Bangalore
+TXN00411,2023-11-24,2023,Nov,24,U81,Money Spent,Investment,9055.25,46644.37,Bank Transfer,Success,Flipkart,Mumbai
+TXN00412,2023-06-28,2023,Jun,28,U186,Money Spent,Groceries,19066.86,27766.46,Mobile No,Failed,Amazon,Chennai
+TXN00413,2025-02-22,2025,Feb,22,U174,Money Added,Travel,8620.73,17090.56,QR Code,Pending,-,Bangalore
+TXN00414,2023-12-22,2023,Dec,22,U97,Money Sent,Shopping,13466.16,47453.98,Bank Transfer,Pending,IRCTC,Bangalore
+TXN00415,2023-10-23,2023,Oct,23,U47,Money Added,Bills,7020.85,25302.03,QR Code,Success,-,Delhi
+TXN00416,2023-06-12,2023,Jun,12,U18,Money Sent,Travel,13427.07,40746.76,UPI ID,Pending,IRCTC,Mumbai
+TXN00417,2024-10-06,2024,Oct,6,U47,Money Sent,Rent,15879.39,18458.83,Wallet,Pending,BigBasket,Hyderabad
+TXN00418,2023-12-14,2023,Dec,14,U61,Money Spent,Investment,7316.05,13363.9,UPI ID,Success,Uber,Mumbai
+TXN00419,2024-08-11,2024,Aug,11,U22,Money Sent,Investment,19450.64,26821.08,Mobile No,Failed,IRCTC,Hyderabad
+TXN00420,2023-10-27,2023,Oct,27,U36,Money Added,Food,14142.61,39162.8,UPI ID,Pending,-,Mumbai
+TXN00421,2024-01-23,2024,Jan,23,U95,Money Spent,Entertainment,3966.74,19843.9,Mobile No,Success,BigBasket,Kolkata
+TXN00422,2024-02-19,2024,Feb,19,U81,Money Added,Rent,2137.51,7654.57,Mobile No,Pending,-,Kolkata
+TXN00423,2023-12-30,2023,Dec,30,U66,Money Added,Food,6747.78,10286.44,Bank Transfer,Success,-,Hyderabad
+TXN00424,2024-12-07,2024,Dec,7,U96,Money Sent,Investment,1560.93,28714.67,QR Code,Success,Uber,Mumbai
+TXN00425,2024-08-20,2024,Aug,20,U176,Money Sent,Food,18200.88,6198.04,Bank Transfer,Pending,Netflix,Kolkata
+TXN00426,2024-05-23,2024,May,23,U70,Money Spent,Travel,12222.35,38953.14,Wallet,Success,Flipkart,Hyderabad
+TXN00427,2024-03-16,2024,Mar,16,U174,Money Spent,Food,18190.97,14552.42,Mobile No,Pending,BigBasket,Hyderabad
+TXN00428,2025-03-01,2025,Mar,1,U121,Money Added,Bills,3147.61,43156.07,Wallet,Success,-,Delhi
+TXN00429,2025-03-09,2025,Mar,9,U133,Money Added,Entertainment,8438.81,31436.68,Mobile No,Success,-,Pune
+TXN00430,2024-04-22,2024,Apr,22,U16,Money Spent,Travel,8807.04,14516.02,Bank Transfer,Failed,Uber,Hyderabad
+TXN00431,2023-05-02,2023,May,2,U94,Money Sent,Food,10320.4,19817.6,Bank Transfer,Failed,BigBasket,Kolkata
+TXN00432,2023-11-10,2023,Nov,10,U52,Money Spent,Travel,2888.21,1318.5,Wallet,Pending,Swiggy,Hyderabad
+TXN00433,2024-12-19,2024,Dec,19,U187,Money Spent,Travel,10712.93,35906.18,Bank Transfer,Failed,Amazon,Bangalore
+TXN00434,2023-06-29,2023,Jun,29,U158,Money Spent,Rent,9028.27,12802.31,UPI ID,Pending,BigBasket,Delhi
+TXN00435,2023-02-27,2023,Feb,27,U172,Money Sent,Groceries,15065.0,7051.33,QR Code,Pending,Netflix,Kolkata
+TXN00436,2024-03-13,2024,Mar,13,U15,Money Spent,Bills,13785.85,23223.23,Mobile No,Success,Swiggy,Hyderabad
+TXN00437,2024-04-20,2024,Apr,20,U176,Money Spent,Cashback,11362.75,39859.98,Mobile No,Failed,BigBasket,Mumbai
+TXN00438,2023-05-02,2023,May,2,U128,Money Added,Cashback,13385.56,3279.19,Mobile No,Pending,-,Hyderabad
+TXN00439,2023-08-26,2023,Aug,26,U169,Money Added,Groceries,9768.99,31683.83,Bank Transfer,Pending,-,Kolkata
+TXN00440,2024-03-23,2024,Mar,23,U145,Money Sent,Travel,6262.05,13151.67,Mobile No,Failed,Netflix,Delhi
+TXN00441,2024-04-21,2024,Apr,21,U59,Money Spent,Entertainment,4117.02,26149.82,UPI ID,Failed,Swiggy,Pune
+TXN00442,2023-12-25,2023,Dec,25,U15,Money Sent,Cashback,2259.48,26688.14,Bank Transfer,Success,Zomato,Chennai
+TXN00443,2024-10-10,2024,Oct,10,U119,Money Spent,Groceries,19223.35,31457.8,UPI ID,Success,Electricity Board,Chennai
+TXN00444,2025-01-28,2025,Jan,28,U53,Money Sent,Rent,3866.76,48213.58,Bank Transfer,Failed,Flipkart,Delhi
+TXN00445,2024-07-26,2024,Jul,26,U158,Money Added,Groceries,3434.84,23632.81,UPI ID,Pending,-,Chennai
+TXN00446,2024-05-18,2024,May,18,U134,Money Added,Food,6766.13,16551.59,Bank Transfer,Failed,-,Hyderabad
+TXN00447,2024-11-19,2024,Nov,19,U39,Money Added,Rent,9606.29,41681.61,Bank Transfer,Success,-,Delhi
+TXN00448,2025-01-31,2025,Jan,31,U172,Money Added,Shopping,14716.01,7437.65,QR Code,Failed,-,Kolkata
+TXN00449,2023-03-14,2023,Mar,14,U149,Money Spent,Cashback,750.05,6067.62,QR Code,Success,Flipkart,Mumbai
+TXN00450,2023-11-03,2023,Nov,3,U90,Money Sent,Cashback,7026.02,13549.33,Wallet,Pending,BigBasket,Kolkata
+TXN00451,2024-01-02,2024,Jan,2,U80,Money Added,Food,15536.76,19997.59,Bank Transfer,Pending,-,Mumbai
+TXN00452,2023-04-17,2023,Apr,17,U102,Money Added,Investment,4630.45,32869.67,UPI ID,Pending,-,Mumbai
+TXN00453,2024-01-16,2024,Jan,16,U162,Money Added,Bills,11186.16,19678.5,UPI ID,Success,-,Hyderabad
+TXN00454,2025-02-15,2025,Feb,15,U53,Money Spent,Rent,957.29,31889.97,Bank Transfer,Pending,Uber,Chennai
+TXN00455,2024-09-18,2024,Sep,18,U12,Money Sent,Shopping,5501.34,48317.07,QR Code,Success,Uber,Mumbai
+TXN00456,2023-10-24,2023,Oct,24,U154,Money Spent,Investment,11663.63,47023.49,QR Code,Failed,Uber,Mumbai
+TXN00457,2024-04-08,2024,Apr,8,U159,Money Added,Rent,7097.3,29611.67,UPI ID,Success,-,Kolkata
+TXN00458,2023-01-29,2023,Jan,29,U66,Money Added,Food,11948.68,32858.87,QR Code,Success,-,Delhi
+TXN00459,2023-12-15,2023,Dec,15,U13,Money Added,Entertainment,15519.96,25167.39,UPI ID,Pending,-,Mumbai
+TXN00460,2023-04-02,2023,Apr,2,U28,Money Spent,Investment,8489.48,2822.42,Mobile No,Success,IRCTC,Delhi
+TXN00461,2024-06-05,2024,Jun,5,U131,Money Spent,Groceries,2365.01,11503.3,Mobile No,Pending,Zomato,Mumbai
+TXN00462,2024-04-16,2024,Apr,16,U180,Money Spent,Rent,19762.92,43243.94,QR Code,Pending,Swiggy,Delhi
+TXN00463,2025-01-03,2025,Jan,3,U91,Money Spent,Bills,15167.35,28288.53,QR Code,Pending,Amazon,Kolkata
+TXN00464,2023-07-10,2023,Jul,10,U80,Money Spent,Shopping,16794.11,4213.06,Wallet,Success,Flipkart,Bangalore
+TXN00465,2024-12-15,2024,Dec,15,U53,Money Sent,Rent,9595.85,1319.17,Mobile No,Success,Uber,Mumbai
+TXN00466,2024-01-23,2024,Jan,23,U97,Money Spent,Bills,4351.76,36861.27,UPI ID,Success,Uber,Chennai
+TXN00467,2023-03-12,2023,Mar,12,U117,Money Added,Groceries,593.29,22759.75,UPI ID,Pending,-,Pune
+TXN00468,2024-11-15,2024,Nov,15,U129,Money Sent,Groceries,15559.16,2356.03,UPI ID,Success,Amazon,Delhi
+TXN00469,2024-01-08,2024,Jan,8,U97,Money Added,Travel,4119.51,30271.17,QR Code,Success,-,Chennai
+TXN00470,2024-06-21,2024,Jun,21,U28,Money Spent,Entertainment,13532.1,11886.78,Bank Transfer,Success,Uber,Bangalore
+TXN00471,2023-10-07,2023,Oct,7,U24,Money Spent,Cashback,16321.36,1626.67,Wallet,Failed,Zomato,Mumbai
+TXN00472,2024-08-07,2024,Aug,7,U140,Money Sent,Rent,16263.78,10862.15,QR Code,Pending,IRCTC,Hyderabad
+TXN00473,2023-11-07,2023,Nov,7,U172,Money Sent,Food,18633.62,17902.58,Bank Transfer,Pending,BigBasket,Pune
+TXN00474,2023-03-02,2023,Mar,2,U15,Money Sent,Travel,1470.03,11385.94,QR Code,Pending,Electricity Board,Pune
+TXN00475,2024-05-30,2024,May,30,U110,Money Spent,Cashback,11414.95,38055.19,Bank Transfer,Success,Electricity Board,Hyderabad
+TXN00476,2023-03-05,2023,Mar,5,U192,Money Sent,Cashback,3210.35,48018.15,Bank Transfer,Success,Flipkart,Bangalore
+TXN00477,2025-03-02,2025,Mar,2,U28,Money Sent,Rent,15985.46,29164.29,UPI ID,Success,IRCTC,Delhi
+TXN00478,2024-02-12,2024,Feb,12,U54,Money Spent,Shopping,3400.3,16038.78,Bank Transfer,Success,Amazon,Kolkata
+TXN00479,2023-11-04,2023,Nov,4,U191,Money Spent,Cashback,15965.44,22833.14,UPI ID,Failed,Amazon,Bangalore
+TXN00480,2024-09-14,2024,Sep,14,U83,Money Spent,Shopping,5669.63,15611.67,Wallet,Success,BigBasket,Hyderabad
+TXN00481,2024-01-11,2024,Jan,11,U42,Money Added,Rent,5095.47,2423.83,Mobile No,Success,-,Kolkata
+TXN00482,2024-08-19,2024,Aug,19,U59,Money Spent,Groceries,11933.09,933.82,Mobile No,Success,Netflix,Chennai
+TXN00483,2023-05-24,2023,May,24,U167,Money Added,Investment,3271.79,35761.99,Wallet,Pending,-,Kolkata
+TXN00484,2023-07-20,2023,Jul,20,U115,Money Spent,Cashback,7109.56,28905.7,UPI ID,Success,Electricity Board,Delhi
+TXN00485,2023-07-22,2023,Jul,22,U58,Money Added,Investment,6876.19,3713.04,QR Code,Success,-,Bangalore
+TXN00486,2025-01-04,2025,Jan,4,U64,Money Sent,Groceries,5372.45,5720.99,Mobile No,Pending,IRCTC,Mumbai
+TXN00487,2023-04-26,2023,Apr,26,U46,Money Added,Investment,16452.14,3718.16,UPI ID,Failed,-,Mumbai
+TXN00488,2023-02-14,2023,Feb,14,U150,Money Added,Groceries,7879.04,18018.49,Bank Transfer,Pending,-,Pune
+TXN00489,2023-04-17,2023,Apr,17,U102,Money Spent,Cashback,7241.34,530.86,Mobile No,Success,Electricity Board,Pune
+TXN00490,2023-01-08,2023,Jan,8,U67,Money Sent,Food,14466.41,35625.6,UPI ID,Pending,Swiggy,Mumbai
+TXN00491,2023-02-06,2023,Feb,6,U72,Money Added,Travel,504.61,40302.34,Bank Transfer,Success,-,Hyderabad
+TXN00492,2025-01-30,2025,Jan,30,U181,Money Sent,Cashback,3687.88,3526.05,UPI ID,Failed,Uber,Hyderabad
+TXN00493,2023-08-17,2023,Aug,17,U51,Money Spent,Food,10467.28,26101.27,Wallet,Success,Zomato,Pune
+TXN00494,2023-07-02,2023,Jul,2,U74,Money Spent,Bills,8996.73,13268.4,Bank Transfer,Pending,Zomato,Delhi
+TXN00495,2023-12-13,2023,Dec,13,U144,Money Sent,Shopping,13368.69,41376.0,Mobile No,Failed,Zomato,Hyderabad
+TXN00496,2023-10-31,2023,Oct,31,U147,Money Sent,Groceries,4676.59,26156.26,QR Code,Success,Swiggy,Bangalore
+TXN00497,2023-11-16,2023,Nov,16,U29,Money Added,Rent,13449.11,14812.61,UPI ID,Failed,-,Pune
+TXN00498,2023-07-17,2023,Jul,17,U176,Money Sent,Cashback,11544.2,16567.58,Bank Transfer,Success,IRCTC,Delhi
+TXN00499,2023-11-28,2023,Nov,28,U189,Money Added,Investment,11491.67,40487.81,QR Code,Failed,-,Pune
+TXN00500,2023-04-13,2023,Apr,13,U8,Money Added,Investment,803.97,32499.0,Mobile No,Failed,-,Bangalore
+TXN00501,2024-06-25,2024,Jun,25,U56,Money Sent,Shopping,19608.28,31260.89,Bank Transfer,Pending,Flipkart,Delhi
+TXN00502,2024-11-20,2024,Nov,20,U160,Money Spent,Groceries,13082.37,17841.96,UPI ID,Pending,Netflix,Delhi
+TXN00503,2023-12-28,2023,Dec,28,U74,Money Added,Bills,9634.51,3290.76,Mobile No,Success,-,Pune
+TXN00504,2023-02-25,2023,Feb,25,U53,Money Sent,Shopping,12115.59,21089.88,UPI ID,Success,IRCTC,Pune
+TXN00505,2024-05-27,2024,May,27,U190,Money Sent,Shopping,19331.28,35847.25,UPI ID,Failed,BigBasket,Bangalore
+TXN00506,2024-12-18,2024,Dec,18,U52,Money Sent,Investment,6447.22,3040.78,Bank Transfer,Failed,Swiggy,Chennai
+TXN00507,2023-11-20,2023,Nov,20,U197,Money Sent,Groceries,6717.29,19024.85,Mobile No,Pending,BigBasket,Bangalore
+TXN00508,2024-03-12,2024,Mar,12,U5,Money Added,Bills,11207.2,39310.42,UPI ID,Failed,-,Pune
+TXN00509,2025-01-06,2025,Jan,6,U127,Money Added,Shopping,10034.2,27013.06,Wallet,Failed,-,Chennai
+TXN00510,2023-07-28,2023,Jul,28,U39,Money Sent,Bills,10088.32,23877.7,Bank Transfer,Success,BigBasket,Mumbai
+TXN00511,2023-10-06,2023,Oct,6,U31,Money Sent,Bills,19492.09,42192.22,QR Code,Success,Swiggy,Pune
+TXN00512,2024-09-22,2024,Sep,22,U141,Money Spent,Groceries,1518.9,27850.13,Bank Transfer,Success,Flipkart,Pune
+TXN00513,2023-08-29,2023,Aug,29,U141,Money Sent,Rent,14547.88,38334.34,Mobile No,Failed,Amazon,Pune
+TXN00514,2025-02-10,2025,Feb,10,U31,Money Spent,Entertainment,1229.98,49278.57,Mobile No,Success,Uber,Kolkata
+TXN00515,2024-11-27,2024,Nov,27,U192,Money Spent,Groceries,17553.27,25244.97,Wallet,Pending,Uber,Mumbai
+TXN00516,2024-02-25,2024,Feb,25,U29,Money Spent,Food,19985.95,19367.19,UPI ID,Pending,Uber,Bangalore
+TXN00517,2024-12-30,2024,Dec,30,U171,Money Spent,Rent,4537.15,41329.3,Wallet,Failed,Zomato,Bangalore
+TXN00518,2024-09-05,2024,Sep,5,U138,Money Sent,Bills,4152.29,33268.64,Bank Transfer,Success,Swiggy,Kolkata
+TXN00519,2024-11-12,2024,Nov,12,U144,Money Sent,Bills,13057.12,46832.49,Wallet,Success,Swiggy,Bangalore
+TXN00520,2024-02-07,2024,Feb,7,U146,Money Spent,Investment,11854.49,47647.19,Mobile No,Success,Flipkart,Pune
+TXN00521,2025-01-18,2025,Jan,18,U27,Money Sent,Travel,4794.88,17670.62,Wallet,Pending,Swiggy,Bangalore
+TXN00522,2024-08-10,2024,Aug,10,U71,Money Spent,Cashback,15193.31,3005.56,Mobile No,Success,Zomato,Mumbai
+TXN00523,2024-05-01,2024,May,1,U166,Money Sent,Shopping,8724.12,25993.79,Bank Transfer,Failed,Amazon,Mumbai
+TXN00524,2024-08-12,2024,Aug,12,U177,Money Sent,Cashback,15776.2,30028.06,QR Code,Success,BigBasket,Hyderabad
+TXN00525,2023-08-05,2023,Aug,5,U34,Money Sent,Travel,14086.67,25062.57,Mobile No,Failed,BigBasket,Kolkata
+TXN00526,2025-02-28,2025,Feb,28,U69,Money Spent,Shopping,1138.88,30211.41,Bank Transfer,Failed,Netflix,Bangalore
+TXN00527,2023-06-13,2023,Jun,13,U192,Money Spent,Rent,5285.09,49111.79,QR Code,Failed,BigBasket,Chennai
+TXN00528,2024-11-26,2024,Nov,26,U86,Money Spent,Cashback,1481.37,4122.44,Bank Transfer,Failed,Flipkart,Pune
+TXN00529,2023-02-05,2023,Feb,5,U102,Money Spent,Groceries,18852.35,28301.2,UPI ID,Failed,Swiggy,Bangalore
+TXN00530,2025-02-18,2025,Feb,18,U1,Money Sent,Groceries,4476.36,27535.65,Bank Transfer,Success,BigBasket,Delhi
+TXN00531,2025-01-22,2025,Jan,22,U32,Money Sent,Bills,5818.09,12549.1,Mobile No,Success,Netflix,Mumbai
+TXN00532,2023-01-30,2023,Jan,30,U91,Money Spent,Travel,815.79,48617.99,Mobile No,Failed,Amazon,Mumbai
+TXN00533,2023-09-14,2023,Sep,14,U120,Money Spent,Travel,4389.15,43527.86,QR Code,Failed,Zomato,Pune
+TXN00534,2024-12-28,2024,Dec,28,U188,Money Sent,Entertainment,4245.52,17133.97,Wallet,Pending,Zomato,Mumbai
+TXN00535,2023-11-11,2023,Nov,11,U4,Money Sent,Cashback,14676.18,8075.75,Wallet,Failed,Amazon,Mumbai
+TXN00536,2023-03-05,2023,Mar,5,U38,Money Added,Travel,10774.85,20152.04,QR Code,Success,-,Bangalore
+TXN00537,2023-09-28,2023,Sep,28,U65,Money Spent,Travel,7826.29,26999.72,Wallet,Success,IRCTC,Hyderabad
+TXN00538,2023-12-08,2023,Dec,8,U9,Money Spent,Entertainment,15778.55,45949.78,Mobile No,Success,Zomato,Chennai
+TXN00539,2024-04-06,2024,Apr,6,U159,Money Added,Entertainment,16866.65,33710.46,Wallet,Failed,-,Hyderabad
+TXN00540,2023-02-15,2023,Feb,15,U196,Money Sent,Rent,10486.56,36201.92,Wallet,Pending,Netflix,Bangalore
+TXN00541,2024-05-09,2024,May,9,U31,Money Spent,Investment,1535.72,9151.94,Wallet,Success,Uber,Pune
+TXN00542,2023-02-15,2023,Feb,15,U179,Money Added,Cashback,8218.54,44142.96,Mobile No,Failed,-,Bangalore
+TXN00543,2023-01-29,2023,Jan,29,U13,Money Sent,Entertainment,12561.74,43723.21,Mobile No,Success,Uber,Delhi
+TXN00544,2024-09-28,2024,Sep,28,U198,Money Spent,Investment,12986.24,30256.51,UPI ID,Pending,BigBasket,Hyderabad
+TXN00545,2024-01-05,2024,Jan,5,U101,Money Sent,Cashback,16769.81,30260.06,Wallet,Pending,Electricity Board,Chennai
+TXN00546,2023-04-22,2023,Apr,22,U41,Money Spent,Entertainment,4650.53,41547.62,UPI ID,Failed,Swiggy,Kolkata
+TXN00547,2025-01-15,2025,Jan,15,U196,Money Sent,Bills,15487.32,5014.9,QR Code,Failed,Netflix,Pune
+TXN00548,2025-02-20,2025,Feb,20,U186,Money Spent,Rent,1107.43,17374.31,Mobile No,Pending,Electricity Board,Pune
+TXN00549,2023-05-23,2023,May,23,U12,Money Spent,Cashback,17640.93,41787.41,Wallet,Success,BigBasket,Mumbai
+TXN00550,2024-05-18,2024,May,18,U18,Money Sent,Travel,18106.05,45244.66,QR Code,Pending,Flipkart,Pune
+TXN00551,2023-11-12,2023,Nov,12,U17,Money Sent,Food,12796.13,5286.52,Wallet,Success,Zomato,Mumbai
+TXN00552,2024-07-18,2024,Jul,18,U80,Money Added,Travel,11963.12,39395.32,Bank Transfer,Success,-,Delhi
+TXN00553,2023-09-10,2023,Sep,10,U69,Money Added,Investment,11020.04,40074.7,UPI ID,Pending,-,Chennai
+TXN00554,2023-08-25,2023,Aug,25,U169,Money Added,Groceries,12653.25,38769.42,Wallet,Failed,-,Kolkata
+TXN00555,2025-02-11,2025,Feb,11,U57,Money Added,Entertainment,9793.85,4461.35,Bank Transfer,Pending,-,Bangalore
+TXN00556,2025-01-03,2025,Jan,3,U92,Money Spent,Shopping,7796.79,41424.91,Bank Transfer,Failed,Zomato,Delhi
+TXN00557,2023-10-09,2023,Oct,9,U9,Money Spent,Bills,6416.58,7544.51,QR Code,Success,Amazon,Bangalore
+TXN00558,2023-10-25,2023,Oct,25,U128,Money Sent,Cashback,18477.68,23561.13,QR Code,Pending,Amazon,Pune
+TXN00559,2024-05-07,2024,May,7,U9,Money Sent,Groceries,13266.76,5008.93,Mobile No,Pending,Swiggy,Delhi
+TXN00560,2024-08-10,2024,Aug,10,U151,Money Added,Travel,11728.6,43063.69,Wallet,Success,-,Hyderabad
+TXN00561,2023-05-03,2023,May,3,U117,Money Spent,Cashback,536.83,47999.78,QR Code,Failed,Uber,Chennai
+TXN00562,2024-10-27,2024,Oct,27,U5,Money Spent,Food,7013.91,1937.95,QR Code,Success,Electricity Board,Kolkata
+TXN00563,2023-09-09,2023,Sep,9,U83,Money Added,Investment,18799.84,9137.16,Bank Transfer,Failed,-,Bangalore
+TXN00564,2023-05-16,2023,May,16,U139,Money Added,Food,10005.48,8942.96,UPI ID,Pending,-,Bangalore
+TXN00565,2023-03-17,2023,Mar,17,U195,Money Spent,Rent,14851.43,34253.54,Mobile No,Success,Uber,Chennai
+TXN00566,2023-03-12,2023,Mar,12,U193,Money Spent,Rent,17426.9,14975.86,Bank Transfer,Success,Uber,Pune
+TXN00567,2025-02-15,2025,Feb,15,U21,Money Added,Investment,4256.15,35571.01,QR Code,Failed,-,Pune
+TXN00568,2023-06-18,2023,Jun,18,U191,Money Spent,Bills,4608.26,19575.05,Mobile No,Success,Amazon,Bangalore
+TXN00569,2023-04-14,2023,Apr,14,U166,Money Added,Rent,11827.84,48345.2,Mobile No,Pending,-,Hyderabad
+TXN00570,2023-07-18,2023,Jul,18,U26,Money Added,Travel,3370.86,27460.07,QR Code,Pending,-,Kolkata
+TXN00571,2023-02-26,2023,Feb,26,U144,Money Added,Bills,12429.18,46253.01,Bank Transfer,Failed,-,Hyderabad
+TXN00572,2023-08-15,2023,Aug,15,U103,Money Sent,Travel,3595.51,33662.75,Wallet,Success,Netflix,Hyderabad
+TXN00573,2024-06-04,2024,Jun,4,U90,Money Added,Investment,9350.44,12409.83,QR Code,Pending,-,Chennai
+TXN00574,2023-05-16,2023,May,16,U61,Money Spent,Entertainment,8211.29,13264.32,Wallet,Failed,Electricity Board,Bangalore
+TXN00575,2024-04-08,2024,Apr,8,U65,Money Added,Investment,296.32,45631.3,UPI ID,Pending,-,Kolkata
+TXN00576,2023-05-07,2023,May,7,U16,Money Added,Investment,1097.72,7580.35,Mobile No,Pending,-,Mumbai
+TXN00577,2024-03-19,2024,Mar,19,U110,Money Sent,Bills,10885.28,23342.07,Bank Transfer,Pending,Flipkart,Hyderabad
+TXN00578,2024-05-16,2024,May,16,U7,Money Added,Shopping,9426.7,6356.12,Mobile No,Success,-,Pune
+TXN00579,2023-10-20,2023,Oct,20,U55,Money Spent,Bills,9042.93,6198.58,QR Code,Failed,Zomato,Mumbai
+TXN00580,2024-09-11,2024,Sep,11,U187,Money Sent,Investment,5729.75,49561.75,Mobile No,Failed,Zomato,Bangalore
+TXN00581,2024-12-02,2024,Dec,2,U114,Money Added,Entertainment,10237.12,17791.69,UPI ID,Success,-,Kolkata
+TXN00582,2025-02-04,2025,Feb,4,U93,Money Sent,Shopping,3157.8,43604.98,QR Code,Pending,BigBasket,Delhi
+TXN00583,2024-06-18,2024,Jun,18,U2,Money Added,Food,3477.05,20709.41,Mobile No,Pending,-,Hyderabad
+TXN00584,2024-07-27,2024,Jul,27,U102,Money Spent,Investment,18477.57,27955.84,UPI ID,Failed,Electricity Board,Kolkata
+TXN00585,2023-02-18,2023,Feb,18,U88,Money Spent,Cashback,2050.99,44590.38,Mobile No,Pending,Amazon,Chennai
+TXN00586,2023-05-10,2023,May,10,U36,Money Added,Food,4389.47,14475.11,UPI ID,Pending,-,Hyderabad
+TXN00587,2023-05-27,2023,May,27,U177,Money Added,Travel,16547.54,40573.4,Bank Transfer,Success,-,Chennai
+TXN00588,2023-06-19,2023,Jun,19,U167,Money Sent,Entertainment,3225.22,19840.52,UPI ID,Failed,Electricity Board,Delhi
+TXN00589,2024-05-04,2024,May,4,U185,Money Added,Entertainment,17719.61,4858.89,QR Code,Failed,-,Bangalore
+TXN00590,2024-12-02,2024,Dec,2,U48,Money Added,Bills,4481.04,14873.29,Wallet,Success,-,Chennai
+TXN00591,2023-08-09,2023,Aug,9,U166,Money Sent,Bills,3630.06,25558.62,UPI ID,Success,Zomato,Hyderabad
+TXN00592,2023-03-09,2023,Mar,9,U49,Money Spent,Cashback,12900.91,28491.93,QR Code,Success,Zomato,Mumbai
+TXN00593,2025-02-01,2025,Feb,1,U19,Money Sent,Shopping,17274.14,27541.75,QR Code,Success,Flipkart,Hyderabad
+TXN00594,2024-08-08,2024,Aug,8,U155,Money Sent,Groceries,4449.18,31468.72,Bank Transfer,Pending,Flipkart,Delhi
+TXN00595,2025-03-10,2025,Mar,10,U194,Money Sent,Food,19660.49,30029.22,Bank Transfer,Failed,Uber,Bangalore
+TXN00596,2024-07-26,2024,Jul,26,U50,Money Sent,Investment,693.38,23808.58,Mobile No,Success,Netflix,Delhi
+TXN00597,2023-11-17,2023,Nov,17,U125,Money Added,Food,3920.11,17053.93,Bank Transfer,Failed,-,Pune
+TXN00598,2024-03-21,2024,Mar,21,U157,Money Sent,Entertainment,13917.74,12544.82,Bank Transfer,Pending,Netflix,Bangalore
+TXN00599,2024-12-18,2024,Dec,18,U110,Money Sent,Travel,533.72,13675.84,QR Code,Success,IRCTC,Kolkata
+TXN00600,2023-02-19,2023,Feb,19,U16,Money Spent,Bills,2727.52,43346.2,Bank Transfer,Failed,BigBasket,Kolkata
+TXN00601,2023-06-06,2023,Jun,6,U157,Money Sent,Shopping,1089.12,14473.63,UPI ID,Failed,Flipkart,Hyderabad
+TXN00602,2023-03-02,2023,Mar,2,U62,Money Sent,Shopping,11601.32,44267.99,UPI ID,Failed,Uber,Bangalore
+TXN00603,2023-09-05,2023,Sep,5,U66,Money Spent,Groceries,13736.21,6653.79,UPI ID,Failed,Swiggy,Mumbai
+TXN00604,2023-07-12,2023,Jul,12,U127,Money Sent,Travel,6607.1,25299.83,Wallet,Failed,IRCTC,Hyderabad
+TXN00605,2025-02-21,2025,Feb,21,U13,Money Added,Shopping,17385.96,48974.63,Mobile No,Success,-,Delhi
+TXN00606,2025-01-29,2025,Jan,29,U107,Money Added,Investment,13923.34,20212.53,QR Code,Failed,-,Chennai
+TXN00607,2023-09-20,2023,Sep,20,U111,Money Added,Investment,5538.82,19463.63,UPI ID,Pending,-,Chennai
+TXN00608,2024-09-18,2024,Sep,18,U39,Money Spent,Travel,6026.93,20028.25,Mobile No,Failed,Zomato,Pune
+TXN00609,2024-12-22,2024,Dec,22,U55,Money Added,Rent,18645.77,38696.44,Wallet,Pending,-,Chennai
+TXN00610,2024-02-11,2024,Feb,11,U67,Money Added,Bills,9472.53,30769.89,Mobile No,Failed,-,Bangalore
+TXN00611,2023-04-18,2023,Apr,18,U121,Money Sent,Food,8758.78,47138.69,Mobile No,Pending,BigBasket,Pune
+TXN00612,2023-09-16,2023,Sep,16,U27,Money Sent,Cashback,4236.05,21541.92,Mobile No,Success,IRCTC,Delhi
+TXN00613,2023-12-30,2023,Dec,30,U163,Money Spent,Shopping,15054.22,49196.79,Bank Transfer,Pending,Zomato,Kolkata
+TXN00614,2025-01-12,2025,Jan,12,U84,Money Spent,Bills,8911.7,23230.03,Wallet,Success,Flipkart,Chennai
+TXN00615,2023-10-21,2023,Oct,21,U112,Money Added,Investment,839.14,31944.85,Bank Transfer,Pending,-,Pune
+TXN00616,2024-04-28,2024,Apr,28,U175,Money Added,Food,13374.22,19329.07,UPI ID,Success,-,Hyderabad
+TXN00617,2023-06-22,2023,Jun,22,U167,Money Spent,Shopping,7813.19,11960.45,Mobile No,Pending,Amazon,Bangalore
+TXN00618,2023-06-04,2023,Jun,4,U130,Money Spent,Bills,4503.69,46476.07,Wallet,Failed,Electricity Board,Chennai
+TXN00619,2023-07-03,2023,Jul,3,U65,Money Spent,Travel,4039.41,26930.22,UPI ID,Failed,Netflix,Pune
+TXN00620,2024-05-26,2024,May,26,U142,Money Spent,Bills,11677.94,42198.82,Mobile No,Failed,BigBasket,Mumbai
+TXN00621,2024-08-05,2024,Aug,5,U144,Money Spent,Cashback,899.2,17351.88,Wallet,Pending,Uber,Delhi
+TXN00622,2023-09-20,2023,Sep,20,U63,Money Sent,Bills,18885.64,23617.36,Mobile No,Pending,Swiggy,Pune
+TXN00623,2023-09-14,2023,Sep,14,U171,Money Spent,Entertainment,18640.61,21971.42,Wallet,Pending,Netflix,Hyderabad
+TXN00624,2023-02-05,2023,Feb,5,U106,Money Spent,Travel,9092.98,14361.19,QR Code,Pending,Zomato,Bangalore
+TXN00625,2023-02-08,2023,Feb,8,U72,Money Spent,Rent,9121.6,10748.78,QR Code,Success,BigBasket,Delhi
+TXN00626,2024-10-14,2024,Oct,14,U119,Money Sent,Shopping,9285.04,49122.58,Bank Transfer,Failed,Flipkart,Hyderabad
+TXN00627,2024-12-22,2024,Dec,22,U134,Money Sent,Food,2847.06,23206.81,Mobile No,Failed,Netflix,Delhi
+TXN00628,2023-04-26,2023,Apr,26,U139,Money Sent,Entertainment,3251.23,22247.54,Mobile No,Pending,Flipkart,Mumbai
+TXN00629,2024-03-19,2024,Mar,19,U120,Money Spent,Bills,3403.39,19996.25,Mobile No,Success,BigBasket,Pune
+TXN00630,2023-10-16,2023,Oct,16,U118,Money Added,Rent,8645.5,17788.05,Bank Transfer,Success,-,Bangalore
+TXN00631,2025-01-14,2025,Jan,14,U156,Money Sent,Investment,18798.4,16857.15,Wallet,Pending,Flipkart,Pune
+TXN00632,2023-10-02,2023,Oct,2,U141,Money Spent,Bills,9901.73,25083.05,Mobile No,Failed,Swiggy,Hyderabad
+TXN00633,2024-11-10,2024,Nov,10,U62,Money Sent,Rent,19958.98,18295.53,Mobile No,Failed,Flipkart,Chennai
+TXN00634,2024-04-05,2024,Apr,5,U160,Money Sent,Food,15632.46,27966.94,QR Code,Failed,BigBasket,Pune
+TXN00635,2025-02-19,2025,Feb,19,U46,Money Spent,Investment,3320.34,13748.59,UPI ID,Failed,Uber,Bangalore
+TXN00636,2024-01-25,2024,Jan,25,U163,Money Sent,Bills,9083.37,25167.99,UPI ID,Success,IRCTC,Kolkata
+TXN00637,2024-03-23,2024,Mar,23,U130,Money Sent,Entertainment,11777.78,33766.04,QR Code,Success,Amazon,Kolkata
+TXN00638,2023-05-07,2023,May,7,U10,Money Spent,Bills,304.46,2142.63,Wallet,Success,Amazon,Delhi
+TXN00639,2025-01-25,2025,Jan,25,U109,Money Sent,Shopping,5334.25,48101.91,UPI ID,Failed,Netflix,Mumbai
+TXN00640,2024-03-24,2024,Mar,24,U45,Money Sent,Cashback,168.91,12559.36,Mobile No,Success,IRCTC,Bangalore
+TXN00641,2024-08-17,2024,Aug,17,U46,Money Spent,Bills,12609.45,30981.71,Wallet,Pending,BigBasket,Hyderabad
+TXN00642,2023-05-11,2023,May,11,U38,Money Spent,Bills,5822.17,8959.04,UPI ID,Failed,Amazon,Kolkata
+TXN00643,2023-02-18,2023,Feb,18,U14,Money Added,Rent,4022.72,31416.8,UPI ID,Pending,-,Kolkata
+TXN00644,2023-05-15,2023,May,15,U146,Money Sent,Entertainment,5953.66,43704.87,UPI ID,Failed,Netflix,Mumbai
+TXN00645,2024-10-30,2024,Oct,30,U159,Money Sent,Food,10245.02,19454.47,Wallet,Pending,Netflix,Hyderabad
+TXN00646,2023-04-01,2023,Apr,1,U24,Money Spent,Shopping,4450.03,40145.43,UPI ID,Success,Electricity Board,Chennai
+TXN00647,2023-12-15,2023,Dec,15,U114,Money Added,Rent,18768.2,40693.18,UPI ID,Success,-,Chennai
+TXN00648,2024-05-15,2024,May,15,U131,Money Spent,Food,15385.39,28314.9,UPI ID,Success,Zomato,Delhi
+TXN00649,2024-06-20,2024,Jun,20,U170,Money Added,Bills,5860.07,902.11,Wallet,Success,-,Mumbai
+TXN00650,2024-05-27,2024,May,27,U195,Money Sent,Investment,16974.49,1123.34,Wallet,Success,Uber,Kolkata
+TXN00651,2025-02-21,2025,Feb,21,U165,Money Sent,Travel,4235.59,11868.47,Mobile No,Success,Swiggy,Hyderabad
+TXN00652,2023-02-07,2023,Feb,7,U14,Money Spent,Rent,9801.8,4025.21,QR Code,Failed,Electricity Board,Kolkata
+TXN00653,2024-03-22,2024,Mar,22,U132,Money Sent,Food,9878.69,21506.51,Bank Transfer,Failed,Flipkart,Chennai
+TXN00654,2025-02-07,2025,Feb,7,U37,Money Spent,Entertainment,8810.98,34601.73,QR Code,Pending,Amazon,Chennai
+TXN00655,2024-05-04,2024,May,4,U139,Money Added,Cashback,7919.71,45091.52,QR Code,Pending,-,Chennai
+TXN00656,2023-03-23,2023,Mar,23,U196,Money Sent,Rent,5641.07,43010.9,QR Code,Success,IRCTC,Pune
+TXN00657,2025-02-28,2025,Feb,28,U111,Money Added,Shopping,18811.94,5461.79,Mobile No,Failed,-,Chennai
+TXN00658,2025-01-31,2025,Jan,31,U11,Money Sent,Shopping,4102.37,2386.7,UPI ID,Success,Flipkart,Hyderabad
+TXN00659,2024-12-14,2024,Dec,14,U150,Money Added,Rent,13842.57,3311.4,Mobile No,Pending,-,Delhi
+TXN00660,2023-04-11,2023,Apr,11,U6,Money Spent,Travel,11295.58,14659.55,Wallet,Success,Amazon,Kolkata
+TXN00661,2023-04-08,2023,Apr,8,U17,Money Added,Rent,8084.3,10713.57,QR Code,Success,-,Pune
+TXN00662,2023-07-18,2023,Jul,18,U108,Money Sent,Groceries,15748.64,43207.37,UPI ID,Failed,IRCTC,Delhi
+TXN00663,2024-08-19,2024,Aug,19,U155,Money Added,Entertainment,164.1,11319.59,QR Code,Failed,-,Mumbai
+TXN00664,2024-08-30,2024,Aug,30,U50,Money Added,Shopping,8553.18,27245.78,UPI ID,Success,-,Mumbai
+TXN00665,2023-09-02,2023,Sep,2,U77,Money Added,Investment,15672.82,42439.13,Bank Transfer,Failed,-,Pune
+TXN00666,2023-12-17,2023,Dec,17,U108,Money Sent,Food,18858.54,26527.96,UPI ID,Failed,BigBasket,Chennai
+TXN00667,2023-02-17,2023,Feb,17,U74,Money Sent,Groceries,8403.49,11978.07,UPI ID,Failed,Zomato,Bangalore
+TXN00668,2024-04-30,2024,Apr,30,U112,Money Spent,Investment,4314.19,9017.68,Mobile No,Pending,BigBasket,Chennai
+TXN00669,2025-03-10,2025,Mar,10,U191,Money Sent,Travel,14054.74,31012.85,Wallet,Pending,Amazon,Chennai
+TXN00670,2024-05-10,2024,May,10,U35,Money Added,Groceries,479.62,47537.72,Mobile No,Pending,-,Chennai
+TXN00671,2025-02-19,2025,Feb,19,U125,Money Spent,Shopping,9981.72,21906.16,QR Code,Failed,Uber,Kolkata
+TXN00672,2023-08-26,2023,Aug,26,U65,Money Spent,Travel,19952.53,47276.75,Wallet,Success,Electricity Board,Hyderabad
+TXN00673,2024-11-08,2024,Nov,8,U64,Money Sent,Rent,470.22,20413.76,UPI ID,Failed,Electricity Board,Hyderabad
+TXN00674,2024-11-08,2024,Nov,8,U134,Money Added,Groceries,17162.14,25012.04,Mobile No,Failed,-,Bangalore
+TXN00675,2023-07-17,2023,Jul,17,U182,Money Sent,Food,9333.6,48913.91,UPI ID,Success,Netflix,Chennai
+TXN00676,2023-01-03,2023,Jan,3,U36,Money Added,Entertainment,8332.64,28473.88,UPI ID,Success,-,Chennai
+TXN00677,2024-08-04,2024,Aug,4,U96,Money Added,Travel,5285.26,13356.01,Mobile No,Failed,-,Pune
+TXN00678,2024-06-24,2024,Jun,24,U5,Money Spent,Rent,9820.27,49415.59,Wallet,Pending,IRCTC,Mumbai
+TXN00679,2023-07-30,2023,Jul,30,U118,Money Sent,Shopping,19149.77,26995.21,UPI ID,Success,Amazon,Delhi
+TXN00680,2024-12-10,2024,Dec,10,U78,Money Sent,Bills,11433.12,33025.9,Mobile No,Failed,IRCTC,Bangalore
+TXN00681,2023-07-06,2023,Jul,6,U184,Money Spent,Entertainment,5641.35,16537.39,UPI ID,Success,Amazon,Bangalore
+TXN00682,2024-11-11,2024,Nov,11,U144,Money Sent,Groceries,1784.41,34254.17,Mobile No,Pending,Netflix,Chennai
+TXN00683,2025-01-03,2025,Jan,3,U153,Money Added,Rent,6414.67,46399.24,Mobile No,Success,-,Delhi
+TXN00684,2023-10-07,2023,Oct,7,U184,Money Spent,Cashback,583.53,37495.57,UPI ID,Pending,Flipkart,Mumbai
+TXN00685,2024-04-21,2024,Apr,21,U127,Money Spent,Investment,18020.55,44637.83,Wallet,Success,Swiggy,Chennai
+TXN00686,2025-01-13,2025,Jan,13,U160,Money Added,Groceries,6631.11,47544.46,Wallet,Success,-,Chennai
+TXN00687,2024-05-23,2024,May,23,U181,Money Spent,Rent,277.08,18284.49,QR Code,Pending,IRCTC,Pune
+TXN00688,2024-06-30,2024,Jun,30,U151,Money Spent,Entertainment,252.5,1727.07,Wallet,Success,BigBasket,Delhi
+TXN00689,2023-04-08,2023,Apr,8,U159,Money Sent,Rent,19627.35,6388.94,Bank Transfer,Pending,BigBasket,Bangalore
+TXN00690,2024-12-14,2024,Dec,14,U162,Money Added,Cashback,16981.22,44097.97,Mobile No,Pending,-,Delhi
+TXN00691,2023-11-03,2023,Nov,3,U173,Money Added,Cashback,17795.68,19899.51,Mobile No,Success,-,Chennai
+TXN00692,2024-12-13,2024,Dec,13,U42,Money Added,Rent,5534.83,15471.01,Bank Transfer,Success,-,Kolkata
+TXN00693,2023-11-02,2023,Nov,2,U97,Money Spent,Groceries,17189.71,46989.98,Wallet,Failed,Uber,Bangalore
+TXN00694,2023-03-07,2023,Mar,7,U144,Money Sent,Bills,11517.05,23243.0,Mobile No,Success,Electricity Board,Delhi
+TXN00695,2024-11-19,2024,Nov,19,U89,Money Spent,Shopping,10788.12,23649.09,Bank Transfer,Pending,IRCTC,Mumbai
+TXN00696,2024-11-22,2024,Nov,22,U3,Money Added,Entertainment,15530.99,4522.47,Wallet,Pending,-,Bangalore
+TXN00697,2024-12-29,2024,Dec,29,U50,Money Sent,Investment,10203.09,38538.71,QR Code,Success,Uber,Kolkata
+TXN00698,2024-10-11,2024,Oct,11,U189,Money Added,Travel,7531.63,44698.22,Mobile No,Pending,-,Bangalore
+TXN00699,2023-03-05,2023,Mar,5,U40,Money Sent,Rent,13799.5,38626.6,UPI ID,Failed,Flipkart,Kolkata
+TXN00700,2023-08-14,2023,Aug,14,U80,Money Sent,Groceries,16367.57,42320.92,UPI ID,Success,Uber,Delhi
+TXN00701,2024-04-30,2024,Apr,30,U159,Money Sent,Food,9569.54,22538.27,QR Code,Failed,Swiggy,Hyderabad
+TXN00702,2023-01-24,2023,Jan,24,U22,Money Sent,Travel,16791.24,37498.08,Bank Transfer,Pending,Electricity Board,Chennai
+TXN00703,2023-05-29,2023,May,29,U101,Money Spent,Travel,15997.35,19736.93,UPI ID,Success,Uber,Chennai
+TXN00704,2023-08-30,2023,Aug,30,U70,Money Spent,Entertainment,2256.0,18546.01,UPI ID,Success,Amazon,Pune
+TXN00705,2025-02-11,2025,Feb,11,U138,Money Added,Travel,2327.49,30884.48,UPI ID,Failed,-,Mumbai
+TXN00706,2024-11-10,2024,Nov,10,U136,Money Sent,Rent,11750.83,28254.7,Mobile No,Failed,Flipkart,Hyderabad
+TXN00707,2023-08-20,2023,Aug,20,U126,Money Spent,Rent,14324.03,30899.5,UPI ID,Success,Netflix,Hyderabad
+TXN00708,2024-11-19,2024,Nov,19,U113,Money Sent,Bills,9490.71,13654.6,Wallet,Failed,Amazon,Chennai
+TXN00709,2024-06-10,2024,Jun,10,U180,Money Sent,Rent,5480.92,3115.39,Bank Transfer,Success,Zomato,Mumbai
+TXN00710,2024-02-09,2024,Feb,9,U138,Money Spent,Investment,667.53,39221.92,Bank Transfer,Pending,Electricity Board,Chennai
+TXN00711,2025-01-14,2025,Jan,14,U26,Money Added,Food,19645.0,7089.31,Mobile No,Pending,-,Chennai
+TXN00712,2024-09-25,2024,Sep,25,U72,Money Spent,Bills,3174.7,20555.51,Wallet,Pending,IRCTC,Bangalore
+TXN00713,2023-05-08,2023,May,8,U133,Money Added,Investment,19555.21,14352.66,QR Code,Pending,-,Kolkata
+TXN00714,2023-04-06,2023,Apr,6,U171,Money Sent,Rent,17059.92,27311.56,QR Code,Success,Electricity Board,Pune
+TXN00715,2023-07-16,2023,Jul,16,U125,Money Spent,Travel,9062.71,12954.93,Wallet,Failed,Uber,Bangalore
+TXN00716,2023-03-19,2023,Mar,19,U194,Money Spent,Bills,15003.93,19575.26,QR Code,Pending,BigBasket,Bangalore
+TXN00717,2024-09-17,2024,Sep,17,U97,Money Spent,Travel,4270.11,46146.47,Bank Transfer,Success,Zomato,Pune
+TXN00718,2024-06-06,2024,Jun,6,U68,Money Sent,Entertainment,14651.58,11149.84,UPI ID,Pending,Netflix,Bangalore
+TXN00719,2024-05-23,2024,May,23,U88,Money Added,Travel,15202.12,41505.69,Mobile No,Success,-,Chennai
+TXN00720,2024-12-24,2024,Dec,24,U109,Money Added,Bills,5887.98,29739.53,Mobile No,Failed,-,Mumbai
+TXN00721,2024-03-21,2024,Mar,21,U34,Money Spent,Rent,6923.28,3037.33,UPI ID,Pending,Flipkart,Chennai
+TXN00722,2025-02-10,2025,Feb,10,U95,Money Spent,Shopping,19924.81,891.99,Wallet,Pending,Netflix,Hyderabad
+TXN00723,2024-12-07,2024,Dec,7,U198,Money Spent,Cashback,7282.43,22559.73,QR Code,Failed,Flipkart,Chennai
+TXN00724,2024-07-26,2024,Jul,26,U187,Money Added,Travel,4142.79,13575.97,QR Code,Success,-,Bangalore
+TXN00725,2023-04-28,2023,Apr,28,U171,Money Added,Cashback,602.81,25045.62,UPI ID,Pending,-,Bangalore
+TXN00726,2024-01-30,2024,Jan,30,U177,Money Sent,Groceries,14025.59,1354.24,UPI ID,Pending,Amazon,Bangalore
+TXN00727,2024-12-27,2024,Dec,27,U100,Money Added,Bills,17332.37,30472.05,UPI ID,Pending,-,Hyderabad
+TXN00728,2023-02-27,2023,Feb,27,U130,Money Added,Food,4654.64,33061.36,Mobile No,Failed,-,Kolkata
+TXN00729,2024-08-07,2024,Aug,7,U134,Money Spent,Food,4613.78,3988.18,Mobile No,Failed,Zomato,Hyderabad
+TXN00730,2023-02-01,2023,Feb,1,U99,Money Sent,Travel,10830.8,45531.74,Mobile No,Success,Uber,Pune
+TXN00731,2024-01-21,2024,Jan,21,U92,Money Spent,Rent,7581.17,39600.82,Mobile No,Pending,IRCTC,Pune
+TXN00732,2024-04-29,2024,Apr,29,U101,Money Sent,Entertainment,9420.94,1576.11,UPI ID,Pending,Netflix,Kolkata
+TXN00733,2024-07-08,2024,Jul,8,U72,Money Sent,Travel,8902.79,17695.03,Bank Transfer,Failed,BigBasket,Chennai
+TXN00734,2023-11-02,2023,Nov,2,U120,Money Spent,Rent,1006.34,43909.57,Mobile No,Success,Amazon,Mumbai
+TXN00735,2023-11-07,2023,Nov,7,U34,Money Added,Bills,4368.98,33971.6,Mobile No,Failed,-,Mumbai
+TXN00736,2024-10-07,2024,Oct,7,U49,Money Added,Entertainment,12040.83,10602.58,Wallet,Pending,-,Kolkata
+TXN00737,2023-07-13,2023,Jul,13,U12,Money Spent,Investment,2034.06,28132.64,QR Code,Success,Netflix,Kolkata
+TXN00738,2023-03-03,2023,Mar,3,U56,Money Added,Rent,19170.06,26583.6,UPI ID,Pending,-,Kolkata
+TXN00739,2024-05-18,2024,May,18,U132,Money Added,Investment,15429.93,38664.11,QR Code,Pending,-,Hyderabad
+TXN00740,2023-03-02,2023,Mar,2,U143,Money Sent,Shopping,5411.0,40855.69,Wallet,Failed,IRCTC,Hyderabad
+TXN00741,2023-08-07,2023,Aug,7,U108,Money Added,Entertainment,6285.41,44784.65,Mobile No,Pending,-,Delhi
+TXN00742,2024-11-04,2024,Nov,4,U188,Money Added,Travel,13491.95,19293.43,UPI ID,Success,-,Bangalore
+TXN00743,2023-08-23,2023,Aug,23,U22,Money Sent,Groceries,19549.9,12532.91,QR Code,Failed,BigBasket,Chennai
+TXN00744,2024-04-29,2024,Apr,29,U89,Money Sent,Investment,2172.02,35197.4,Mobile No,Success,Swiggy,Delhi
+TXN00745,2023-06-21,2023,Jun,21,U50,Money Spent,Rent,8373.08,7937.12,Mobile No,Success,Amazon,Chennai
+TXN00746,2025-01-05,2025,Jan,5,U13,Money Spent,Groceries,5528.99,29764.27,UPI ID,Success,Netflix,Chennai
+TXN00747,2025-02-12,2025,Feb,12,U17,Money Spent,Groceries,13582.48,19905.28,Wallet,Failed,Electricity Board,Chennai
+TXN00748,2024-12-02,2024,Dec,2,U16,Money Spent,Entertainment,7682.81,39353.95,Mobile No,Pending,Uber,Chennai
+TXN00749,2023-04-05,2023,Apr,5,U36,Money Spent,Groceries,11468.72,13855.36,Mobile No,Pending,Netflix,Mumbai
+TXN00750,2023-01-18,2023,Jan,18,U24,Money Sent,Food,12679.74,32192.12,Wallet,Pending,BigBasket,Kolkata
+TXN00751,2024-06-12,2024,Jun,12,U2,Money Spent,Food,18339.03,43394.69,Bank Transfer,Success,Flipkart,Pune
+TXN00752,2023-12-03,2023,Dec,3,U31,Money Added,Shopping,5313.74,48414.97,Wallet,Failed,-,Bangalore
+TXN00753,2024-06-25,2024,Jun,25,U139,Money Spent,Groceries,13873.29,22007.38,Wallet,Pending,Netflix,Kolkata
+TXN00754,2025-02-03,2025,Feb,3,U31,Money Spent,Groceries,18423.95,24333.99,QR Code,Failed,Amazon,Delhi
+TXN00755,2024-12-06,2024,Dec,6,U131,Money Spent,Rent,2924.31,3606.16,Bank Transfer,Success,Swiggy,Bangalore
+TXN00756,2024-06-10,2024,Jun,10,U90,Money Spent,Cashback,3753.67,17270.37,UPI ID,Failed,Flipkart,Hyderabad
+TXN00757,2025-01-13,2025,Jan,13,U120,Money Spent,Bills,6008.94,38685.19,Wallet,Failed,Electricity Board,Mumbai
+TXN00758,2023-06-08,2023,Jun,8,U127,Money Spent,Cashback,15348.2,42364.7,UPI ID,Pending,Swiggy,Kolkata
+TXN00759,2023-08-07,2023,Aug,7,U99,Money Sent,Travel,3699.16,16862.42,Mobile No,Success,Uber,Pune
+TXN00760,2025-01-29,2025,Jan,29,U153,Money Spent,Shopping,16617.58,12999.2,QR Code,Success,Swiggy,Delhi
+TXN00761,2024-09-09,2024,Sep,9,U118,Money Spent,Food,8301.6,3595.21,QR Code,Failed,Electricity Board,Mumbai
+TXN00762,2023-09-06,2023,Sep,6,U64,Money Spent,Shopping,13150.99,32053.18,Bank Transfer,Pending,BigBasket,Pune
+TXN00763,2023-11-06,2023,Nov,6,U146,Money Spent,Investment,15783.11,9397.68,Mobile No,Failed,Netflix,Pune
+TXN00764,2023-10-22,2023,Oct,22,U15,Money Spent,Food,9617.33,11052.24,Mobile No,Failed,Electricity Board,Chennai
+TXN00765,2023-09-04,2023,Sep,4,U125,Money Sent,Entertainment,4785.25,23632.85,Mobile No,Failed,Netflix,Bangalore
+TXN00766,2024-08-14,2024,Aug,14,U102,Money Spent,Entertainment,8818.54,27988.33,Wallet,Pending,IRCTC,Delhi
+TXN00767,2023-08-06,2023,Aug,6,U199,Money Sent,Cashback,6509.63,34672.72,QR Code,Success,Flipkart,Delhi
+TXN00768,2024-06-18,2024,Jun,18,U156,Money Added,Food,14578.26,32148.3,UPI ID,Failed,-,Pune
+TXN00769,2024-11-22,2024,Nov,22,U79,Money Added,Food,11254.03,49128.73,Wallet,Pending,-,Pune
+TXN00770,2024-11-22,2024,Nov,22,U40,Money Spent,Rent,7185.16,32455.46,Bank Transfer,Failed,Uber,Pune
+TXN00771,2023-09-15,2023,Sep,15,U55,Money Spent,Shopping,2223.2,29993.93,QR Code,Pending,IRCTC,Chennai
+TXN00772,2024-10-17,2024,Oct,17,U186,Money Added,Cashback,11700.59,37857.41,QR Code,Pending,-,Bangalore
+TXN00773,2024-09-29,2024,Sep,29,U5,Money Spent,Investment,13747.23,26202.3,Mobile No,Failed,BigBasket,Kolkata
+TXN00774,2023-02-14,2023,Feb,14,U198,Money Spent,Investment,11347.36,47372.33,Bank Transfer,Failed,Netflix,Pune
+TXN00775,2023-08-21,2023,Aug,21,U12,Money Spent,Cashback,2812.11,45827.06,Mobile No,Failed,BigBasket,Hyderabad
+TXN00776,2025-01-09,2025,Jan,9,U159,Money Added,Travel,4188.76,16776.6,UPI ID,Pending,-,Delhi
+TXN00777,2023-06-30,2023,Jun,30,U189,Money Added,Investment,4406.67,32821.72,Bank Transfer,Success,-,Chennai
+TXN00778,2024-02-18,2024,Feb,18,U63,Money Added,Food,11133.32,3330.62,UPI ID,Failed,-,Delhi
+TXN00779,2024-11-07,2024,Nov,7,U90,Money Sent,Rent,15385.35,3208.5,QR Code,Failed,BigBasket,Bangalore
+TXN00780,2025-03-03,2025,Mar,3,U117,Money Spent,Investment,19787.9,46064.63,UPI ID,Pending,Flipkart,Hyderabad
+TXN00781,2024-06-10,2024,Jun,10,U181,Money Sent,Cashback,4392.15,37483.81,QR Code,Pending,Swiggy,Pune
+TXN00782,2024-05-17,2024,May,17,U116,Money Spent,Entertainment,11290.32,24835.54,QR Code,Failed,Flipkart,Hyderabad
+TXN00783,2023-05-01,2023,May,1,U125,Money Added,Investment,3240.17,39340.78,UPI ID,Pending,-,Kolkata
+TXN00784,2023-06-04,2023,Jun,4,U134,Money Spent,Groceries,2995.07,30981.55,Bank Transfer,Failed,Swiggy,Bangalore
+TXN00785,2024-02-15,2024,Feb,15,U101,Money Sent,Rent,6158.96,12077.04,Bank Transfer,Pending,Swiggy,Bangalore
+TXN00786,2024-06-07,2024,Jun,7,U39,Money Spent,Investment,15891.26,15775.72,Wallet,Success,Netflix,Kolkata
+TXN00787,2024-10-31,2024,Oct,31,U14,Money Added,Investment,1843.99,36614.35,Mobile No,Success,-,Chennai
+TXN00788,2023-11-13,2023,Nov,13,U6,Money Added,Rent,15948.37,38665.52,UPI ID,Failed,-,Kolkata
+TXN00789,2024-02-13,2024,Feb,13,U105,Money Added,Shopping,6443.15,4292.35,Bank Transfer,Failed,-,Kolkata
+TXN00790,2023-10-04,2023,Oct,4,U117,Money Spent,Rent,7581.42,43108.08,QR Code,Failed,Amazon,Hyderabad
+TXN00791,2023-02-20,2023,Feb,20,U88,Money Sent,Food,6040.27,13464.41,Wallet,Pending,Electricity Board,Mumbai
+TXN00792,2024-04-10,2024,Apr,10,U38,Money Sent,Shopping,1242.61,21051.11,UPI ID,Success,Uber,Kolkata
+TXN00793,2025-02-22,2025,Feb,22,U53,Money Spent,Food,9489.45,29664.85,UPI ID,Success,BigBasket,Pune
+TXN00794,2023-10-07,2023,Oct,7,U77,Money Sent,Shopping,2215.7,31610.68,Mobile No,Success,IRCTC,Mumbai
+TXN00795,2023-10-14,2023,Oct,14,U80,Money Sent,Investment,4918.96,15657.12,Wallet,Success,Flipkart,Mumbai
+TXN00796,2023-08-13,2023,Aug,13,U85,Money Sent,Rent,17346.99,45853.9,QR Code,Success,Amazon,Hyderabad
+TXN00797,2023-04-15,2023,Apr,15,U149,Money Added,Food,9757.07,37015.9,Bank Transfer,Success,-,Pune
+TXN00798,2023-08-31,2023,Aug,31,U40,Money Added,Groceries,8841.17,4893.12,Bank Transfer,Failed,-,Mumbai
+TXN00799,2023-01-07,2023,Jan,7,U85,Money Sent,Groceries,16634.7,26857.32,Wallet,Pending,IRCTC,Hyderabad
+TXN00800,2024-10-03,2024,Oct,3,U12,Money Spent,Cashback,4014.36,2936.62,UPI ID,Pending,BigBasket,Mumbai
+TXN00801,2023-12-05,2023,Dec,5,U81,Money Sent,Shopping,4182.18,41657.4,Wallet,Success,Amazon,Delhi
+TXN00802,2024-07-29,2024,Jul,29,U185,Money Spent,Cashback,168.87,49969.59,Bank Transfer,Pending,IRCTC,Kolkata
+TXN00803,2024-06-07,2024,Jun,7,U28,Money Added,Groceries,6942.49,49912.12,QR Code,Success,-,Delhi
+TXN00804,2023-02-16,2023,Feb,16,U158,Money Spent,Food,1983.27,1296.43,Bank Transfer,Pending,Flipkart,Chennai
+TXN00805,2024-01-23,2024,Jan,23,U174,Money Added,Investment,686.82,40771.39,Bank Transfer,Failed,-,Mumbai
+TXN00806,2024-04-22,2024,Apr,22,U50,Money Spent,Bills,17150.49,35367.09,QR Code,Success,Flipkart,Mumbai
+TXN00807,2023-07-13,2023,Jul,13,U21,Money Sent,Investment,1754.16,12422.33,Wallet,Success,IRCTC,Hyderabad
+TXN00808,2023-03-12,2023,Mar,12,U165,Money Spent,Bills,5841.19,21617.57,Bank Transfer,Success,BigBasket,Kolkata
+TXN00809,2025-02-13,2025,Feb,13,U103,Money Added,Groceries,2523.93,29085.72,Wallet,Pending,-,Mumbai
+TXN00810,2024-05-29,2024,May,29,U54,Money Sent,Groceries,2150.44,29496.29,QR Code,Success,Swiggy,Delhi
+TXN00811,2025-01-23,2025,Jan,23,U194,Money Spent,Rent,14033.07,47769.85,Wallet,Success,Electricity Board,Delhi
+TXN00812,2024-03-02,2024,Mar,2,U151,Money Sent,Entertainment,14550.26,28865.19,UPI ID,Success,IRCTC,Chennai
+TXN00813,2023-06-21,2023,Jun,21,U162,Money Sent,Groceries,9740.53,39775.72,UPI ID,Failed,Flipkart,Hyderabad
+TXN00814,2024-06-06,2024,Jun,6,U171,Money Added,Rent,15405.67,22619.74,Bank Transfer,Failed,-,Mumbai
+TXN00815,2024-12-04,2024,Dec,4,U11,Money Added,Bills,16254.67,29823.06,QR Code,Pending,-,Chennai
+TXN00816,2023-04-03,2023,Apr,3,U17,Money Added,Rent,13748.71,8610.62,UPI ID,Success,-,Pune
+TXN00817,2023-03-05,2023,Mar,5,U146,Money Added,Shopping,19798.75,17214.83,Wallet,Success,-,Hyderabad
+TXN00818,2025-01-14,2025,Jan,14,U59,Money Sent,Investment,2678.6,8704.77,QR Code,Failed,Uber,Kolkata
+TXN00819,2023-04-08,2023,Apr,8,U172,Money Spent,Investment,10275.85,32869.19,QR Code,Pending,BigBasket,Bangalore
+TXN00820,2024-12-30,2024,Dec,30,U94,Money Added,Rent,19319.31,43303.51,Wallet,Failed,-,Mumbai
+TXN00821,2024-08-10,2024,Aug,10,U66,Money Sent,Shopping,3423.98,7902.94,Bank Transfer,Success,Uber,Kolkata
+TXN00822,2023-08-17,2023,Aug,17,U14,Money Spent,Shopping,4905.62,15099.64,Wallet,Pending,Uber,Mumbai
+TXN00823,2024-02-16,2024,Feb,16,U106,Money Added,Rent,13425.99,14854.91,Mobile No,Success,-,Delhi
+TXN00824,2024-11-25,2024,Nov,25,U111,Money Spent,Bills,18318.0,21661.52,Mobile No,Failed,Flipkart,Pune
+TXN00825,2024-12-27,2024,Dec,27,U32,Money Sent,Rent,17385.93,10103.81,Mobile No,Success,Zomato,Kolkata
+TXN00826,2023-08-11,2023,Aug,11,U156,Money Sent,Rent,5569.67,22689.0,QR Code,Success,Uber,Mumbai
+TXN00827,2024-10-13,2024,Oct,13,U195,Money Spent,Bills,10468.25,3016.87,QR Code,Pending,Uber,Pune
+TXN00828,2024-01-23,2024,Jan,23,U76,Money Sent,Entertainment,13093.0,46383.65,Mobile No,Failed,IRCTC,Mumbai
+TXN00829,2023-03-16,2023,Mar,16,U107,Money Added,Travel,11948.65,28094.01,Bank Transfer,Success,-,Pune
+TXN00830,2024-03-02,2024,Mar,2,U113,Money Sent,Travel,6049.92,23357.51,QR Code,Failed,Electricity Board,Bangalore
+TXN00831,2024-03-13,2024,Mar,13,U120,Money Spent,Food,15109.0,49143.97,Mobile No,Success,Swiggy,Kolkata
+TXN00832,2023-08-13,2023,Aug,13,U89,Money Added,Investment,1289.27,33202.7,QR Code,Failed,-,Mumbai
+TXN00833,2023-06-09,2023,Jun,9,U189,Money Spent,Investment,13434.14,28199.25,Mobile No,Success,BigBasket,Mumbai
+TXN00834,2023-07-20,2023,Jul,20,U80,Money Spent,Groceries,5918.4,14422.84,Wallet,Failed,Netflix,Hyderabad
+TXN00835,2024-11-04,2024,Nov,4,U23,Money Sent,Travel,14007.95,19271.77,Bank Transfer,Pending,Amazon,Mumbai
+TXN00836,2024-11-18,2024,Nov,18,U131,Money Spent,Cashback,5552.51,45399.79,Mobile No,Failed,Swiggy,Bangalore
+TXN00837,2024-12-10,2024,Dec,10,U174,Money Sent,Bills,15146.87,46156.4,Bank Transfer,Failed,Netflix,Mumbai
+TXN00838,2024-05-18,2024,May,18,U59,Money Sent,Entertainment,4183.68,48542.47,UPI ID,Failed,BigBasket,Hyderabad
+TXN00839,2024-02-27,2024,Feb,27,U51,Money Added,Food,1543.99,22861.86,UPI ID,Pending,-,Chennai
+TXN00840,2024-10-02,2024,Oct,2,U43,Money Sent,Entertainment,19328.46,49190.62,Mobile No,Failed,Uber,Kolkata
+TXN00841,2024-05-21,2024,May,21,U136,Money Spent,Food,14066.45,45296.57,Bank Transfer,Success,IRCTC,Bangalore
+TXN00842,2023-01-29,2023,Jan,29,U21,Money Sent,Food,193.2,12675.28,UPI ID,Success,Swiggy,Pune
+TXN00843,2024-03-30,2024,Mar,30,U90,Money Added,Food,1951.1,49823.38,Bank Transfer,Success,-,Bangalore
+TXN00844,2023-10-12,2023,Oct,12,U94,Money Added,Entertainment,8314.24,37928.08,QR Code,Success,-,Delhi
+TXN00845,2024-11-04,2024,Nov,4,U180,Money Added,Investment,10619.45,25505.35,QR Code,Pending,-,Mumbai
+TXN00846,2024-08-24,2024,Aug,24,U51,Money Sent,Investment,3407.52,39059.29,Mobile No,Failed,IRCTC,Chennai
+TXN00847,2023-11-11,2023,Nov,11,U164,Money Spent,Investment,6100.38,22495.13,Mobile No,Pending,Swiggy,Mumbai
+TXN00848,2023-12-13,2023,Dec,13,U99,Money Sent,Food,18940.18,34969.66,Mobile No,Success,Swiggy,Kolkata
+TXN00849,2023-03-20,2023,Mar,20,U124,Money Added,Groceries,18415.05,1629.93,QR Code,Failed,-,Mumbai
+TXN00850,2024-06-06,2024,Jun,6,U136,Money Added,Cashback,16880.65,11359.05,Wallet,Failed,-,Mumbai
+TXN00851,2023-08-22,2023,Aug,22,U80,Money Added,Cashback,14566.49,26265.98,QR Code,Success,-,Mumbai
+TXN00852,2023-11-15,2023,Nov,15,U193,Money Added,Food,7174.25,34108.59,Wallet,Pending,-,Delhi
+TXN00853,2024-12-02,2024,Dec,2,U42,Money Sent,Cashback,12932.44,36946.52,UPI ID,Failed,Swiggy,Pune
+TXN00854,2024-02-12,2024,Feb,12,U167,Money Spent,Rent,638.43,13920.11,UPI ID,Success,Uber,Hyderabad
+TXN00855,2024-02-25,2024,Feb,25,U104,Money Spent,Food,17487.36,18807.64,Wallet,Failed,Flipkart,Kolkata
+TXN00856,2023-03-07,2023,Mar,7,U163,Money Added,Entertainment,13335.28,28260.02,Mobile No,Success,-,Mumbai
+TXN00857,2024-05-21,2024,May,21,U67,Money Added,Shopping,10839.11,12243.03,Mobile No,Pending,-,Pune
+TXN00858,2024-11-09,2024,Nov,9,U38,Money Sent,Groceries,12162.03,14736.05,QR Code,Pending,Swiggy,Delhi
+TXN00859,2024-09-07,2024,Sep,7,U171,Money Added,Food,10277.1,23820.42,Bank Transfer,Success,-,Mumbai
+TXN00860,2024-09-30,2024,Sep,30,U89,Money Added,Food,8028.58,30058.36,Mobile No,Pending,-,Hyderabad
+TXN00861,2023-03-01,2023,Mar,1,U47,Money Sent,Cashback,11835.23,14397.86,Bank Transfer,Failed,BigBasket,Delhi
+TXN00862,2025-02-24,2025,Feb,24,U172,Money Sent,Entertainment,16876.37,39497.96,Wallet,Success,Swiggy,Kolkata
+TXN00863,2025-01-25,2025,Jan,25,U195,Money Added,Bills,8589.91,33113.99,Mobile No,Pending,-,Delhi
+TXN00864,2024-07-27,2024,Jul,27,U126,Money Spent,Shopping,10983.92,16936.98,QR Code,Pending,Netflix,Pune
+TXN00865,2023-04-28,2023,Apr,28,U77,Money Spent,Rent,11758.26,45106.05,Bank Transfer,Pending,Netflix,Hyderabad
+TXN00866,2024-03-08,2024,Mar,8,U20,Money Spent,Entertainment,10140.72,6098.64,QR Code,Success,Uber,Kolkata
+TXN00867,2023-12-27,2023,Dec,27,U102,Money Added,Food,15478.43,44053.73,Wallet,Pending,-,Mumbai
+TXN00868,2024-10-24,2024,Oct,24,U191,Money Added,Food,8972.69,18465.46,Wallet,Pending,-,Pune
+TXN00869,2023-07-06,2023,Jul,6,U107,Money Sent,Groceries,5900.81,24083.53,Mobile No,Failed,Zomato,Delhi
+TXN00870,2023-06-14,2023,Jun,14,U126,Money Spent,Investment,18088.84,40812.93,Mobile No,Failed,Amazon,Mumbai
+TXN00871,2023-03-21,2023,Mar,21,U154,Money Sent,Entertainment,9775.99,30849.76,Mobile No,Pending,BigBasket,Delhi
+TXN00872,2024-04-16,2024,Apr,16,U47,Money Sent,Rent,8427.36,19877.71,QR Code,Pending,Zomato,Mumbai
+TXN00873,2024-11-17,2024,Nov,17,U113,Money Added,Investment,15400.34,31330.28,QR Code,Failed,-,Mumbai
+TXN00874,2023-12-16,2023,Dec,16,U28,Money Spent,Bills,10136.54,34676.23,QR Code,Pending,Zomato,Hyderabad
+TXN00875,2023-01-27,2023,Jan,27,U131,Money Added,Rent,15706.7,7217.98,Bank Transfer,Success,-,Bangalore
+TXN00876,2023-06-29,2023,Jun,29,U175,Money Added,Shopping,3706.0,7599.29,Bank Transfer,Success,-,Hyderabad
+TXN00877,2024-07-20,2024,Jul,20,U16,Money Added,Investment,8289.46,19282.17,UPI ID,Success,-,Chennai
+TXN00878,2024-07-12,2024,Jul,12,U70,Money Added,Rent,10244.53,17876.61,Bank Transfer,Failed,-,Kolkata
+TXN00879,2024-08-20,2024,Aug,20,U122,Money Spent,Rent,14798.49,49870.55,Bank Transfer,Pending,Electricity Board,Chennai
+TXN00880,2023-08-26,2023,Aug,26,U163,Money Sent,Investment,12968.89,11202.4,QR Code,Pending,Electricity Board,Bangalore
+TXN00881,2024-08-30,2024,Aug,30,U100,Money Added,Investment,18459.65,27130.92,UPI ID,Pending,-,Hyderabad
+TXN00882,2024-10-10,2024,Oct,10,U50,Money Spent,Shopping,3423.59,14018.79,Bank Transfer,Failed,Zomato,Chennai
+TXN00883,2024-12-10,2024,Dec,10,U28,Money Spent,Groceries,11694.35,12894.09,UPI ID,Success,BigBasket,Kolkata
+TXN00884,2024-12-28,2024,Dec,28,U11,Money Spent,Rent,14020.81,24767.44,UPI ID,Pending,Zomato,Kolkata
+TXN00885,2023-11-26,2023,Nov,26,U114,Money Added,Groceries,17320.34,8959.88,Wallet,Failed,-,Delhi
+TXN00886,2023-04-24,2023,Apr,24,U153,Money Spent,Food,13219.85,43050.28,Wallet,Failed,Zomato,Pune
+TXN00887,2024-03-21,2024,Mar,21,U26,Money Added,Shopping,4187.72,10473.9,QR Code,Success,-,Bangalore
+TXN00888,2023-07-23,2023,Jul,23,U200,Money Sent,Travel,2398.85,26951.1,QR Code,Failed,Flipkart,Kolkata
+TXN00889,2023-10-04,2023,Oct,4,U108,Money Added,Food,3676.73,41543.42,Bank Transfer,Failed,-,Mumbai
+TXN00890,2024-05-28,2024,May,28,U57,Money Added,Investment,7404.47,27258.56,QR Code,Failed,-,Bangalore
+TXN00891,2023-08-29,2023,Aug,29,U118,Money Spent,Bills,13337.2,23364.78,UPI ID,Success,IRCTC,Hyderabad
+TXN00892,2023-01-26,2023,Jan,26,U174,Money Sent,Cashback,13576.91,24681.38,QR Code,Pending,BigBasket,Kolkata
+TXN00893,2023-01-06,2023,Jan,6,U85,Money Spent,Cashback,8454.54,8275.07,Mobile No,Success,Swiggy,Kolkata
+TXN00894,2024-08-02,2024,Aug,2,U97,Money Sent,Groceries,5618.29,9694.18,Bank Transfer,Success,Zomato,Kolkata
+TXN00895,2024-03-09,2024,Mar,9,U145,Money Spent,Investment,12160.93,30701.69,Bank Transfer,Pending,Swiggy,Hyderabad
+TXN00896,2025-02-06,2025,Feb,6,U101,Money Added,Travel,752.42,46182.63,Bank Transfer,Pending,-,Chennai
+TXN00897,2024-07-03,2024,Jul,3,U137,Money Spent,Investment,14096.93,19437.05,Mobile No,Failed,Swiggy,Mumbai
+TXN00898,2023-10-12,2023,Oct,12,U174,Money Added,Rent,13313.58,47218.36,Wallet,Failed,-,Delhi
+TXN00899,2024-10-13,2024,Oct,13,U82,Money Sent,Entertainment,5518.32,35974.91,Wallet,Failed,Electricity Board,Kolkata
+TXN00900,2024-02-02,2024,Feb,2,U77,Money Added,Food,19334.77,859.4,Mobile No,Success,-,Pune
+TXN00901,2023-01-17,2023,Jan,17,U22,Money Sent,Entertainment,9698.44,29275.87,Wallet,Pending,Amazon,Kolkata
+TXN00902,2024-02-01,2024,Feb,1,U35,Money Added,Food,15557.5,21305.74,Bank Transfer,Pending,-,Kolkata
+TXN00903,2023-10-18,2023,Oct,18,U69,Money Added,Bills,17261.36,43789.27,UPI ID,Pending,-,Bangalore
+TXN00904,2023-10-04,2023,Oct,4,U14,Money Added,Shopping,16289.54,41800.36,Mobile No,Failed,-,Chennai
+TXN00905,2023-11-08,2023,Nov,8,U193,Money Spent,Bills,17016.58,36665.67,QR Code,Success,Netflix,Mumbai
+TXN00906,2025-01-08,2025,Jan,8,U51,Money Sent,Investment,14215.95,44098.56,Bank Transfer,Success,Uber,Delhi
+TXN00907,2024-11-23,2024,Nov,23,U106,Money Added,Groceries,4780.1,37322.64,QR Code,Pending,-,Chennai
+TXN00908,2023-03-10,2023,Mar,10,U94,Money Sent,Rent,5618.18,29811.4,Wallet,Pending,Amazon,Kolkata
+TXN00909,2023-06-14,2023,Jun,14,U12,Money Added,Bills,4376.76,38594.48,UPI ID,Success,-,Delhi
+TXN00910,2024-09-19,2024,Sep,19,U104,Money Added,Investment,10767.38,47696.96,Wallet,Failed,-,Chennai
+TXN00911,2023-01-15,2023,Jan,15,U74,Money Spent,Cashback,6022.57,7254.68,Mobile No,Success,Netflix,Pune
+TXN00912,2024-11-06,2024,Nov,6,U144,Money Spent,Investment,1681.25,33877.81,UPI ID,Success,IRCTC,Chennai
+TXN00913,2024-10-20,2024,Oct,20,U55,Money Added,Entertainment,15760.79,1083.83,UPI ID,Pending,-,Pune
+TXN00914,2025-02-25,2025,Feb,25,U117,Money Sent,Shopping,1058.23,12569.58,QR Code,Pending,BigBasket,Pune
+TXN00915,2023-11-12,2023,Nov,12,U196,Money Sent,Cashback,3155.63,14710.39,Wallet,Failed,IRCTC,Pune
+TXN00916,2024-02-07,2024,Feb,7,U117,Money Spent,Food,15152.54,15421.18,Bank Transfer,Success,Uber,Delhi
+TXN00917,2024-04-17,2024,Apr,17,U165,Money Sent,Investment,18692.8,27053.73,Wallet,Failed,Zomato,Bangalore
+TXN00918,2024-03-26,2024,Mar,26,U196,Money Spent,Food,9165.86,14044.57,Mobile No,Failed,Netflix,Hyderabad
+TXN00919,2023-11-12,2023,Nov,12,U75,Money Sent,Food,18815.25,49453.07,QR Code,Failed,Amazon,Mumbai
+TXN00920,2024-08-19,2024,Aug,19,U114,Money Sent,Shopping,16957.91,577.0,Wallet,Pending,Swiggy,Delhi
+TXN00921,2024-06-12,2024,Jun,12,U127,Money Added,Groceries,1315.53,17676.38,Mobile No,Pending,-,Bangalore
+TXN00922,2023-12-29,2023,Dec,29,U180,Money Spent,Travel,18407.1,25609.37,Bank Transfer,Pending,Swiggy,Chennai
+TXN00923,2023-12-04,2023,Dec,4,U39,Money Added,Groceries,7054.84,38838.54,Bank Transfer,Failed,-,Chennai
+TXN00924,2024-05-01,2024,May,1,U157,Money Sent,Cashback,6524.33,15415.37,Wallet,Failed,Uber,Kolkata
+TXN00925,2023-05-11,2023,May,11,U123,Money Spent,Bills,2775.45,14233.86,QR Code,Pending,Zomato,Bangalore
+TXN00926,2024-03-23,2024,Mar,23,U21,Money Spent,Food,8918.01,3102.52,Mobile No,Success,Amazon,Delhi
+TXN00927,2023-05-26,2023,May,26,U156,Money Sent,Bills,14511.25,30633.85,UPI ID,Failed,Netflix,Kolkata
+TXN00928,2024-11-18,2024,Nov,18,U126,Money Spent,Bills,6105.03,29481.6,Mobile No,Pending,Amazon,Hyderabad
+TXN00929,2023-09-06,2023,Sep,6,U121,Money Spent,Travel,4926.8,30054.49,Wallet,Success,Zomato,Delhi
+TXN00930,2023-11-21,2023,Nov,21,U189,Money Spent,Rent,6996.17,45458.72,QR Code,Failed,Flipkart,Chennai
+TXN00931,2023-09-28,2023,Sep,28,U6,Money Added,Entertainment,18530.08,35333.24,UPI ID,Pending,-,Kolkata
+TXN00932,2024-12-30,2024,Dec,30,U19,Money Sent,Rent,3287.56,33644.4,QR Code,Success,Zomato,Kolkata
+TXN00933,2023-02-22,2023,Feb,22,U107,Money Added,Bills,12338.84,36838.86,Wallet,Pending,-,Mumbai
+TXN00934,2024-02-06,2024,Feb,6,U51,Money Added,Rent,16454.1,21569.82,QR Code,Pending,-,Mumbai
+TXN00935,2023-03-19,2023,Mar,19,U32,Money Sent,Food,203.1,8344.62,Wallet,Failed,Flipkart,Hyderabad
+TXN00936,2023-12-30,2023,Dec,30,U15,Money Spent,Food,7724.12,45995.92,UPI ID,Pending,Flipkart,Delhi
+TXN00937,2024-11-02,2024,Nov,2,U100,Money Added,Entertainment,1007.2,32901.8,Bank Transfer,Failed,-,Kolkata
+TXN00938,2025-01-04,2025,Jan,4,U157,Money Sent,Cashback,13781.5,32946.75,QR Code,Success,Zomato,Bangalore
+TXN00939,2024-10-26,2024,Oct,26,U53,Money Spent,Investment,8903.5,38869.18,QR Code,Failed,BigBasket,Chennai
+TXN00940,2024-04-08,2024,Apr,8,U106,Money Added,Entertainment,1000.29,31508.71,UPI ID,Success,-,Delhi
+TXN00941,2025-02-06,2025,Feb,6,U181,Money Added,Cashback,10577.75,37836.93,Wallet,Failed,-,Delhi
+TXN00942,2024-03-06,2024,Mar,6,U89,Money Added,Rent,4848.77,3338.76,QR Code,Pending,-,Bangalore
+TXN00943,2023-02-07,2023,Feb,7,U192,Money Added,Entertainment,6853.51,40451.84,Wallet,Success,-,Hyderabad
+TXN00944,2023-08-08,2023,Aug,8,U37,Money Sent,Food,3234.44,22488.62,Wallet,Failed,Netflix,Mumbai
+TXN00945,2023-08-20,2023,Aug,20,U52,Money Sent,Cashback,14897.18,32971.73,QR Code,Failed,Amazon,Pune
+TXN00946,2024-10-21,2024,Oct,21,U140,Money Spent,Investment,8363.39,38604.23,QR Code,Failed,Netflix,Hyderabad
+TXN00947,2024-08-14,2024,Aug,14,U38,Money Sent,Bills,8913.29,40904.05,Wallet,Failed,Amazon,Hyderabad
+TXN00948,2023-02-03,2023,Feb,3,U52,Money Added,Travel,14644.53,17461.04,Mobile No,Failed,-,Hyderabad
+TXN00949,2023-01-23,2023,Jan,23,U84,Money Sent,Food,10933.59,20642.93,Mobile No,Failed,Uber,Kolkata
+TXN00950,2023-01-07,2023,Jan,7,U65,Money Added,Investment,1472.54,14207.47,Mobile No,Pending,-,Delhi
+TXN00951,2024-11-30,2024,Nov,30,U74,Money Spent,Food,3779.95,22495.01,UPI ID,Failed,Amazon,Kolkata
+TXN00952,2024-12-05,2024,Dec,5,U19,Money Added,Shopping,8249.19,10415.65,Bank Transfer,Failed,-,Delhi
+TXN00953,2023-11-07,2023,Nov,7,U43,Money Added,Investment,5922.62,18469.76,Mobile No,Pending,-,Chennai
+TXN00954,2023-04-26,2023,Apr,26,U13,Money Spent,Groceries,12091.49,37469.02,Mobile No,Pending,BigBasket,Mumbai
+TXN00955,2024-08-01,2024,Aug,1,U92,Money Added,Travel,15387.91,41984.29,QR Code,Pending,-,Mumbai
+TXN00956,2023-02-03,2023,Feb,3,U58,Money Sent,Groceries,1522.1,18777.04,UPI ID,Pending,Zomato,Pune
+TXN00957,2023-06-28,2023,Jun,28,U136,Money Spent,Investment,11439.24,44962.52,UPI ID,Pending,Flipkart,Pune
+TXN00958,2024-09-18,2024,Sep,18,U131,Money Spent,Entertainment,12988.5,1017.29,Mobile No,Success,Uber,Mumbai
+TXN00959,2023-07-05,2023,Jul,5,U34,Money Sent,Rent,10366.48,32616.96,UPI ID,Failed,Amazon,Bangalore
+TXN00960,2024-01-29,2024,Jan,29,U76,Money Added,Groceries,2687.78,38270.14,QR Code,Pending,-,Kolkata
+TXN00961,2024-03-19,2024,Mar,19,U159,Money Spent,Investment,19108.19,41350.32,Wallet,Success,Flipkart,Hyderabad
+TXN00962,2025-01-05,2025,Jan,5,U184,Money Spent,Groceries,19450.7,42199.59,Bank Transfer,Failed,Electricity Board,Kolkata
+TXN00963,2023-10-17,2023,Oct,17,U84,Money Added,Rent,15978.17,31572.14,Wallet,Pending,-,Mumbai
+TXN00964,2025-01-27,2025,Jan,27,U23,Money Added,Shopping,10797.62,13797.91,Wallet,Success,-,Chennai
+TXN00965,2024-10-19,2024,Oct,19,U2,Money Spent,Investment,11740.53,19546.72,Mobile No,Failed,Electricity Board,Pune
+TXN00966,2024-10-17,2024,Oct,17,U7,Money Added,Investment,19274.03,1594.34,Mobile No,Pending,-,Delhi
+TXN00967,2024-11-26,2024,Nov,26,U155,Money Sent,Investment,2175.33,18211.16,QR Code,Pending,Uber,Bangalore
+TXN00968,2023-08-20,2023,Aug,20,U48,Money Added,Bills,1466.04,31904.43,Mobile No,Pending,-,Kolkata
+TXN00969,2023-02-14,2023,Feb,14,U2,Money Sent,Shopping,3162.08,10356.42,Bank Transfer,Failed,Swiggy,Hyderabad
+TXN00970,2023-09-18,2023,Sep,18,U71,Money Added,Bills,2812.08,9593.92,QR Code,Failed,-,Delhi
+TXN00971,2024-04-15,2024,Apr,15,U54,Money Spent,Shopping,16853.36,45825.5,QR Code,Success,Uber,Pune
+TXN00972,2024-09-01,2024,Sep,1,U86,Money Spent,Investment,12083.19,1378.21,QR Code,Pending,Netflix,Chennai
+TXN00973,2023-08-01,2023,Aug,1,U5,Money Spent,Investment,11014.43,44426.37,Wallet,Pending,Uber,Chennai
+TXN00974,2024-08-16,2024,Aug,16,U76,Money Sent,Travel,11997.91,868.81,QR Code,Success,Flipkart,Delhi
+TXN00975,2024-03-17,2024,Mar,17,U128,Money Added,Groceries,19597.98,28323.01,Wallet,Pending,-,Pune
+TXN00976,2024-05-04,2024,May,4,U195,Money Spent,Food,19971.21,3628.83,Bank Transfer,Success,Swiggy,Pune
+TXN00977,2024-11-01,2024,Nov,1,U187,Money Added,Investment,12165.06,35759.82,UPI ID,Failed,-,Kolkata
+TXN00978,2025-01-05,2025,Jan,5,U94,Money Added,Groceries,18804.18,16676.07,Wallet,Success,-,Pune
+TXN00979,2024-07-04,2024,Jul,4,U89,Money Spent,Rent,13221.42,42948.47,Bank Transfer,Success,Flipkart,Bangalore
+TXN00980,2024-11-22,2024,Nov,22,U80,Money Sent,Groceries,9706.21,584.56,UPI ID,Success,IRCTC,Chennai
+TXN00981,2024-01-27,2024,Jan,27,U67,Money Sent,Rent,5548.24,46630.99,Bank Transfer,Failed,Netflix,Delhi
+TXN00982,2024-06-18,2024,Jun,18,U151,Money Spent,Groceries,10808.9,30115.37,Mobile No,Success,Flipkart,Delhi
+TXN00983,2023-11-30,2023,Nov,30,U23,Money Added,Food,6734.54,46363.55,Wallet,Pending,-,Mumbai
+TXN00984,2023-12-03,2023,Dec,3,U88,Money Spent,Cashback,13760.86,48174.22,Wallet,Pending,Flipkart,Bangalore
+TXN00985,2023-07-27,2023,Jul,27,U48,Money Added,Food,16950.02,34276.92,Mobile No,Success,-,Hyderabad
+TXN00986,2023-07-31,2023,Jul,31,U46,Money Spent,Groceries,15713.14,31408.34,Mobile No,Pending,Uber,Mumbai
+TXN00987,2023-07-29,2023,Jul,29,U2,Money Spent,Groceries,16486.52,46253.06,UPI ID,Failed,BigBasket,Chennai
+TXN00988,2024-01-10,2024,Jan,10,U58,Money Sent,Investment,2938.95,48055.28,Bank Transfer,Success,Uber,Hyderabad
+TXN00989,2024-08-01,2024,Aug,1,U194,Money Sent,Entertainment,1492.5,37451.83,Bank Transfer,Failed,Amazon,Hyderabad
+TXN00990,2023-03-22,2023,Mar,22,U103,Money Added,Groceries,7570.84,24218.97,Mobile No,Success,-,Bangalore
+TXN00991,2023-04-25,2023,Apr,25,U28,Money Added,Rent,9657.19,42403.47,UPI ID,Success,-,Delhi
+TXN00992,2024-11-11,2024,Nov,11,U62,Money Spent,Entertainment,6676.96,46962.55,UPI ID,Pending,Uber,Bangalore
+TXN00993,2023-02-01,2023,Feb,1,U160,Money Spent,Cashback,13606.5,30281.52,QR Code,Failed,Netflix,Chennai
+TXN00994,2023-07-24,2023,Jul,24,U154,Money Sent,Investment,15405.26,46093.66,Mobile No,Success,Netflix,Hyderabad
+TXN00995,2024-04-14,2024,Apr,14,U50,Money Spent,Cashback,8010.16,9381.67,UPI ID,Failed,Zomato,Pune
+TXN00996,2024-10-12,2024,Oct,12,U135,Money Spent,Cashback,17386.37,18346.96,Mobile No,Pending,Flipkart,Kolkata
+TXN00997,2024-07-03,2024,Jul,3,U12,Money Spent,Entertainment,1458.71,1687.84,UPI ID,Pending,Flipkart,Hyderabad
+TXN00998,2024-11-15,2024,Nov,15,U163,Money Sent,Investment,10431.42,34541.34,UPI ID,Success,IRCTC,Hyderabad
+TXN00999,2025-01-29,2025,Jan,29,U158,Money Added,Entertainment,6256.46,32169.98,UPI ID,Failed,-,Chennai
+TXN01000,2025-01-11,2025,Jan,11,U174,Money Added,Travel,4651.11,39770.56,UPI ID,Failed,-,Delhi
+TXN01001,2023-10-19,2023,Oct,19,U151,Money Sent,Shopping,15509.07,38126.7,UPI ID,Failed,Uber,Bangalore
+TXN01002,2023-07-13,2023,Jul,13,U57,Money Spent,Bills,15352.95,12817.1,Wallet,Failed,BigBasket,Hyderabad
+TXN01003,2024-06-14,2024,Jun,14,U14,Money Spent,Travel,11983.35,2569.02,Bank Transfer,Success,Zomato,Kolkata
+TXN01004,2023-10-20,2023,Oct,20,U76,Money Spent,Bills,15943.22,24522.79,QR Code,Pending,Netflix,Mumbai
+TXN01005,2023-10-08,2023,Oct,8,U82,Money Sent,Investment,10444.25,3424.02,UPI ID,Failed,BigBasket,Mumbai
+TXN01006,2024-11-03,2024,Nov,3,U187,Money Spent,Shopping,3841.79,45058.74,UPI ID,Success,BigBasket,Chennai
+TXN01007,2023-08-09,2023,Aug,9,U105,Money Sent,Bills,6920.06,37999.18,QR Code,Pending,Electricity Board,Hyderabad
+TXN01008,2023-07-16,2023,Jul,16,U12,Money Spent,Food,4185.58,20152.26,UPI ID,Success,Netflix,Bangalore
+TXN01009,2023-01-01,2023,Jan,1,U106,Money Added,Entertainment,18718.07,34339.05,UPI ID,Pending,-,Delhi
+TXN01010,2024-08-03,2024,Aug,3,U83,Money Sent,Cashback,1023.2,27087.41,QR Code,Pending,Flipkart,Kolkata
+TXN01011,2023-04-26,2023,Apr,26,U68,Money Sent,Food,1772.52,9736.12,UPI ID,Success,Uber,Mumbai
+TXN01012,2024-02-29,2024,Feb,29,U127,Money Sent,Shopping,7277.6,13794.99,UPI ID,Pending,Swiggy,Hyderabad
+TXN01013,2024-10-01,2024,Oct,1,U35,Money Added,Travel,4128.81,48595.49,Wallet,Failed,-,Bangalore
+TXN01014,2023-01-05,2023,Jan,5,U65,Money Sent,Bills,4448.73,3615.92,Bank Transfer,Failed,IRCTC,Bangalore
+TXN01015,2025-02-14,2025,Feb,14,U196,Money Sent,Shopping,11881.32,12984.7,Wallet,Pending,Uber,Delhi
+TXN01016,2024-09-12,2024,Sep,12,U57,Money Added,Food,11721.04,31843.79,UPI ID,Pending,-,Delhi
+TXN01017,2024-07-25,2024,Jul,25,U77,Money Spent,Travel,14883.7,47291.36,Bank Transfer,Pending,Uber,Bangalore
+TXN01018,2023-05-06,2023,May,6,U123,Money Sent,Travel,9592.87,44369.81,Wallet,Failed,BigBasket,Chennai
+TXN01019,2024-11-02,2024,Nov,2,U120,Money Spent,Food,12190.86,40784.99,Mobile No,Success,Zomato,Mumbai
+TXN01020,2023-10-03,2023,Oct,3,U137,Money Spent,Food,15919.39,44820.82,Bank Transfer,Success,Electricity Board,Chennai
+TXN01021,2024-08-28,2024,Aug,28,U111,Money Spent,Rent,19550.71,44280.62,Mobile No,Success,Netflix,Pune
+TXN01022,2023-08-04,2023,Aug,4,U156,Money Sent,Shopping,2573.43,13876.7,QR Code,Success,IRCTC,Kolkata
+TXN01023,2024-08-04,2024,Aug,4,U70,Money Added,Cashback,6474.16,24901.52,Wallet,Success,-,Bangalore
+TXN01024,2024-10-23,2024,Oct,23,U171,Money Sent,Investment,835.93,30745.77,UPI ID,Failed,BigBasket,Kolkata
+TXN01025,2024-11-14,2024,Nov,14,U28,Money Added,Shopping,18043.35,9699.32,Wallet,Pending,-,Pune
+TXN01026,2025-02-26,2025,Feb,26,U29,Money Spent,Travel,4112.67,19348.75,Wallet,Failed,Zomato,Bangalore
+TXN01027,2023-05-06,2023,May,6,U152,Money Added,Cashback,7868.36,29988.99,QR Code,Success,-,Mumbai
+TXN01028,2023-07-23,2023,Jul,23,U70,Money Sent,Entertainment,10527.96,19890.33,Mobile No,Success,Swiggy,Pune
+TXN01029,2023-10-09,2023,Oct,9,U1,Money Spent,Bills,15215.79,15375.52,Mobile No,Failed,Flipkart,Hyderabad
+TXN01030,2023-10-20,2023,Oct,20,U29,Money Spent,Entertainment,15953.64,14704.27,Bank Transfer,Success,BigBasket,Delhi
+TXN01031,2023-08-11,2023,Aug,11,U148,Money Spent,Cashback,16472.3,11749.89,UPI ID,Success,Flipkart,Mumbai
+TXN01032,2025-02-06,2025,Feb,6,U40,Money Sent,Bills,17568.13,47645.04,UPI ID,Failed,BigBasket,Hyderabad
+TXN01033,2024-06-08,2024,Jun,8,U51,Money Sent,Food,8977.46,25236.24,Mobile No,Success,BigBasket,Chennai
+TXN01034,2023-12-03,2023,Dec,3,U128,Money Added,Cashback,14440.43,1982.85,Mobile No,Failed,-,Bangalore
+TXN01035,2024-01-12,2024,Jan,12,U42,Money Sent,Shopping,13064.82,37254.39,Wallet,Success,Uber,Kolkata
+TXN01036,2024-12-31,2024,Dec,31,U120,Money Spent,Travel,4093.6,31795.14,QR Code,Failed,Zomato,Delhi
+TXN01037,2024-10-13,2024,Oct,13,U62,Money Spent,Food,6243.11,12508.14,QR Code,Pending,BigBasket,Kolkata
+TXN01038,2024-05-23,2024,May,23,U30,Money Added,Travel,19844.22,24448.29,Wallet,Pending,-,Chennai
+TXN01039,2024-08-13,2024,Aug,13,U84,Money Sent,Groceries,13306.13,44762.62,Bank Transfer,Pending,Amazon,Chennai
+TXN01040,2023-11-18,2023,Nov,18,U150,Money Sent,Shopping,5734.58,8508.35,Wallet,Failed,Flipkart,Kolkata
+TXN01041,2023-02-02,2023,Feb,2,U172,Money Added,Rent,4382.91,48350.17,Bank Transfer,Pending,-,Hyderabad
+TXN01042,2024-11-05,2024,Nov,5,U176,Money Added,Food,19968.41,39946.14,UPI ID,Failed,-,Kolkata
+TXN01043,2023-01-14,2023,Jan,14,U70,Money Sent,Entertainment,19135.2,37186.02,Wallet,Failed,Netflix,Mumbai
+TXN01044,2023-04-27,2023,Apr,27,U125,Money Added,Entertainment,10687.85,886.27,Wallet,Pending,-,Kolkata
+TXN01045,2024-03-18,2024,Mar,18,U169,Money Sent,Investment,9215.96,34022.95,Wallet,Failed,Swiggy,Bangalore
+TXN01046,2024-06-25,2024,Jun,25,U158,Money Spent,Cashback,7983.19,41962.62,Wallet,Success,BigBasket,Bangalore
+TXN01047,2024-11-18,2024,Nov,18,U12,Money Sent,Food,11611.73,43456.3,UPI ID,Success,Netflix,Delhi
+TXN01048,2023-07-20,2023,Jul,20,U21,Money Sent,Rent,16796.7,32756.91,Mobile No,Failed,Swiggy,Bangalore
+TXN01049,2023-12-07,2023,Dec,7,U12,Money Sent,Groceries,14916.11,48845.35,UPI ID,Pending,Zomato,Kolkata
+TXN01050,2023-09-02,2023,Sep,2,U38,Money Added,Food,5822.47,12851.29,UPI ID,Success,-,Mumbai
+TXN01051,2024-10-19,2024,Oct,19,U184,Money Added,Entertainment,9443.58,11993.58,QR Code,Success,-,Kolkata
+TXN01052,2024-03-19,2024,Mar,19,U43,Money Spent,Travel,16551.42,49328.91,Mobile No,Failed,IRCTC,Pune
+TXN01053,2023-05-14,2023,May,14,U132,Money Added,Groceries,18625.12,37004.6,UPI ID,Failed,-,Mumbai
+TXN01054,2024-10-12,2024,Oct,12,U27,Money Sent,Shopping,6607.71,46151.6,UPI ID,Success,Flipkart,Pune
+TXN01055,2024-10-28,2024,Oct,28,U117,Money Added,Food,2498.0,42323.7,UPI ID,Pending,-,Mumbai
+TXN01056,2023-08-09,2023,Aug,9,U34,Money Sent,Travel,3247.4,46948.16,Wallet,Success,Swiggy,Chennai
+TXN01057,2024-10-01,2024,Oct,1,U151,Money Sent,Groceries,11829.83,8831.21,Mobile No,Pending,Netflix,Kolkata
+TXN01058,2024-01-29,2024,Jan,29,U89,Money Sent,Cashback,17773.65,29419.72,Wallet,Pending,Zomato,Chennai
+TXN01059,2024-08-18,2024,Aug,18,U66,Money Added,Investment,60.62,49404.26,Mobile No,Success,-,Hyderabad
+TXN01060,2023-10-06,2023,Oct,6,U40,Money Sent,Groceries,17462.18,22655.25,QR Code,Pending,Electricity Board,Delhi
+TXN01061,2023-06-26,2023,Jun,26,U9,Money Spent,Entertainment,17763.17,49375.97,Bank Transfer,Failed,Netflix,Bangalore
+TXN01062,2024-12-15,2024,Dec,15,U28,Money Spent,Investment,15702.04,44846.4,Wallet,Failed,Amazon,Kolkata
+TXN01063,2023-02-03,2023,Feb,3,U157,Money Spent,Bills,2753.94,29262.73,UPI ID,Failed,BigBasket,Bangalore
+TXN01064,2024-03-16,2024,Mar,16,U91,Money Sent,Cashback,3022.86,19806.41,QR Code,Success,Zomato,Kolkata
+TXN01065,2023-04-22,2023,Apr,22,U85,Money Sent,Entertainment,8044.88,3147.85,Bank Transfer,Failed,Swiggy,Kolkata
+TXN01066,2023-11-22,2023,Nov,22,U32,Money Sent,Investment,5582.76,4535.38,Bank Transfer,Pending,Zomato,Mumbai
+TXN01067,2024-09-11,2024,Sep,11,U57,Money Added,Groceries,16872.81,43033.62,Wallet,Success,-,Delhi
+TXN01068,2023-02-28,2023,Feb,28,U177,Money Spent,Shopping,19876.37,36906.38,Mobile No,Pending,BigBasket,Pune
+TXN01069,2024-02-24,2024,Feb,24,U56,Money Spent,Rent,18045.35,2581.24,UPI ID,Pending,Amazon,Chennai
+TXN01070,2024-02-22,2024,Feb,22,U26,Money Spent,Food,17359.31,2488.06,Mobile No,Success,Zomato,Kolkata
+TXN01071,2024-09-27,2024,Sep,27,U140,Money Sent,Entertainment,2641.79,18616.76,QR Code,Pending,Netflix,Bangalore
+TXN01072,2024-07-03,2024,Jul,3,U175,Money Added,Investment,1869.92,48119.63,UPI ID,Success,-,Bangalore
+TXN01073,2024-04-07,2024,Apr,7,U180,Money Spent,Cashback,18303.1,28236.97,QR Code,Success,Zomato,Mumbai
+TXN01074,2023-11-11,2023,Nov,11,U178,Money Sent,Investment,17760.88,14050.7,Wallet,Success,Netflix,Chennai
+TXN01075,2023-02-02,2023,Feb,2,U40,Money Added,Food,13801.82,17712.66,QR Code,Pending,-,Pune
+TXN01076,2023-09-22,2023,Sep,22,U126,Money Spent,Bills,10897.88,45082.74,Mobile No,Failed,Netflix,Mumbai
+TXN01077,2023-10-17,2023,Oct,17,U28,Money Spent,Food,3041.42,22731.7,Wallet,Failed,Netflix,Pune
+TXN01078,2024-10-14,2024,Oct,14,U97,Money Sent,Bills,1452.79,24942.43,UPI ID,Success,IRCTC,Kolkata
+TXN01079,2023-08-30,2023,Aug,30,U143,Money Added,Entertainment,16840.8,36658.34,UPI ID,Success,-,Chennai
+TXN01080,2024-12-10,2024,Dec,10,U30,Money Added,Groceries,12191.24,18860.66,Bank Transfer,Failed,-,Chennai
+TXN01081,2024-10-12,2024,Oct,12,U94,Money Spent,Travel,11076.38,20026.8,QR Code,Success,Netflix,Chennai
+TXN01082,2024-11-19,2024,Nov,19,U151,Money Sent,Travel,2524.29,23716.95,Mobile No,Success,Swiggy,Kolkata
+TXN01083,2024-07-02,2024,Jul,2,U36,Money Added,Food,12251.81,14699.24,Bank Transfer,Pending,-,Kolkata
+TXN01084,2023-05-14,2023,May,14,U42,Money Sent,Shopping,17063.06,14968.44,Mobile No,Success,Zomato,Hyderabad
+TXN01085,2024-12-27,2024,Dec,27,U198,Money Sent,Entertainment,10315.3,4070.77,Bank Transfer,Pending,Flipkart,Chennai
+TXN01086,2023-04-18,2023,Apr,18,U36,Money Added,Bills,3378.32,19059.98,Bank Transfer,Pending,-,Delhi
+TXN01087,2024-10-29,2024,Oct,29,U42,Money Added,Shopping,1326.63,30650.11,QR Code,Pending,-,Pune
+TXN01088,2024-11-13,2024,Nov,13,U147,Money Sent,Rent,1665.5,1140.64,Mobile No,Failed,Electricity Board,Pune
+TXN01089,2023-05-11,2023,May,11,U109,Money Added,Shopping,8964.85,49216.47,QR Code,Success,-,Delhi
+TXN01090,2025-01-28,2025,Jan,28,U176,Money Sent,Groceries,9623.0,32282.62,QR Code,Failed,IRCTC,Chennai
+TXN01091,2023-06-03,2023,Jun,3,U140,Money Added,Bills,15061.6,37383.31,QR Code,Failed,-,Chennai
+TXN01092,2025-02-09,2025,Feb,9,U143,Money Spent,Rent,9391.59,2352.32,Mobile No,Failed,IRCTC,Kolkata
+TXN01093,2023-04-24,2023,Apr,24,U188,Money Added,Food,6136.72,33050.29,Bank Transfer,Success,-,Kolkata
+TXN01094,2024-01-16,2024,Jan,16,U198,Money Sent,Travel,4556.42,9826.48,QR Code,Failed,Swiggy,Pune
+TXN01095,2024-07-28,2024,Jul,28,U166,Money Added,Entertainment,5687.08,28073.95,Mobile No,Success,-,Pune
+TXN01096,2023-07-27,2023,Jul,27,U132,Money Sent,Cashback,5963.04,27440.59,Mobile No,Pending,Netflix,Pune
+TXN01097,2023-08-23,2023,Aug,23,U81,Money Spent,Entertainment,10978.14,15055.32,UPI ID,Success,Netflix,Hyderabad
+TXN01098,2023-03-05,2023,Mar,5,U145,Money Spent,Investment,737.21,34284.53,Bank Transfer,Success,Amazon,Kolkata
+TXN01099,2023-04-13,2023,Apr,13,U36,Money Spent,Investment,6635.47,32423.68,Mobile No,Pending,Uber,Pune
+TXN01100,2024-05-24,2024,May,24,U111,Money Sent,Entertainment,14153.79,12173.71,Bank Transfer,Pending,Amazon,Bangalore
+TXN01101,2024-08-29,2024,Aug,29,U147,Money Spent,Travel,11087.95,29706.11,Wallet,Pending,IRCTC,Hyderabad
+TXN01102,2023-11-10,2023,Nov,10,U39,Money Spent,Rent,1398.03,48392.52,Bank Transfer,Failed,Netflix,Hyderabad
+TXN01103,2023-12-04,2023,Dec,4,U1,Money Spent,Bills,5490.44,46696.12,UPI ID,Success,Swiggy,Mumbai
+TXN01104,2024-03-30,2024,Mar,30,U195,Money Spent,Groceries,18325.82,49380.66,UPI ID,Success,Zomato,Hyderabad
+TXN01105,2024-07-08,2024,Jul,8,U78,Money Added,Shopping,9658.17,20139.0,Mobile No,Success,-,Delhi
+TXN01106,2023-10-26,2023,Oct,26,U47,Money Sent,Entertainment,12016.32,16848.24,QR Code,Pending,Zomato,Mumbai
+TXN01107,2024-08-08,2024,Aug,8,U187,Money Spent,Bills,8024.35,27365.7,Mobile No,Failed,Uber,Kolkata
+TXN01108,2024-01-29,2024,Jan,29,U13,Money Added,Food,12069.01,18819.15,Mobile No,Failed,-,Chennai
+TXN01109,2023-05-31,2023,May,31,U120,Money Sent,Food,9589.03,5051.98,Mobile No,Pending,Zomato,Pune
+TXN01110,2024-01-01,2024,Jan,1,U150,Money Spent,Groceries,19565.71,15404.36,Bank Transfer,Pending,Amazon,Mumbai
+TXN01111,2023-05-13,2023,May,13,U120,Money Spent,Food,14461.73,1914.45,Bank Transfer,Failed,BigBasket,Mumbai
+TXN01112,2024-11-18,2024,Nov,18,U184,Money Sent,Groceries,15794.04,17756.99,Mobile No,Failed,Swiggy,Kolkata
+TXN01113,2023-03-25,2023,Mar,25,U170,Money Spent,Shopping,569.45,10653.92,Bank Transfer,Success,Netflix,Pune
+TXN01114,2023-10-04,2023,Oct,4,U80,Money Spent,Groceries,1233.76,34145.8,QR Code,Success,IRCTC,Delhi
+TXN01115,2023-06-27,2023,Jun,27,U117,Money Sent,Rent,1626.93,8341.45,Bank Transfer,Failed,Zomato,Kolkata
+TXN01116,2024-06-06,2024,Jun,6,U131,Money Sent,Food,12731.81,36873.86,Bank Transfer,Pending,Amazon,Delhi
+TXN01117,2024-10-26,2024,Oct,26,U52,Money Sent,Travel,5828.37,1882.27,Wallet,Success,BigBasket,Kolkata
+TXN01118,2024-08-11,2024,Aug,11,U124,Money Added,Travel,17954.67,21050.51,Wallet,Success,-,Bangalore
+TXN01119,2025-03-04,2025,Mar,4,U96,Money Added,Shopping,361.32,9196.56,UPI ID,Failed,-,Bangalore
+TXN01120,2023-04-29,2023,Apr,29,U15,Money Spent,Entertainment,18363.84,34319.26,Mobile No,Pending,IRCTC,Delhi
+TXN01121,2024-09-19,2024,Sep,19,U199,Money Added,Groceries,16719.07,12734.02,Bank Transfer,Success,-,Mumbai
+TXN01122,2023-08-10,2023,Aug,10,U102,Money Added,Shopping,5318.65,29474.18,Mobile No,Failed,-,Mumbai
+TXN01123,2023-12-09,2023,Dec,9,U10,Money Sent,Food,10682.28,24994.06,Mobile No,Pending,Zomato,Chennai
+TXN01124,2025-01-18,2025,Jan,18,U136,Money Sent,Travel,14089.44,42299.04,Bank Transfer,Pending,Swiggy,Chennai
+TXN01125,2025-01-27,2025,Jan,27,U19,Money Added,Groceries,12581.56,2583.08,UPI ID,Failed,-,Pune
+TXN01126,2024-03-20,2024,Mar,20,U142,Money Sent,Entertainment,10252.74,5276.38,Mobile No,Pending,Swiggy,Delhi
+TXN01127,2023-11-22,2023,Nov,22,U69,Money Added,Food,5698.09,12830.57,Wallet,Failed,-,Hyderabad
+TXN01128,2023-01-10,2023,Jan,10,U97,Money Sent,Rent,17825.13,41470.01,Wallet,Failed,Electricity Board,Delhi
+TXN01129,2025-02-24,2025,Feb,24,U50,Money Sent,Cashback,5861.02,36526.08,Mobile No,Failed,Swiggy,Mumbai
+TXN01130,2023-04-23,2023,Apr,23,U127,Money Spent,Investment,1670.89,4395.82,UPI ID,Success,Electricity Board,Mumbai
+TXN01131,2024-12-16,2024,Dec,16,U20,Money Spent,Food,6742.25,35206.51,QR Code,Failed,IRCTC,Hyderabad
+TXN01132,2024-10-20,2024,Oct,20,U77,Money Sent,Cashback,1884.24,15580.53,Bank Transfer,Pending,Uber,Delhi
+TXN01133,2024-12-06,2024,Dec,6,U86,Money Spent,Groceries,6460.08,10094.78,UPI ID,Failed,Netflix,Delhi
+TXN01134,2023-03-07,2023,Mar,7,U169,Money Added,Bills,1286.99,35264.64,Bank Transfer,Failed,-,Kolkata
+TXN01135,2023-08-20,2023,Aug,20,U91,Money Added,Groceries,11773.58,45595.63,Wallet,Pending,-,Chennai
+TXN01136,2025-02-09,2025,Feb,9,U186,Money Added,Entertainment,1498.13,9940.57,QR Code,Success,-,Mumbai
+TXN01137,2024-01-06,2024,Jan,6,U118,Money Added,Bills,19759.2,33224.42,QR Code,Pending,-,Delhi
+TXN01138,2023-01-20,2023,Jan,20,U150,Money Sent,Entertainment,12488.92,39561.74,Mobile No,Failed,Netflix,Hyderabad
+TXN01139,2023-11-04,2023,Nov,4,U110,Money Spent,Entertainment,15346.75,24742.37,QR Code,Failed,Flipkart,Pune
+TXN01140,2023-04-03,2023,Apr,3,U111,Money Sent,Entertainment,1452.06,30658.4,Wallet,Failed,BigBasket,Bangalore
+TXN01141,2023-12-27,2023,Dec,27,U75,Money Added,Investment,171.62,34887.28,Wallet,Success,-,Chennai
+TXN01142,2023-09-24,2023,Sep,24,U136,Money Sent,Entertainment,17762.85,36911.4,Mobile No,Pending,Uber,Bangalore
+TXN01143,2023-11-30,2023,Nov,30,U116,Money Sent,Entertainment,14679.41,1379.22,Mobile No,Success,Swiggy,Mumbai
+TXN01144,2023-09-27,2023,Sep,27,U101,Money Added,Food,2013.82,1803.86,Bank Transfer,Success,-,Mumbai
+TXN01145,2023-12-25,2023,Dec,25,U29,Money Sent,Entertainment,4223.91,11736.69,Mobile No,Pending,IRCTC,Mumbai
+TXN01146,2024-01-27,2024,Jan,27,U111,Money Sent,Rent,5118.2,17310.94,Wallet,Pending,IRCTC,Pune
+TXN01147,2024-05-19,2024,May,19,U61,Money Spent,Rent,7231.87,19155.06,Bank Transfer,Success,Electricity Board,Chennai
+TXN01148,2024-03-21,2024,Mar,21,U175,Money Added,Groceries,686.18,2270.25,QR Code,Failed,-,Kolkata
+TXN01149,2023-07-05,2023,Jul,5,U198,Money Sent,Shopping,6717.58,46912.08,QR Code,Failed,Swiggy,Pune
+TXN01150,2023-07-09,2023,Jul,9,U119,Money Spent,Investment,14661.81,3338.89,Bank Transfer,Pending,Electricity Board,Delhi
+TXN01151,2024-01-14,2024,Jan,14,U96,Money Sent,Investment,2890.0,39079.92,Bank Transfer,Success,BigBasket,Kolkata
+TXN01152,2024-09-09,2024,Sep,9,U134,Money Sent,Travel,9689.79,19907.58,Bank Transfer,Failed,Uber,Mumbai
+TXN01153,2024-06-14,2024,Jun,14,U193,Money Added,Groceries,16674.47,35982.93,Wallet,Success,-,Hyderabad
+TXN01154,2023-02-02,2023,Feb,2,U150,Money Sent,Bills,6688.35,20646.23,Wallet,Failed,Netflix,Mumbai
+TXN01155,2023-06-06,2023,Jun,6,U40,Money Added,Rent,11886.25,45519.26,Wallet,Pending,-,Chennai
+TXN01156,2024-12-12,2024,Dec,12,U158,Money Spent,Groceries,19284.97,18476.66,Mobile No,Success,Netflix,Delhi
+TXN01157,2023-02-25,2023,Feb,25,U31,Money Sent,Food,10581.01,36309.84,Mobile No,Pending,Netflix,Pune
+TXN01158,2025-02-18,2025,Feb,18,U95,Money Spent,Food,19915.85,40735.05,QR Code,Failed,BigBasket,Chennai
+TXN01159,2023-03-29,2023,Mar,29,U146,Money Added,Rent,7773.98,43707.31,QR Code,Success,-,Delhi
+TXN01160,2024-11-30,2024,Nov,30,U187,Money Added,Investment,13471.15,7127.63,Bank Transfer,Success,-,Kolkata
+TXN01161,2024-09-24,2024,Sep,24,U99,Money Added,Investment,17844.91,43000.09,Bank Transfer,Pending,-,Hyderabad
+TXN01162,2023-09-10,2023,Sep,10,U1,Money Spent,Travel,17106.14,46334.67,Mobile No,Success,BigBasket,Delhi
+TXN01163,2023-02-22,2023,Feb,22,U47,Money Sent,Rent,5994.21,21608.24,Mobile No,Success,Amazon,Kolkata
+TXN01164,2023-03-25,2023,Mar,25,U66,Money Sent,Rent,14209.9,5017.99,Bank Transfer,Success,Uber,Kolkata
+TXN01165,2023-03-30,2023,Mar,30,U153,Money Added,Rent,10163.13,17182.28,QR Code,Failed,-,Bangalore
+TXN01166,2024-10-29,2024,Oct,29,U47,Money Spent,Groceries,19629.95,16652.55,Wallet,Success,Swiggy,Delhi
+TXN01167,2023-06-08,2023,Jun,8,U190,Money Added,Cashback,18495.29,14757.23,UPI ID,Success,-,Bangalore
+TXN01168,2024-11-28,2024,Nov,28,U118,Money Added,Shopping,3999.48,26410.9,UPI ID,Pending,-,Pune
+TXN01169,2023-06-25,2023,Jun,25,U97,Money Spent,Food,2653.62,47097.1,Bank Transfer,Pending,Netflix,Delhi
+TXN01170,2023-10-12,2023,Oct,12,U194,Money Spent,Travel,4047.56,35985.89,Mobile No,Pending,Netflix,Pune
+TXN01171,2025-01-02,2025,Jan,2,U152,Money Sent,Bills,16816.28,17356.62,QR Code,Failed,Electricity Board,Hyderabad
+TXN01172,2024-10-08,2024,Oct,8,U5,Money Spent,Entertainment,12292.4,7692.22,Bank Transfer,Success,Swiggy,Kolkata
+TXN01173,2023-04-20,2023,Apr,20,U26,Money Spent,Cashback,15414.15,2465.39,Mobile No,Failed,Netflix,Delhi
+TXN01174,2023-01-11,2023,Jan,11,U43,Money Sent,Entertainment,19317.44,20020.88,UPI ID,Pending,Zomato,Delhi
+TXN01175,2023-01-11,2023,Jan,11,U195,Money Spent,Investment,16591.23,31306.54,Wallet,Pending,Flipkart,Kolkata
+TXN01176,2024-01-15,2024,Jan,15,U125,Money Added,Bills,8310.16,48690.48,Wallet,Failed,-,Bangalore
+TXN01177,2024-07-16,2024,Jul,16,U116,Money Spent,Travel,5116.26,28246.38,QR Code,Pending,Amazon,Hyderabad
+TXN01178,2023-12-11,2023,Dec,11,U120,Money Sent,Entertainment,17860.54,34709.83,Wallet,Failed,Amazon,Delhi
+TXN01179,2023-09-18,2023,Sep,18,U187,Money Sent,Groceries,9545.11,38488.36,QR Code,Success,Netflix,Kolkata
+TXN01180,2024-03-06,2024,Mar,6,U53,Money Spent,Bills,14954.66,9160.52,Bank Transfer,Failed,Uber,Bangalore
+TXN01181,2024-07-12,2024,Jul,12,U121,Money Added,Entertainment,18512.91,27145.73,Wallet,Success,-,Mumbai
+TXN01182,2024-08-04,2024,Aug,4,U191,Money Spent,Entertainment,12978.69,46524.74,UPI ID,Failed,Swiggy,Chennai
+TXN01183,2023-08-06,2023,Aug,6,U77,Money Sent,Cashback,1555.29,9031.68,QR Code,Pending,Electricity Board,Delhi
+TXN01184,2024-04-21,2024,Apr,21,U175,Money Spent,Entertainment,19676.94,27237.12,Mobile No,Success,Swiggy,Pune
+TXN01185,2024-06-23,2024,Jun,23,U42,Money Added,Cashback,16134.39,36319.42,Mobile No,Failed,-,Bangalore
+TXN01186,2024-08-03,2024,Aug,3,U127,Money Sent,Cashback,7071.32,14621.34,Wallet,Pending,Uber,Delhi
+TXN01187,2024-02-08,2024,Feb,8,U107,Money Sent,Rent,19446.25,8897.29,Mobile No,Success,IRCTC,Chennai
+TXN01188,2025-02-03,2025,Feb,3,U51,Money Added,Rent,5700.85,37666.44,Wallet,Pending,-,Kolkata
+TXN01189,2024-01-21,2024,Jan,21,U180,Money Added,Food,11058.18,33636.76,UPI ID,Success,-,Pune
+TXN01190,2023-09-25,2023,Sep,25,U200,Money Added,Travel,1113.65,9618.43,UPI ID,Failed,-,Kolkata
+TXN01191,2023-06-30,2023,Jun,30,U188,Money Spent,Groceries,3274.93,16213.31,Mobile No,Pending,Flipkart,Delhi
+TXN01192,2024-12-27,2024,Dec,27,U26,Money Added,Entertainment,15470.06,22928.91,Mobile No,Pending,-,Kolkata
+TXN01193,2023-11-07,2023,Nov,7,U76,Money Added,Food,14983.55,20923.69,Mobile No,Success,-,Pune
+TXN01194,2025-01-30,2025,Jan,30,U54,Money Sent,Bills,7283.15,23466.75,Wallet,Failed,Uber,Pune
+TXN01195,2024-02-13,2024,Feb,13,U190,Money Spent,Shopping,17568.68,48178.83,UPI ID,Success,Netflix,Kolkata
+TXN01196,2024-10-15,2024,Oct,15,U71,Money Spent,Investment,9658.15,40427.96,UPI ID,Failed,Flipkart,Hyderabad
+TXN01197,2024-06-19,2024,Jun,19,U20,Money Sent,Groceries,9294.5,40007.87,QR Code,Success,Uber,Mumbai
+TXN01198,2025-01-28,2025,Jan,28,U59,Money Sent,Groceries,5703.24,34271.98,Mobile No,Success,Uber,Kolkata
+TXN01199,2025-01-05,2025,Jan,5,U51,Money Sent,Investment,6513.12,31193.35,QR Code,Failed,Netflix,Hyderabad
+TXN01200,2023-02-10,2023,Feb,10,U131,Money Spent,Investment,18940.63,22844.83,Mobile No,Failed,IRCTC,Bangalore
+TXN01201,2024-11-16,2024,Nov,16,U172,Money Added,Food,2304.86,10788.34,Mobile No,Pending,-,Hyderabad
+TXN01202,2023-04-04,2023,Apr,4,U135,Money Added,Investment,2558.91,48177.88,Mobile No,Pending,-,Mumbai
+TXN01203,2023-04-12,2023,Apr,12,U19,Money Spent,Groceries,17005.46,49231.61,Wallet,Success,Uber,Pune
+TXN01204,2025-01-04,2025,Jan,4,U82,Money Added,Food,16299.16,31874.08,Wallet,Success,-,Kolkata
+TXN01205,2024-04-16,2024,Apr,16,U61,Money Spent,Investment,5546.2,40125.47,QR Code,Success,IRCTC,Kolkata
+TXN01206,2024-02-05,2024,Feb,5,U170,Money Added,Groceries,5496.02,2216.38,Wallet,Pending,-,Kolkata
+TXN01207,2023-03-05,2023,Mar,5,U155,Money Sent,Shopping,1162.32,2098.21,UPI ID,Success,Swiggy,Hyderabad
+TXN01208,2023-07-02,2023,Jul,2,U117,Money Added,Rent,8873.8,15971.66,Bank Transfer,Success,-,Delhi
+TXN01209,2023-06-04,2023,Jun,4,U174,Money Added,Cashback,4557.13,22383.75,UPI ID,Success,-,Bangalore
+TXN01210,2024-09-02,2024,Sep,2,U173,Money Sent,Investment,17536.07,3590.76,QR Code,Pending,Swiggy,Mumbai
+TXN01211,2024-09-14,2024,Sep,14,U62,Money Added,Investment,19262.38,29479.74,UPI ID,Pending,-,Chennai
+TXN01212,2025-01-26,2025,Jan,26,U77,Money Added,Bills,11829.7,2651.2,UPI ID,Pending,-,Bangalore
+TXN01213,2023-12-15,2023,Dec,15,U45,Money Added,Cashback,10621.42,48010.82,Bank Transfer,Success,-,Delhi
+TXN01214,2024-12-12,2024,Dec,12,U85,Money Added,Cashback,18977.87,22947.5,Bank Transfer,Success,-,Mumbai
+TXN01215,2024-08-02,2024,Aug,2,U109,Money Sent,Investment,1955.2,48733.12,Wallet,Failed,Uber,Chennai
+TXN01216,2023-12-14,2023,Dec,14,U47,Money Sent,Entertainment,350.24,38203.37,Wallet,Success,Amazon,Mumbai
+TXN01217,2024-08-10,2024,Aug,10,U150,Money Sent,Rent,19464.2,17645.02,UPI ID,Pending,Amazon,Hyderabad
+TXN01218,2023-01-29,2023,Jan,29,U134,Money Spent,Groceries,3393.74,30451.47,Wallet,Pending,Netflix,Kolkata
+TXN01219,2023-09-14,2023,Sep,14,U181,Money Sent,Investment,17828.3,12250.76,Bank Transfer,Failed,Flipkart,Pune
+TXN01220,2025-01-10,2025,Jan,10,U195,Money Added,Entertainment,9168.42,1672.74,Wallet,Failed,-,Chennai
+TXN01221,2024-04-02,2024,Apr,2,U184,Money Sent,Bills,8581.88,24585.96,Mobile No,Success,Electricity Board,Bangalore
+TXN01222,2024-08-03,2024,Aug,3,U51,Money Sent,Food,3608.34,2022.43,Mobile No,Success,Uber,Bangalore
+TXN01223,2024-10-28,2024,Oct,28,U161,Money Spent,Travel,6066.27,31025.1,Bank Transfer,Pending,Electricity Board,Pune
+TXN01224,2024-04-17,2024,Apr,17,U87,Money Spent,Rent,18780.31,34251.23,UPI ID,Failed,Zomato,Pune
+TXN01225,2023-12-22,2023,Dec,22,U34,Money Added,Shopping,9538.43,21807.73,Bank Transfer,Failed,-,Mumbai
+TXN01226,2025-03-10,2025,Mar,10,U153,Money Added,Travel,11398.63,43970.74,Bank Transfer,Failed,-,Hyderabad
+TXN01227,2024-06-10,2024,Jun,10,U20,Money Spent,Cashback,11187.66,48177.4,QR Code,Success,Zomato,Mumbai
+TXN01228,2023-08-28,2023,Aug,28,U175,Money Spent,Investment,19650.52,2475.83,Mobile No,Success,Flipkart,Delhi
+TXN01229,2023-07-07,2023,Jul,7,U43,Money Sent,Bills,13127.65,4836.89,QR Code,Success,Uber,Kolkata
+TXN01230,2024-02-08,2024,Feb,8,U31,Money Added,Cashback,8646.9,35359.82,Bank Transfer,Failed,-,Chennai
+TXN01231,2024-04-04,2024,Apr,4,U62,Money Spent,Groceries,4831.89,47884.15,UPI ID,Success,IRCTC,Delhi
+TXN01232,2024-02-14,2024,Feb,14,U184,Money Added,Entertainment,18753.14,49377.97,UPI ID,Success,-,Kolkata
+TXN01233,2023-09-07,2023,Sep,7,U183,Money Sent,Food,4916.31,5278.08,Bank Transfer,Pending,Netflix,Chennai
+TXN01234,2025-02-05,2025,Feb,5,U52,Money Added,Cashback,9320.43,17544.95,QR Code,Success,-,Kolkata
+TXN01235,2024-07-24,2024,Jul,24,U65,Money Added,Groceries,16185.12,5314.43,UPI ID,Pending,-,Pune
+TXN01236,2024-04-22,2024,Apr,22,U111,Money Spent,Food,12889.89,17387.54,QR Code,Failed,Electricity Board,Hyderabad
+TXN01237,2023-02-02,2023,Feb,2,U133,Money Sent,Shopping,4484.26,23646.21,Mobile No,Failed,Electricity Board,Pune
+TXN01238,2025-03-11,2025,Mar,11,U182,Money Spent,Groceries,18993.81,16326.55,UPI ID,Success,Uber,Pune
+TXN01239,2023-12-10,2023,Dec,10,U167,Money Added,Food,17518.54,2637.25,UPI ID,Failed,-,Mumbai
+TXN01240,2024-09-16,2024,Sep,16,U108,Money Spent,Food,7276.23,44028.15,Wallet,Pending,Netflix,Bangalore
+TXN01241,2023-01-23,2023,Jan,23,U147,Money Sent,Entertainment,10268.96,48284.17,Bank Transfer,Failed,Swiggy,Mumbai
+TXN01242,2024-01-22,2024,Jan,22,U81,Money Sent,Rent,1025.66,41775.71,UPI ID,Pending,BigBasket,Hyderabad
+TXN01243,2023-09-18,2023,Sep,18,U96,Money Spent,Food,18466.12,7810.16,UPI ID,Failed,IRCTC,Delhi
+TXN01244,2024-03-19,2024,Mar,19,U116,Money Added,Bills,11626.99,3815.19,UPI ID,Success,-,Delhi
+TXN01245,2025-01-08,2025,Jan,8,U85,Money Sent,Travel,10553.54,48061.29,QR Code,Success,Electricity Board,Mumbai
+TXN01246,2023-10-04,2023,Oct,4,U84,Money Added,Groceries,17217.42,29097.93,Mobile No,Pending,-,Pune
+TXN01247,2024-10-02,2024,Oct,2,U88,Money Sent,Investment,4211.72,39031.16,QR Code,Pending,Swiggy,Hyderabad
+TXN01248,2023-09-07,2023,Sep,7,U45,Money Sent,Shopping,2899.12,15446.21,Wallet,Failed,Swiggy,Bangalore
+TXN01249,2023-06-09,2023,Jun,9,U135,Money Spent,Rent,8387.96,4147.03,Mobile No,Success,IRCTC,Pune
+TXN01250,2023-06-09,2023,Jun,9,U172,Money Added,Bills,10970.51,32528.21,Mobile No,Pending,-,Delhi
+TXN01251,2023-01-25,2023,Jan,25,U14,Money Spent,Cashback,12828.22,3466.73,UPI ID,Pending,Electricity Board,Mumbai
+TXN01252,2024-05-27,2024,May,27,U155,Money Added,Travel,12066.57,12006.77,QR Code,Success,-,Kolkata
+TXN01253,2024-03-08,2024,Mar,8,U178,Money Added,Groceries,18556.08,8237.16,Bank Transfer,Pending,-,Mumbai
+TXN01254,2023-10-11,2023,Oct,11,U60,Money Sent,Rent,9487.69,20126.76,Wallet,Pending,Zomato,Mumbai
+TXN01255,2023-01-11,2023,Jan,11,U12,Money Spent,Groceries,2829.31,4429.16,Mobile No,Pending,Amazon,Delhi
+TXN01256,2023-05-16,2023,May,16,U107,Money Sent,Cashback,17616.78,21797.36,QR Code,Pending,Netflix,Pune
+TXN01257,2023-02-23,2023,Feb,23,U95,Money Sent,Investment,4390.14,10446.82,Bank Transfer,Success,Swiggy,Kolkata
+TXN01258,2024-05-08,2024,May,8,U133,Money Spent,Rent,19078.49,20010.2,UPI ID,Failed,Zomato,Mumbai
+TXN01259,2025-02-01,2025,Feb,1,U116,Money Added,Groceries,18964.08,13978.4,QR Code,Success,-,Kolkata
+TXN01260,2023-09-03,2023,Sep,3,U169,Money Spent,Entertainment,6733.39,36279.72,Bank Transfer,Pending,Amazon,Kolkata
+TXN01261,2024-03-05,2024,Mar,5,U29,Money Spent,Food,2512.52,10587.26,Mobile No,Failed,Uber,Bangalore
+TXN01262,2023-07-07,2023,Jul,7,U19,Money Added,Travel,18421.06,7156.51,UPI ID,Pending,-,Kolkata
+TXN01263,2025-01-02,2025,Jan,2,U76,Money Added,Groceries,1792.61,18207.69,UPI ID,Pending,-,Chennai
+TXN01264,2024-01-23,2024,Jan,23,U3,Money Sent,Groceries,3698.79,42634.57,Wallet,Pending,Netflix,Hyderabad
+TXN01265,2023-06-18,2023,Jun,18,U83,Money Sent,Cashback,9906.27,25516.07,Mobile No,Failed,Uber,Kolkata
+TXN01266,2023-05-13,2023,May,13,U23,Money Added,Travel,425.12,22521.08,QR Code,Pending,-,Chennai
+TXN01267,2023-12-07,2023,Dec,7,U42,Money Added,Entertainment,7299.53,38393.24,Bank Transfer,Success,-,Mumbai
+TXN01268,2023-08-31,2023,Aug,31,U98,Money Spent,Cashback,17938.89,5395.61,QR Code,Failed,IRCTC,Bangalore
+TXN01269,2023-05-08,2023,May,8,U160,Money Spent,Cashback,7131.93,33885.67,UPI ID,Success,Zomato,Kolkata
+TXN01270,2023-03-11,2023,Mar,11,U120,Money Added,Entertainment,5177.99,41952.31,Mobile No,Pending,-,Kolkata
+TXN01271,2024-04-24,2024,Apr,24,U162,Money Spent,Groceries,3416.34,21567.28,Bank Transfer,Failed,BigBasket,Mumbai
+TXN01272,2023-05-29,2023,May,29,U187,Money Sent,Investment,13591.72,12412.83,Mobile No,Success,IRCTC,Chennai
+TXN01273,2023-04-16,2023,Apr,16,U6,Money Added,Rent,6366.62,19953.62,Mobile No,Pending,-,Hyderabad
+TXN01274,2024-02-19,2024,Feb,19,U112,Money Sent,Cashback,14513.55,34283.93,Mobile No,Pending,Amazon,Bangalore
+TXN01275,2024-08-12,2024,Aug,12,U169,Money Spent,Rent,8857.83,19285.94,QR Code,Success,Electricity Board,Hyderabad
+TXN01276,2023-01-26,2023,Jan,26,U32,Money Added,Rent,12175.73,24311.44,Mobile No,Failed,-,Pune
+TXN01277,2023-05-03,2023,May,3,U5,Money Sent,Shopping,6792.29,49954.4,Bank Transfer,Success,Amazon,Mumbai
+TXN01278,2023-03-25,2023,Mar,25,U68,Money Sent,Groceries,3486.95,2394.36,QR Code,Success,Zomato,Hyderabad
+TXN01279,2023-12-19,2023,Dec,19,U83,Money Spent,Cashback,18847.05,45168.14,QR Code,Pending,Swiggy,Pune
+TXN01280,2024-09-03,2024,Sep,3,U111,Money Added,Groceries,14578.07,41590.57,Mobile No,Pending,-,Mumbai
+TXN01281,2023-12-24,2023,Dec,24,U128,Money Added,Investment,7369.9,34696.99,UPI ID,Failed,-,Hyderabad
+TXN01282,2024-07-21,2024,Jul,21,U70,Money Added,Travel,4209.46,28633.59,Mobile No,Pending,-,Chennai
+TXN01283,2025-01-11,2025,Jan,11,U17,Money Spent,Bills,6479.49,964.07,QR Code,Success,IRCTC,Kolkata
+TXN01284,2023-12-18,2023,Dec,18,U164,Money Sent,Investment,16662.91,6092.62,QR Code,Success,Electricity Board,Bangalore
+TXN01285,2023-10-22,2023,Oct,22,U193,Money Spent,Travel,7488.72,19683.61,Wallet,Pending,Uber,Hyderabad
+TXN01286,2023-10-20,2023,Oct,20,U170,Money Sent,Cashback,11187.88,10884.83,QR Code,Failed,IRCTC,Chennai
+TXN01287,2024-06-16,2024,Jun,16,U30,Money Spent,Bills,19666.72,42455.53,QR Code,Failed,Zomato,Chennai
+TXN01288,2023-06-06,2023,Jun,6,U140,Money Sent,Shopping,19349.08,22630.0,Bank Transfer,Success,Zomato,Kolkata
+TXN01289,2023-12-02,2023,Dec,2,U42,Money Added,Food,5228.33,9801.45,UPI ID,Pending,-,Chennai
+TXN01290,2024-05-06,2024,May,6,U27,Money Sent,Entertainment,5946.6,13318.77,Mobile No,Success,IRCTC,Pune
+TXN01291,2023-04-14,2023,Apr,14,U166,Money Spent,Groceries,13672.97,590.66,Mobile No,Pending,BigBasket,Chennai
+TXN01292,2025-03-01,2025,Mar,1,U6,Money Sent,Entertainment,7830.87,31367.07,QR Code,Pending,IRCTC,Chennai
+TXN01293,2023-07-24,2023,Jul,24,U25,Money Spent,Shopping,7432.75,49475.05,Bank Transfer,Success,Swiggy,Chennai
+TXN01294,2024-12-11,2024,Dec,11,U70,Money Added,Travel,12819.51,27724.1,UPI ID,Failed,-,Chennai
+TXN01295,2023-03-01,2023,Mar,1,U169,Money Added,Entertainment,13292.6,28795.11,Mobile No,Pending,-,Bangalore
+TXN01296,2024-03-26,2024,Mar,26,U29,Money Added,Cashback,10111.16,49594.38,Wallet,Success,-,Mumbai
+TXN01297,2023-12-14,2023,Dec,14,U27,Money Sent,Rent,859.33,24074.78,UPI ID,Success,Amazon,Delhi
+TXN01298,2023-02-21,2023,Feb,21,U194,Money Sent,Shopping,2362.77,24211.76,Wallet,Success,Swiggy,Chennai
+TXN01299,2023-08-22,2023,Aug,22,U78,Money Spent,Bills,11034.09,13491.57,UPI ID,Success,Zomato,Hyderabad
+TXN01300,2023-10-06,2023,Oct,6,U117,Money Spent,Travel,16511.89,11691.87,Bank Transfer,Success,Uber,Pune
+TXN01301,2025-01-29,2025,Jan,29,U29,Money Spent,Shopping,12417.71,13514.86,Mobile No,Success,Netflix,Hyderabad
+TXN01302,2024-03-03,2024,Mar,3,U173,Money Sent,Rent,19280.61,23582.75,QR Code,Failed,Uber,Chennai
+TXN01303,2024-03-21,2024,Mar,21,U185,Money Added,Cashback,11265.81,26757.13,UPI ID,Success,-,Bangalore
+TXN01304,2024-02-13,2024,Feb,13,U163,Money Spent,Travel,3394.48,47660.21,QR Code,Success,Zomato,Delhi
+TXN01305,2024-02-08,2024,Feb,8,U94,Money Sent,Food,11580.92,39650.02,Mobile No,Success,Netflix,Chennai
+TXN01306,2024-05-25,2024,May,25,U6,Money Added,Investment,6639.53,23339.46,Bank Transfer,Success,-,Kolkata
+TXN01307,2024-10-31,2024,Oct,31,U149,Money Sent,Entertainment,13133.1,16711.24,Wallet,Failed,IRCTC,Delhi
+TXN01308,2023-08-14,2023,Aug,14,U54,Money Added,Shopping,14623.92,21654.36,Mobile No,Failed,-,Delhi
+TXN01309,2023-02-05,2023,Feb,5,U28,Money Added,Cashback,1654.17,30361.51,UPI ID,Pending,-,Hyderabad
+TXN01310,2023-01-09,2023,Jan,9,U166,Money Spent,Travel,1841.23,47002.54,Wallet,Success,Zomato,Hyderabad
+TXN01311,2023-12-29,2023,Dec,29,U18,Money Spent,Entertainment,8920.13,24637.13,QR Code,Pending,Uber,Delhi
+TXN01312,2025-02-23,2025,Feb,23,U93,Money Sent,Bills,14929.95,8967.39,QR Code,Success,Swiggy,Chennai
+TXN01313,2024-06-30,2024,Jun,30,U54,Money Spent,Rent,3377.12,30041.91,Bank Transfer,Pending,Zomato,Mumbai
+TXN01314,2024-10-07,2024,Oct,7,U48,Money Spent,Investment,15168.83,16217.42,UPI ID,Pending,Zomato,Hyderabad
+TXN01315,2024-01-08,2024,Jan,8,U185,Money Spent,Bills,13132.0,42236.24,Wallet,Success,Amazon,Delhi
+TXN01316,2024-09-30,2024,Sep,30,U192,Money Added,Food,15683.42,39484.61,QR Code,Pending,-,Delhi
+TXN01317,2023-08-22,2023,Aug,22,U158,Money Added,Shopping,14139.99,16918.16,Mobile No,Pending,-,Mumbai
+TXN01318,2023-06-08,2023,Jun,8,U118,Money Sent,Rent,2334.51,9018.03,Mobile No,Pending,Swiggy,Delhi
+TXN01319,2023-02-05,2023,Feb,5,U172,Money Added,Bills,2551.97,22375.8,QR Code,Failed,-,Chennai
+TXN01320,2023-12-30,2023,Dec,30,U122,Money Spent,Cashback,18107.25,40644.11,Bank Transfer,Pending,IRCTC,Hyderabad
+TXN01321,2024-06-20,2024,Jun,20,U72,Money Sent,Entertainment,13247.92,7129.74,Bank Transfer,Success,BigBasket,Kolkata
+TXN01322,2023-03-01,2023,Mar,1,U94,Money Spent,Rent,5398.7,20917.08,Bank Transfer,Success,Netflix,Bangalore
+TXN01323,2023-10-16,2023,Oct,16,U160,Money Sent,Investment,1776.4,42214.83,UPI ID,Pending,Zomato,Mumbai
+TXN01324,2024-11-23,2024,Nov,23,U114,Money Added,Cashback,19753.11,8465.94,QR Code,Pending,-,Bangalore
+TXN01325,2024-08-18,2024,Aug,18,U163,Money Added,Food,15591.25,29499.22,Bank Transfer,Failed,-,Bangalore
+TXN01326,2023-04-24,2023,Apr,24,U24,Money Spent,Rent,5008.78,35218.66,Bank Transfer,Failed,Flipkart,Hyderabad
+TXN01327,2024-08-05,2024,Aug,5,U74,Money Added,Food,17622.46,27988.14,Mobile No,Failed,-,Delhi
+TXN01328,2023-07-18,2023,Jul,18,U18,Money Spent,Investment,12543.97,5621.31,QR Code,Failed,Uber,Kolkata
+TXN01329,2023-07-30,2023,Jul,30,U59,Money Spent,Food,15801.49,4084.23,Wallet,Failed,Electricity Board,Kolkata
+TXN01330,2023-09-25,2023,Sep,25,U92,Money Spent,Rent,17723.05,47599.87,QR Code,Pending,IRCTC,Hyderabad
+TXN01331,2023-03-09,2023,Mar,9,U166,Money Spent,Cashback,19739.17,31709.82,QR Code,Pending,Uber,Bangalore
+TXN01332,2023-06-29,2023,Jun,29,U117,Money Added,Investment,13942.5,10641.95,Bank Transfer,Pending,-,Pune
+TXN01333,2023-03-19,2023,Mar,19,U154,Money Spent,Investment,14219.0,14771.31,Mobile No,Success,Swiggy,Hyderabad
+TXN01334,2024-01-20,2024,Jan,20,U91,Money Added,Cashback,17489.05,9544.28,QR Code,Pending,-,Mumbai
+TXN01335,2023-01-11,2023,Jan,11,U111,Money Added,Shopping,19717.19,7881.42,Bank Transfer,Pending,-,Chennai
+TXN01336,2023-12-28,2023,Dec,28,U164,Money Sent,Food,264.54,22747.94,Wallet,Success,Netflix,Delhi
+TXN01337,2023-10-13,2023,Oct,13,U6,Money Sent,Food,19128.44,20755.41,UPI ID,Pending,Flipkart,Kolkata
+TXN01338,2023-05-27,2023,May,27,U186,Money Added,Cashback,10081.64,25641.47,Bank Transfer,Pending,-,Bangalore
+TXN01339,2024-01-05,2024,Jan,5,U7,Money Sent,Rent,14797.13,2603.06,UPI ID,Failed,IRCTC,Pune
+TXN01340,2023-10-18,2023,Oct,18,U166,Money Added,Investment,16457.84,4522.42,Mobile No,Failed,-,Pune
+TXN01341,2023-09-09,2023,Sep,9,U131,Money Sent,Rent,7071.04,29278.48,Wallet,Pending,Netflix,Mumbai
+TXN01342,2023-07-30,2023,Jul,30,U136,Money Spent,Bills,4797.86,17651.1,UPI ID,Failed,Flipkart,Bangalore
+TXN01343,2023-07-13,2023,Jul,13,U151,Money Sent,Cashback,14137.89,34631.91,QR Code,Pending,Flipkart,Bangalore
+TXN01344,2025-02-14,2025,Feb,14,U132,Money Spent,Investment,19214.12,41053.21,Mobile No,Failed,Netflix,Hyderabad
+TXN01345,2024-01-22,2024,Jan,22,U107,Money Spent,Shopping,6854.3,13932.95,Mobile No,Failed,BigBasket,Hyderabad
+TXN01346,2024-03-30,2024,Mar,30,U64,Money Added,Food,734.11,17736.03,Mobile No,Success,-,Hyderabad
+TXN01347,2023-12-19,2023,Dec,19,U64,Money Spent,Groceries,19067.21,6619.74,Mobile No,Pending,Uber,Bangalore
+TXN01348,2025-01-26,2025,Jan,26,U168,Money Added,Investment,1986.48,16361.7,Bank Transfer,Pending,-,Delhi
+TXN01349,2023-03-15,2023,Mar,15,U45,Money Spent,Groceries,10726.05,36769.82,Wallet,Pending,Zomato,Mumbai
+TXN01350,2023-08-28,2023,Aug,28,U56,Money Spent,Investment,11926.13,6900.05,UPI ID,Pending,Swiggy,Hyderabad
+TXN01351,2023-11-15,2023,Nov,15,U129,Money Added,Investment,16892.19,40051.39,QR Code,Failed,-,Pune
+TXN01352,2023-12-18,2023,Dec,18,U4,Money Added,Travel,2581.15,29189.14,Mobile No,Pending,-,Bangalore
+TXN01353,2023-08-28,2023,Aug,28,U16,Money Added,Cashback,5053.64,15018.92,QR Code,Success,-,Kolkata
+TXN01354,2024-12-17,2024,Dec,17,U181,Money Spent,Rent,12113.66,38905.74,Mobile No,Success,Flipkart,Pune
+TXN01355,2023-03-09,2023,Mar,9,U77,Money Added,Rent,13036.66,45473.24,Mobile No,Failed,-,Mumbai
+TXN01356,2024-12-19,2024,Dec,19,U9,Money Added,Cashback,1943.66,5681.55,Wallet,Failed,-,Bangalore
+TXN01357,2023-12-15,2023,Dec,15,U63,Money Spent,Shopping,802.71,35738.54,QR Code,Failed,Zomato,Pune
+TXN01358,2023-06-03,2023,Jun,3,U105,Money Sent,Travel,1057.2,41336.39,QR Code,Failed,Flipkart,Chennai
+TXN01359,2023-01-08,2023,Jan,8,U35,Money Spent,Investment,7665.65,44446.96,QR Code,Pending,Swiggy,Delhi
+TXN01360,2024-12-19,2024,Dec,19,U9,Money Spent,Entertainment,2199.15,1232.31,Bank Transfer,Success,BigBasket,Bangalore
+TXN01361,2023-09-28,2023,Sep,28,U183,Money Spent,Travel,17720.89,49606.07,UPI ID,Success,Electricity Board,Bangalore
+TXN01362,2023-06-28,2023,Jun,28,U156,Money Spent,Travel,14260.84,32728.18,QR Code,Pending,Swiggy,Hyderabad
+TXN01363,2024-12-17,2024,Dec,17,U86,Money Spent,Rent,15969.72,41730.32,Bank Transfer,Pending,Electricity Board,Mumbai
+TXN01364,2024-11-07,2024,Nov,7,U178,Money Added,Groceries,16772.54,48253.97,Bank Transfer,Success,-,Bangalore
+TXN01365,2025-01-16,2025,Jan,16,U52,Money Spent,Cashback,1724.62,21643.46,UPI ID,Pending,IRCTC,Hyderabad
+TXN01366,2024-09-12,2024,Sep,12,U84,Money Added,Travel,18651.49,26307.91,Wallet,Success,-,Hyderabad
+TXN01367,2023-11-21,2023,Nov,21,U114,Money Added,Groceries,6124.11,27172.12,Bank Transfer,Failed,-,Pune
+TXN01368,2023-07-23,2023,Jul,23,U107,Money Spent,Groceries,8514.98,39389.4,Wallet,Pending,IRCTC,Pune
+TXN01369,2023-02-05,2023,Feb,5,U45,Money Spent,Food,12012.17,2341.21,Mobile No,Failed,Uber,Pune
+TXN01370,2023-05-29,2023,May,29,U177,Money Sent,Entertainment,18904.04,26741.06,Wallet,Pending,Flipkart,Delhi
+TXN01371,2024-04-12,2024,Apr,12,U11,Money Sent,Food,8458.22,28231.08,Mobile No,Failed,IRCTC,Mumbai
+TXN01372,2024-06-07,2024,Jun,7,U11,Money Added,Shopping,6266.8,36789.74,Wallet,Success,-,Chennai
+TXN01373,2025-03-09,2025,Mar,9,U47,Money Added,Bills,17913.85,30852.29,QR Code,Failed,-,Bangalore
+TXN01374,2023-08-23,2023,Aug,23,U75,Money Spent,Entertainment,12572.5,36917.22,UPI ID,Pending,Flipkart,Bangalore
+TXN01375,2023-09-08,2023,Sep,8,U162,Money Sent,Bills,17591.02,49817.87,QR Code,Failed,Uber,Chennai
+TXN01376,2023-02-20,2023,Feb,20,U147,Money Spent,Entertainment,9922.29,37063.94,UPI ID,Pending,Uber,Hyderabad
+TXN01377,2024-10-07,2024,Oct,7,U167,Money Added,Travel,5253.46,38769.89,Wallet,Success,-,Hyderabad
+TXN01378,2023-05-21,2023,May,21,U76,Money Sent,Groceries,6039.37,46517.31,Mobile No,Success,Amazon,Delhi
+TXN01379,2024-02-11,2024,Feb,11,U92,Money Spent,Shopping,12956.09,33075.16,Bank Transfer,Pending,IRCTC,Delhi
+TXN01380,2023-06-24,2023,Jun,24,U84,Money Added,Investment,12531.78,23447.23,Bank Transfer,Success,-,Kolkata
+TXN01381,2023-06-10,2023,Jun,10,U148,Money Added,Bills,564.36,31098.95,Wallet,Pending,-,Bangalore
+TXN01382,2023-06-25,2023,Jun,25,U128,Money Sent,Food,9687.21,38044.43,UPI ID,Success,Flipkart,Pune
+TXN01383,2023-09-16,2023,Sep,16,U31,Money Sent,Cashback,340.09,38206.53,Mobile No,Success,BigBasket,Kolkata
+TXN01384,2023-09-08,2023,Sep,8,U169,Money Sent,Travel,448.38,21128.63,Mobile No,Success,Swiggy,Mumbai
+TXN01385,2024-06-14,2024,Jun,14,U154,Money Spent,Food,19142.9,44205.19,Mobile No,Pending,Flipkart,Kolkata
+TXN01386,2023-07-26,2023,Jul,26,U146,Money Added,Bills,1900.27,12664.81,UPI ID,Failed,-,Chennai
+TXN01387,2023-08-26,2023,Aug,26,U33,Money Sent,Bills,12825.63,29221.77,Wallet,Success,BigBasket,Bangalore
+TXN01388,2024-07-25,2024,Jul,25,U152,Money Sent,Travel,13327.84,10226.53,Bank Transfer,Pending,IRCTC,Pune
+TXN01389,2023-06-26,2023,Jun,26,U21,Money Spent,Rent,284.5,25644.98,Mobile No,Pending,Electricity Board,Kolkata
+TXN01390,2023-12-19,2023,Dec,19,U190,Money Added,Food,3335.8,46825.14,Bank Transfer,Failed,-,Kolkata
+TXN01391,2025-01-04,2025,Jan,4,U160,Money Spent,Entertainment,2584.54,19607.45,Mobile No,Pending,Netflix,Chennai
+TXN01392,2023-11-25,2023,Nov,25,U193,Money Added,Shopping,13998.77,17011.23,QR Code,Success,-,Delhi
+TXN01393,2023-12-20,2023,Dec,20,U184,Money Spent,Bills,15798.26,7619.73,Wallet,Pending,Swiggy,Pune
+TXN01394,2023-11-04,2023,Nov,4,U89,Money Spent,Rent,3879.68,31941.2,Wallet,Pending,Uber,Kolkata
+TXN01395,2024-11-13,2024,Nov,13,U182,Money Sent,Investment,15894.32,21701.21,Wallet,Failed,Zomato,Delhi
+TXN01396,2024-03-12,2024,Mar,12,U128,Money Spent,Bills,14058.11,43607.27,UPI ID,Failed,BigBasket,Delhi
+TXN01397,2023-08-29,2023,Aug,29,U170,Money Sent,Shopping,16646.81,13488.78,Bank Transfer,Failed,BigBasket,Pune
+TXN01398,2023-04-07,2023,Apr,7,U158,Money Spent,Investment,13787.05,9304.87,Mobile No,Pending,Netflix,Mumbai
+TXN01399,2023-10-22,2023,Oct,22,U111,Money Spent,Food,5288.01,44867.7,Mobile No,Failed,Netflix,Hyderabad
+TXN01400,2024-05-30,2024,May,30,U65,Money Sent,Groceries,1589.69,12587.23,Wallet,Pending,Zomato,Delhi
+TXN01401,2024-08-26,2024,Aug,26,U130,Money Spent,Rent,13483.7,7934.37,Wallet,Success,Electricity Board,Bangalore
+TXN01402,2023-03-28,2023,Mar,28,U103,Money Sent,Cashback,10036.27,22261.41,QR Code,Pending,IRCTC,Hyderabad
+TXN01403,2024-07-16,2024,Jul,16,U182,Money Sent,Groceries,123.07,25863.0,Wallet,Success,Amazon,Chennai
+TXN01404,2025-01-30,2025,Jan,30,U174,Money Sent,Bills,993.27,45715.83,UPI ID,Success,Amazon,Chennai
+TXN01405,2024-06-03,2024,Jun,3,U45,Money Added,Shopping,9347.81,28687.32,UPI ID,Failed,-,Pune
+TXN01406,2023-03-31,2023,Mar,31,U47,Money Added,Bills,16360.08,31794.12,Mobile No,Pending,-,Kolkata
+TXN01407,2024-05-28,2024,May,28,U192,Money Sent,Investment,9227.21,36448.44,Mobile No,Failed,Electricity Board,Chennai
+TXN01408,2023-12-24,2023,Dec,24,U12,Money Spent,Travel,8674.03,30353.22,Wallet,Failed,Flipkart,Chennai
+TXN01409,2023-09-13,2023,Sep,13,U179,Money Sent,Cashback,14902.11,19107.08,UPI ID,Pending,Zomato,Mumbai
+TXN01410,2023-01-06,2023,Jan,6,U99,Money Sent,Travel,16403.78,10920.87,Bank Transfer,Failed,Electricity Board,Kolkata
+TXN01411,2023-09-08,2023,Sep,8,U103,Money Added,Investment,6774.27,24176.16,Wallet,Success,-,Pune
+TXN01412,2023-10-18,2023,Oct,18,U21,Money Added,Entertainment,1726.0,9503.83,Bank Transfer,Pending,-,Chennai
+TXN01413,2023-12-25,2023,Dec,25,U125,Money Sent,Investment,2077.49,6670.63,QR Code,Success,Uber,Pune
+TXN01414,2023-08-15,2023,Aug,15,U85,Money Spent,Cashback,5183.68,20415.69,QR Code,Success,BigBasket,Chennai
+TXN01415,2024-10-22,2024,Oct,22,U22,Money Added,Rent,12872.21,46610.65,UPI ID,Success,-,Kolkata
+TXN01416,2024-04-11,2024,Apr,11,U43,Money Added,Cashback,13495.15,22310.62,Bank Transfer,Success,-,Kolkata
+TXN01417,2023-05-02,2023,May,2,U115,Money Sent,Shopping,15076.52,21666.64,Bank Transfer,Success,Flipkart,Delhi
+TXN01418,2023-12-14,2023,Dec,14,U83,Money Spent,Food,3323.2,10963.97,Mobile No,Success,Flipkart,Kolkata
+TXN01419,2023-05-08,2023,May,8,U24,Money Added,Shopping,16371.36,19955.78,Bank Transfer,Pending,-,Delhi
+TXN01420,2024-06-09,2024,Jun,9,U72,Money Sent,Bills,292.05,23146.76,UPI ID,Failed,Uber,Chennai
+TXN01421,2023-11-10,2023,Nov,10,U158,Money Added,Entertainment,5744.23,10358.01,Bank Transfer,Pending,-,Delhi
+TXN01422,2024-06-06,2024,Jun,6,U157,Money Sent,Investment,248.87,40174.47,Bank Transfer,Failed,IRCTC,Chennai
+TXN01423,2024-10-02,2024,Oct,2,U100,Money Spent,Investment,17117.33,2810.5,QR Code,Failed,BigBasket,Mumbai
+TXN01424,2024-11-10,2024,Nov,10,U174,Money Added,Shopping,4766.91,11601.14,UPI ID,Pending,-,Bangalore
+TXN01425,2023-03-07,2023,Mar,7,U17,Money Added,Travel,6108.3,34698.18,Wallet,Pending,-,Delhi
+TXN01426,2023-09-29,2023,Sep,29,U26,Money Added,Bills,6717.31,28637.07,UPI ID,Pending,-,Chennai
+TXN01427,2025-01-06,2025,Jan,6,U55,Money Sent,Travel,18579.63,11318.38,UPI ID,Pending,Swiggy,Hyderabad
+TXN01428,2024-10-11,2024,Oct,11,U74,Money Added,Groceries,19619.5,44425.47,Bank Transfer,Success,-,Chennai
+TXN01429,2023-03-04,2023,Mar,4,U128,Money Added,Cashback,3000.46,23213.4,QR Code,Pending,-,Bangalore
+TXN01430,2025-03-07,2025,Mar,7,U161,Money Spent,Cashback,8806.4,39096.5,Mobile No,Failed,Zomato,Delhi
+TXN01431,2023-03-16,2023,Mar,16,U18,Money Spent,Food,17241.26,22623.28,UPI ID,Pending,Zomato,Pune
+TXN01432,2023-06-17,2023,Jun,17,U99,Money Sent,Rent,12708.75,47894.65,Mobile No,Failed,IRCTC,Hyderabad
+TXN01433,2024-08-04,2024,Aug,4,U63,Money Added,Groceries,10909.12,1926.44,Bank Transfer,Success,-,Hyderabad
+TXN01434,2023-10-08,2023,Oct,8,U59,Money Spent,Groceries,7383.36,29827.08,Bank Transfer,Failed,IRCTC,Delhi
+TXN01435,2024-10-29,2024,Oct,29,U180,Money Spent,Entertainment,4694.91,27666.67,Bank Transfer,Pending,Zomato,Pune
+TXN01436,2023-12-13,2023,Dec,13,U70,Money Sent,Shopping,2640.12,12939.9,QR Code,Pending,Zomato,Mumbai
+TXN01437,2023-11-14,2023,Nov,14,U172,Money Spent,Shopping,19347.43,26406.05,QR Code,Failed,Swiggy,Bangalore
+TXN01438,2024-11-07,2024,Nov,7,U20,Money Spent,Groceries,13507.56,1172.66,UPI ID,Success,BigBasket,Pune
+TXN01439,2023-03-21,2023,Mar,21,U95,Money Sent,Travel,13804.26,34420.29,QR Code,Pending,Uber,Chennai
+TXN01440,2024-03-13,2024,Mar,13,U177,Money Added,Shopping,19536.47,44821.19,Wallet,Pending,-,Hyderabad
+TXN01441,2023-11-17,2023,Nov,17,U71,Money Spent,Travel,3298.14,32599.98,Mobile No,Success,IRCTC,Pune
+TXN01442,2023-11-19,2023,Nov,19,U55,Money Sent,Bills,19470.61,30167.12,QR Code,Pending,Netflix,Chennai
+TXN01443,2023-05-21,2023,May,21,U63,Money Sent,Food,3076.15,31063.3,Mobile No,Success,Uber,Delhi
+TXN01444,2024-06-08,2024,Jun,8,U38,Money Spent,Investment,6145.54,25457.32,Mobile No,Success,Electricity Board,Bangalore
+TXN01445,2024-08-10,2024,Aug,10,U129,Money Sent,Travel,13333.22,20945.21,UPI ID,Success,Electricity Board,Delhi
+TXN01446,2024-02-26,2024,Feb,26,U158,Money Added,Groceries,19238.69,47689.59,QR Code,Success,-,Bangalore
+TXN01447,2024-06-30,2024,Jun,30,U45,Money Spent,Groceries,17726.21,2249.53,UPI ID,Failed,Zomato,Bangalore
+TXN01448,2023-08-17,2023,Aug,17,U24,Money Sent,Shopping,16556.26,15915.53,Mobile No,Pending,Amazon,Pune
+TXN01449,2023-04-08,2023,Apr,8,U174,Money Spent,Investment,15444.48,2185.54,Mobile No,Success,BigBasket,Mumbai
+TXN01450,2023-12-17,2023,Dec,17,U190,Money Added,Groceries,8947.43,36584.01,Wallet,Failed,-,Delhi
+TXN01451,2024-02-07,2024,Feb,7,U110,Money Spent,Groceries,1302.99,36197.52,Mobile No,Failed,Flipkart,Chennai
+TXN01452,2024-07-18,2024,Jul,18,U104,Money Spent,Travel,8860.74,25319.59,UPI ID,Success,Electricity Board,Delhi
+TXN01453,2025-03-07,2025,Mar,7,U182,Money Added,Cashback,19996.34,46023.36,Mobile No,Failed,-,Hyderabad
+TXN01454,2024-01-03,2024,Jan,3,U114,Money Spent,Entertainment,5586.02,21621.14,Mobile No,Pending,Uber,Mumbai
+TXN01455,2023-12-29,2023,Dec,29,U7,Money Spent,Rent,3357.15,42882.56,Bank Transfer,Failed,Zomato,Pune
+TXN01456,2025-01-09,2025,Jan,9,U136,Money Added,Food,5240.63,8986.3,QR Code,Success,-,Delhi
+TXN01457,2023-01-25,2023,Jan,25,U169,Money Added,Rent,4181.37,11089.24,Bank Transfer,Failed,-,Hyderabad
+TXN01458,2024-04-30,2024,Apr,30,U182,Money Sent,Groceries,3855.0,43652.7,UPI ID,Pending,Zomato,Mumbai
+TXN01459,2024-12-27,2024,Dec,27,U34,Money Added,Rent,6204.19,40929.76,Bank Transfer,Success,-,Bangalore
+TXN01460,2023-05-26,2023,May,26,U130,Money Spent,Shopping,6295.31,34567.38,Bank Transfer,Success,Zomato,Delhi
+TXN01461,2024-12-03,2024,Dec,3,U149,Money Added,Investment,8516.12,45719.95,UPI ID,Success,-,Hyderabad
+TXN01462,2024-12-23,2024,Dec,23,U120,Money Spent,Travel,10168.03,47441.24,Mobile No,Success,Electricity Board,Pune
+TXN01463,2023-08-31,2023,Aug,31,U93,Money Spent,Rent,3216.09,33038.43,Mobile No,Success,Netflix,Mumbai
+TXN01464,2023-07-20,2023,Jul,20,U125,Money Sent,Groceries,6474.28,35438.39,Mobile No,Failed,BigBasket,Delhi
+TXN01465,2023-02-02,2023,Feb,2,U34,Money Added,Investment,11445.54,46462.82,Wallet,Failed,-,Kolkata
+TXN01466,2023-05-09,2023,May,9,U33,Money Added,Entertainment,1128.34,925.36,UPI ID,Failed,-,Chennai
+TXN01467,2024-09-18,2024,Sep,18,U162,Money Added,Shopping,537.19,2364.69,UPI ID,Pending,-,Bangalore
+TXN01468,2025-02-03,2025,Feb,3,U166,Money Sent,Food,15318.96,1150.41,QR Code,Success,Zomato,Chennai
+TXN01469,2023-06-04,2023,Jun,4,U79,Money Sent,Food,8540.51,21899.4,Wallet,Failed,Flipkart,Pune
+TXN01470,2024-12-07,2024,Dec,7,U50,Money Sent,Entertainment,16008.8,1888.88,UPI ID,Pending,Uber,Kolkata
+TXN01471,2023-09-01,2023,Sep,1,U21,Money Sent,Groceries,16220.9,34725.94,Wallet,Pending,Netflix,Kolkata
+TXN01472,2024-11-29,2024,Nov,29,U43,Money Spent,Entertainment,12877.78,27554.27,Mobile No,Failed,Zomato,Delhi
+TXN01473,2024-07-31,2024,Jul,31,U22,Money Sent,Investment,320.54,20026.83,QR Code,Success,BigBasket,Pune
+TXN01474,2024-03-14,2024,Mar,14,U24,Money Added,Cashback,310.07,16480.04,UPI ID,Failed,-,Hyderabad
+TXN01475,2024-08-13,2024,Aug,13,U21,Money Sent,Rent,4021.56,6514.54,Wallet,Success,IRCTC,Kolkata
+TXN01476,2024-05-27,2024,May,27,U128,Money Spent,Rent,8911.44,18477.99,Bank Transfer,Success,Electricity Board,Bangalore
+TXN01477,2024-01-11,2024,Jan,11,U63,Money Added,Cashback,2812.53,40566.14,QR Code,Success,-,Mumbai
+TXN01478,2025-03-02,2025,Mar,2,U66,Money Sent,Shopping,9034.48,16937.52,Bank Transfer,Pending,Swiggy,Kolkata
+TXN01479,2024-05-24,2024,May,24,U147,Money Sent,Investment,5397.8,23311.03,UPI ID,Failed,Netflix,Delhi
+TXN01480,2023-01-10,2023,Jan,10,U63,Money Spent,Investment,15901.45,36768.54,QR Code,Success,Netflix,Hyderabad
+TXN01481,2023-04-11,2023,Apr,11,U59,Money Spent,Shopping,9832.87,22237.84,QR Code,Failed,Swiggy,Hyderabad
+TXN01482,2025-01-02,2025,Jan,2,U173,Money Sent,Cashback,4271.96,25798.36,UPI ID,Failed,Amazon,Chennai
+TXN01483,2024-11-12,2024,Nov,12,U100,Money Added,Cashback,7585.43,47463.53,UPI ID,Failed,-,Mumbai
+TXN01484,2023-06-19,2023,Jun,19,U56,Money Spent,Shopping,14211.57,21856.61,Mobile No,Failed,IRCTC,Delhi
+TXN01485,2024-12-22,2024,Dec,22,U92,Money Sent,Rent,18586.17,24983.62,Wallet,Pending,Swiggy,Bangalore
+TXN01486,2023-03-02,2023,Mar,2,U70,Money Spent,Rent,9643.44,34175.63,UPI ID,Pending,Flipkart,Mumbai
+TXN01487,2025-02-23,2025,Feb,23,U124,Money Sent,Groceries,1425.16,17144.76,UPI ID,Failed,Zomato,Kolkata
+TXN01488,2023-08-21,2023,Aug,21,U103,Money Spent,Cashback,15253.92,17823.71,Mobile No,Success,Electricity Board,Pune
+TXN01489,2025-02-15,2025,Feb,15,U179,Money Spent,Investment,17547.46,11212.54,UPI ID,Success,Amazon,Chennai
+TXN01490,2024-02-23,2024,Feb,23,U182,Money Spent,Cashback,17808.58,22486.83,QR Code,Success,Flipkart,Hyderabad
+TXN01491,2024-04-21,2024,Apr,21,U128,Money Added,Groceries,14369.55,24246.24,Mobile No,Success,-,Kolkata
+TXN01492,2025-03-07,2025,Mar,7,U116,Money Sent,Rent,19707.0,37135.16,Wallet,Pending,Uber,Kolkata
+TXN01493,2024-09-28,2024,Sep,28,U136,Money Added,Entertainment,14522.35,32831.8,QR Code,Failed,-,Kolkata
+TXN01494,2023-02-24,2023,Feb,24,U32,Money Spent,Travel,10625.89,38692.27,QR Code,Failed,Zomato,Kolkata
+TXN01495,2023-11-07,2023,Nov,7,U36,Money Sent,Cashback,19906.81,39259.66,QR Code,Failed,Flipkart,Kolkata
+TXN01496,2024-10-10,2024,Oct,10,U76,Money Added,Shopping,9590.15,7544.89,Wallet,Failed,-,Bangalore
+TXN01497,2024-03-30,2024,Mar,30,U14,Money Sent,Shopping,18685.85,2066.58,Bank Transfer,Success,Netflix,Delhi
+TXN01498,2023-01-06,2023,Jan,6,U60,Money Sent,Groceries,8519.55,33470.8,QR Code,Success,BigBasket,Bangalore
+TXN01499,2025-02-15,2025,Feb,15,U20,Money Sent,Food,7840.35,37235.88,Bank Transfer,Failed,Flipkart,Pune
+TXN01500,2024-01-01,2024,Jan,1,U52,Money Sent,Rent,14861.69,38782.1,Bank Transfer,Pending,Swiggy,Pune
