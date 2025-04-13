@@ -85,15 +85,6 @@ The dataset includes realistic, simulated UPI transaction records categorized by
 
 ---
 
-## 🙋‍♂️ Author
-
-**[Your Name]**  
-B.Tech CSE (AI & DS) | 3rd Year  
-Email: [YourEmail@example.com]  
-LinkedIn: [Your LinkedIn]  
-GitHub: [Your GitHub Profile]
-
----
 
 ## ⭐️ Give it a Star!
 
