@@ -45,7 +45,8 @@ To track and visualize UPI transactions for better financial understanding and s
 
 ## 📊 Sample Visuals
 
-> 📷 Add screenshots here if needed (optional)
+### 🔹 Page 1: Overall Info
+![Dashboard Page 1](screenshots/Dashboard-Page1.png)
 
 ---
 
