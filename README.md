@@ -46,7 +46,11 @@ To track and visualize UPI transactions for better financial understanding and s
 ## 📊 Sample Visuals
 
 ### 🔹 Page 1: Overall Info
-![Dashboard Page 1](screenshots/Dashboard-Page1.png)
+![Image](https://github.com/user-attachments/assets/a214807d-6177-41fd-b945-fd580ddd8512)
+
+![Image](https://github.com/user-attachments/assets/eed632c7-5163-4948-afee-03daaadcf8e1)
+
+![Image](https://github.com/user-attachments/assets/9b120890-1326-46f2-a4df-f0fb997c72fc)
 
 ---
 
