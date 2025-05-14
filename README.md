@@ -92,8 +92,6 @@ The dataset includes realistic, simulated UPI transaction records categorized by
 
 ---
 
-
-## ⭐️ Give it a Star!
-
-If you found this useful, feel free to ⭐ the repository and share it with others interested in personal finance analytics!
+## Author
+**Ritesh Jillewad**
 
